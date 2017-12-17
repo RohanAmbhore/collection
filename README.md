@@ -6,6 +6,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### 2017-12-17 
 - [iPad eBook format overview of the .epub file - YouTube](https://www.youtube.com/watch?v=vvGrFZdSDww) 
+- [Universal Print – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-print/) 
 ### 2017-12-10 
 - [Raspberry Pi (RetroPie) users: Where to find reliable ROMs | TigerDroppings.com](https://www.tigerdroppings.com/rant/gaming/raspberry-pi-retropie-users-where-to-find-reliable-roms/67754503/) 
 ### 2017-10-09 
