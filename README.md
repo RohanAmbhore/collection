@@ -7,6 +7,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2017-12-17 
 - [iPad eBook format overview of the .epub file - YouTube](https://www.youtube.com/watch?v=vvGrFZdSDww) 
 - [Universal Print – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-print/) 
+- [How To Combine PDF Files in Mac OS X Using Automator To Make A Service](http://www.documentsnap.com/how-to-combine-pdf-files-in-mac-osx-using-automator-to-make-a-service/) 
 ### 2017-12-10 
 - [Raspberry Pi (RetroPie) users: Where to find reliable ROMs | TigerDroppings.com](https://www.tigerdroppings.com/rant/gaming/raspberry-pi-retropie-users-where-to-find-reliable-roms/67754503/) 
 ### 2017-10-09 
