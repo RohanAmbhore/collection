@@ -9,6 +9,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Universal Print – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-print/) 
 - [How To Combine PDF Files in Mac OS X Using Automator To Make A Service](http://www.documentsnap.com/how-to-combine-pdf-files-in-mac-osx-using-automator-to-make-a-service/) 
 - [Free Dummies Books Download | PDFDrive](https://www.pdfdrive.net/dummies-books.html) 
+- [For Dummies Series (273 books)](https://www.goodreads.com/list/show/2683.For_Dummies_Series) 
 ### 2017-12-10 
 - [Raspberry Pi (RetroPie) users: Where to find reliable ROMs | TigerDroppings.com](https://www.tigerdroppings.com/rant/gaming/raspberry-pi-retropie-users-where-to-find-reliable-roms/67754503/) 
 ### 2017-10-09 
