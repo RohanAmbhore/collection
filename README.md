@@ -3,6 +3,10 @@
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
 
+
+### 2017-12-18 
+- [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.org/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd) [[Read]](2017_is_the_year_that_front_end_developers_should_go_back_and_master_the_basics_2017_12_18_22_5_41.md)
+ > 2017 is the year that front-end developers should go back and master the basics<img>In our fast-paced ecosystem, we tend to spend our time trying out the latest inventions, then arguing about them on the internet.I’m not saying we shouldn’t do that. But we should probably slow down a bit and take a look at the things that don’t change all that much. Not only wi...
 ### 2017-12-17 
 - [iPad eBook format overview of the .epub file - YouTube](https://www.youtube.com/watch?v=vvGrFZdSDww) 
 - [Universal Print – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-print/) 
