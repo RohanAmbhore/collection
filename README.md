@@ -1,13 +1,8 @@
-- [sanitize-filename](https://www.npmjs.com/package/sanitize-filename) [[Read]](_a_href_package_sanitize_filename_target_blank_sanitize_filename_a_2017_12_18_22_26_9.md)
- > sanitize-filename sanitize-filename Sanitize a string to be safe for use as a filename by removing directory paths and invalid characters. Install npm: sanitize-filename npm install sanitize-filename Example var sanitize = require("sanitize-filename"); // Some string that may be unsafe or invalid as a filename var UNSAFE_USER_INPUT = "~/.\u0000ssh/authorized_keys"; // Sanitize the string to be safe for use as a filename. var filename = sanitize(UNSAFE_USER_INPUT);// -> "~.sshauthorized_keys" Det...
 
 # today-i-liked 
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
 
-
-
-### 2017-12-18 
 ### 2017-12-17 
 - [iPad eBook format overview of the .epub file - YouTube](https://www.youtube.com/watch?v=vvGrFZdSDww) 
 - [Universal Print – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-print/) 
