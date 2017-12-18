@@ -4,6 +4,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2017-12-18 
+- [FIX: Sorry, this application cannot run under a Virtual Machine - YouTube](https://www.youtube.com/watch?v=uzC_J1TmhO4) 
 ### 2017-12-17 
 - [iPad eBook format overview of the .epub file - YouTube](https://www.youtube.com/watch?v=vvGrFZdSDww) 
 - [Universal Print – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-print/) 
