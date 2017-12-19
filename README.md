@@ -3,6 +3,10 @@
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
 
+
+### 2017-12-19 
+- [MySQL :: MySQL Workbench Manual :: 6.5 Data Export and Import](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import.html) [[Read]](6_5_data_export_and_import_2017_12_19_13_37_11.md)
+ > MySQL Workbench Manual / Administrative Tasks / Data Export and Import 6.5 Data Export and Import [+/-] 6.5.1 Table Data Export and Import Wizard 6.5.2 SQL Data Export and Import Wizard 6.5.3 Result Data Export and Import There are three ways to export and import data in MySQL Workbench, each serving a different purpose. Table 6.1 Methods to Export or Import data in MySQL Workbench GUI Location Data Set Export Types Import Types Additional Details Object Browser context menu Tables JSON, CSV JSO...
 ### 2017-12-18 
 - [sanitize-filename](https://www.npmjs.com/package/sanitize-filename) [[Read]](_a_href_package_sanitize_filename_target_blank_sanitize_filename_a_2017_12_18_22_34_2.md)
  > sanitize-filename sanitize-filename Sanitize a string to be safe for use as a filename by removing directory paths and invalid characters. Install npm: sanitize-filename npm install sanitize-filename Example var sanitize = require("sanitize-filename"); // Some string that may be unsafe or invalid as a filename var UNSAFE_USER_INPUT = "~/.\u0000ssh/authorized_keys"; // Sanitize the string to be safe for use as a filename. var filename = sanitize(UNSAFE_USER_INPUT);// -> "~.sshauthorized_keys" Det...
