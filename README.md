@@ -4,6 +4,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2017-12-20 
+- [JavaScript Design Patterns - YouTube](https://www.youtube.com/playlist?list=PLrzrNeNx3kNHsaPfrpPo0AlW-MhJE6gOA) [[Read]](javascript_design_patterns_2017_12_20_10_30_50.md)
+ > 我们一直在努力开发新版 YouTube，现在您可获享更加出色的体验。立即试用。...
 ### 2017-12-19 
 - [MySQL :: MySQL Workbench Manual :: 6.5 Data Export and Import](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import.html) [[Read]](6_5_data_export_and_import_2017_12_19_13_37_11.md)
  > MySQL Workbench Manual / Administrative Tasks / Data Export and Import 6.5 Data Export and Import [+/-] 6.5.1 Table Data Export and Import Wizard 6.5.2 SQL Data Export and Import Wizard 6.5.3 Result Data Export and Import There are three ways to export and import data in MySQL Workbench, each serving a different purpose. Table 6.1 Methods to Export or Import data in MySQL Workbench GUI Location Data Set Export Types Import Types Additional Details Object Browser context menu Tables JSON, CSV JSO...
