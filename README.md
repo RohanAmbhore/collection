@@ -9,6 +9,10 @@ TODO:
 
 
 
+
+### 2017-12-21 
+- [10 weeks of node.js after 10 years of PHP – Unexpected Token – Medium](https://medium.com/unexpected-token/10-weeks-of-node-js-after-10-years-of-php-a352042c0c11) [[Read]](10_weeks_of_node_js_after_10_years_of_php_2017_12_21_9_30_53.md)
+ > <img>illustration by Adrien Griveau10 weeks of node.js after 10 years of PHPA couple of months ago I started a new startup project at eFounders startup studio. I had been developing web applications using PHP for 10 years. I felt it was finally time to change my habits and to choose a more modern approach for developing them. I ditched PHP and started playing wi...
 ### 2017-12-20 
 - [JavaScript Design Patterns - YouTube](https://www.youtube.com/playlist?list=PLrzrNeNx3kNHsaPfrpPo0AlW-MhJE6gOA) [[Read]](javascript_design_patterns_2017_12_20_10_30_50.md)
  > 我们一直在努力开发新版 YouTube，现在您可获享更加出色的体验。立即试用。...
