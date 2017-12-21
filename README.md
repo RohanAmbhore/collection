@@ -10,6 +10,10 @@ TODO:
 
 
 
+
+### 2017-12-22 
+- [Funding Yourself As A Free Software Developer](https://tyil.nl/articles/funding-yourself-as-free-software-developer.html) [[Read]](funding_yourself_as_a_free_software_developer_2017_12_22_0_56_16.md)
+ > BountySource Requires 3rd-party Cloudflare-hosted JavaScript sources to function. BountySource lets people donate money towards an issue on Github your projects. Once an issue gets fixed, you can claim the "bounty" that was on this issue. This can also help in making clear which issue you should aim for next, and can increase interest in contributors for your project. There’s also BountySource Salt, which is a recurring donation platform. Projects or teams can use this to gain monthly income to ...
 ### 2017-12-21 
 - [10 weeks of node.js after 10 years of PHP – Unexpected Token – Medium](https://medium.com/unexpected-token/10-weeks-of-node-js-after-10-years-of-php-a352042c0c11) [[Read]](10_weeks_of_node_js_after_10_years_of_php_2017_12_21_9_30_53.md)
  > <img>illustration by Adrien Griveau10 weeks of node.js after 10 years of PHPA couple of months ago I started a new startup project at eFounders startup studio. I had been developing web applications using PHP for 10 years. I felt it was finally time to change my habits and to choose a more modern approach for developing them. I ditched PHP and started playing wi...
