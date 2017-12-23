@@ -11,6 +11,10 @@ TODO:
 
 
 
+
+### 2017-12-23 
+- [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) [[Read]](css_grid_is_a_revolution_and_will_become_a_must_have_skill_for_front_end_developers_2017_12_23_16_42_8.md)
+ > CSS Grid is a revolution and will become a must-have skill for front-end developers This new CSS module makes it easier than ever to create website layouts. It simplifies both your HTML and CSS, while simultaneously giving you more control over your layout. You can use it without any framework, as the CSS Grid module is native to the browser. Course content This course contains three sections. The first two will teach you the core concepts you need to know to get started. Together, we’ll build b...
 ### 2017-12-22 
 - [Funding Yourself As A Free Software Developer](https://tyil.nl/articles/funding-yourself-as-free-software-developer.html) [[Read]](funding_yourself_as_a_free_software_developer_2017_12_22_0_56_16.md)
  > BountySource Requires 3rd-party Cloudflare-hosted JavaScript sources to function. BountySource lets people donate money towards an issue on Github your projects. Once an issue gets fixed, you can claim the "bounty" that was on this issue. This can also help in making clear which issue you should aim for next, and can increase interest in contributors for your project. There’s also BountySource Salt, which is a recurring donation platform. Projects or teams can use this to gain monthly income to ...
