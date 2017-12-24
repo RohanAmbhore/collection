@@ -12,6 +12,10 @@ TODO:
 
 
 
+
+### 2017-12-24 
+- [Scrimba](https://scrimba.com/) [[Read]](interactive_coding_screencasts_2017_12_24_8_42_31.md)
+ > interactive coding screencaststhe easiest way to teach and learn codeRead more Staff picksThe latest and greatest from our community!tutorialindex.jsindex.html 1 // like a number line 2 // 0---1---2---3 3 var roomsArray = ["Girl's room", "John's room", "Master bedroom"]; 4 5 // for(;;) loop 6 for (let position = 0; position < roomsArray.length; position = position + 1) { 7 let room = roomsArray[position] 8 if (room !== "John's room") { 9 //console.log(room) 10 } 11 } 12 13 // "for of" loop 14 fo...
 ### 2017-12-23 
 - [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) [[Read]](css_grid_is_a_revolution_and_will_become_a_must_have_skill_for_front_end_developers_2017_12_23_16_42_8.md)
  > CSS Grid is a revolution and will become a must-have skill for front-end developers This new CSS module makes it easier than ever to create website layouts. It simplifies both your HTML and CSS, while simultaneously giving you more control over your layout. You can use it without any framework, as the CSS Grid module is native to the browser. Course content This course contains three sections. The first two will teach you the core concepts you need to know to get started. Together, we’ll build b...
