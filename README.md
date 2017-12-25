@@ -8,6 +8,10 @@ TODO:
 
 
 
+
+### 2017-12-25 
+- [Quick Start](http://mongodb.github.io/node-mongodb-native/3.0/quick-start/quick-start/) [[Read]](pages/quick_start_2017_12_25_15_21_59.md)
+ > Survey Please help us improve by answering a few questions at our user survey. Quick Start Quick Start This guide will show you how to set up a simple application using Node.js and MongoDB. Its scope is only how to set up the driver and perform the simple CRUD operations. For more in-depth coverage, see the tutorials. Create the package.json file First, create a directory where your application will live. mkdir myproject cd myproject Enter the following command and answer the questions to create...
 ### 2017-12-24 
 - [Scrimba](https://scrimba.com/) [[Read]](pages/interactive_coding_screencasts_2017_12_24_9_8_2.md)
  > interactive coding screencaststhe easiest way to teach and learn codeRead more Staff picksThe latest and greatest from our community!tutorialindex.jsindex.html 1 // like a number line 2 // 0---1---2---3 3 var roomsArray = ["Girl's room", "John's room", "Master bedroom"]; 4 5 // for(;;) loop 6 for (let position = 0; position < roomsArray.length; position = position + 1) { 7 let room = roomsArray[position] 8 if (room !== "John's room") { 9 //console.log(room) 10 } 11 } 12 13 // "for of" loop 14 fo...
