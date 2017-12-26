@@ -11,8 +11,7 @@ TODO:
 
 
 ### 2017-12-26 
-- [Promise-Based Coroutines in Node.js](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/) [[Read]](pages/promise_based_coroutines_in_node_js_2017_12_26_9_50_8.md)
- > Promise-Based Coroutines in Node.js Dec 27 ’15 · programming Node.js JavaScript Ever since the dawn of Node.js, Node developers have complained about Callback Hell. Various solutions have been proposed with various degrees of success. Generators is an exciting prospect because it finally allows us to write async code in a straight-line fashion. Although generators is not yet available on all browsers, you can make it work using the Babel compiler. It is getting more adoption in Node because the ...
+
 - [Promise-Based Coroutines in Node.js](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/) [[Read]](pages/promise_based_coroutines_in_node_js_2017_12_26_9_53_5.md)
  > Promise-Based Coroutines in Node.js Dec 27 ’15 · programming Node.js JavaScript Ever since the dawn of Node.js, Node developers have complained about Callback Hell. Various solutions have been proposed with various degrees of success. Generators is an exciting prospect because it finally allows us to write async code in a straight-line fashion. Although generators is not yet available on all browsers, you can make it work using the Babel compiler. It is getting more adoption in Node because the ...
 ### 2017-12-25 
