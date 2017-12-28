@@ -11,6 +11,10 @@ TODO:
 
 
 
+
+### 2017-12-28 
+- [python - Extract info from mobi - Stack Overflow](https://stackoverflow.com/questions/35486307/extract-info-from-mobi) [[Read]](pages/python_extract_info_from_mobi_stack_overflow_2017_12_28_9_11_40.md)
+ > I am creating simple app for ebooks handling. Extracting info from epub files is piece of cake, there are plenty of packages for getting info about author of book, title, cover, description etc. But how to extract this informations from mobi files? Any suggestions?...
 ### 2017-12-27 
 - [LevelUpTuts - YouTube](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) [[Read]](pages/leveluptuts_youtube_2017_12_27_12_2_15.md)
  > 我们一直在努力开发新版 YouTube，现在您可获享更加出色的体验。立即试用。...
