@@ -165,3 +165,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 29, 2017 
 - [Home · tmux/tmux Wiki](https://github.com/tmux/tmux/wiki) 
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
