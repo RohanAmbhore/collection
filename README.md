@@ -12,6 +12,10 @@ TODO:
 
 
 
+
+### 2017-12-29 
+- [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) [[Read]](pages/effective_engineer_md_2017_12_29_9_34_36.md)
+ > Effective Engineer - Notes By Edmond Lau Highly Recommended 👍 http://www.theeffectiveengineer.com/ What's an Effective Engineer? They are the people who get things done. Effective Engineers produce results. Adopt the Right Mindsets Focus on High Leverage Activities Leverage = Impact Produced / Time Invested Use Leverage as Your Yardstick for Effectiveness 80% of the impact comes from 20% of the work. Focus on high leverage and not just easy wins. Optimize for Learning Change jobs if you have to...
 ### 2017-12-28 
 - [python - Extract info from mobi - Stack Overflow](https://stackoverflow.com/questions/35486307/extract-info-from-mobi) [[Read]](pages/python_extract_info_from_mobi_stack_overflow_2017_12_28_9_11_40.md)
  > I am creating simple app for ebooks handling. Extracting info from epub files is piece of cake, there are plenty of packages for getting info about author of book, title, cover, description etc. But how to extract this informations from mobi files? Any suggestions?...
