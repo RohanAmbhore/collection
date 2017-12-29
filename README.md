@@ -2,16 +2,6 @@
 # today-i-liked 
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
-TODO: 
-- 按照域名分类，同时保留日期
-- 存储json格式在github
-
-
-
-
-
-
-
 
 ### 2017-12-29 
 - [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) [[Read]](pages/effective_engineer_md_2017_12_29_9_34_36.md)
