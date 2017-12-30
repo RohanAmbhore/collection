@@ -3,6 +3,10 @@
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
 
+
+### 2017-12-30 
+- [JavaScript is almost pythonic](https://dev.to/massa142/javascript-is-almost-pythonic-3f8?utm_source=mybridge&utm_medium=web&utm_campaign=read_more) [[Read]](pages/javascript_is_almost_pythonic_2017_12_30_10_20_16.md)
+ > JavaScript is almost pythonic Masataka Arai Dec 05, 2017 Updated on Dec 12, 2017 #python #javascript Multi-line String Python3.6 print("""string text line 1 string text line 2""") ES2017 console.log(`string text line 1 string text line 2`) Expression Interpolation Python3.6 a = 5 b = 10 print(f'Fifteen is {a + b} and not {2 * a + b}.') ES2017 var a = 5 var b = 10 console.log(`Fifteen is ${a + b} and not ${2 * a + b}.`) Arrow function Python3.6 numbers = [1, 2, 3, 4] list(map(lambda x: x * 2, num...
 ### 2017-12-29 
 - [Unchecked runtime.lastError while running tabs.insertCSS: Failed to load file: · Issue #2 · diffsky/chromedotfiles](https://github.com/diffsky/chromedotfiles/issues/2) [[Read]](pages/unchecked_runtime_lasterror_while_running_tabs_insertcss_failed_to_load_file_issue_2_diffsky_chromedotfiles_2017_12_29_11_26_26.md)
  > New issue Unchecked runtime.lastError while running tabs.insertCSS: Failed to load file: #2 Closed lancejpollard opened this Issue on Mar 22, 2015 · 1 comment Comments Assignees No one assigned Labels None yet Projects None yet Milestone No milestone Notifications Subscribe You’re not receiving notifications from this thread. 1 participant Pick your reaction 👍 👎 😄 🎉 😕 ❤️ lancejpollard commented on Mar 22, 2015 Adding console.log to background.js, when going to create this issue it says: // ...
