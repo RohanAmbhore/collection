@@ -4,6 +4,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2017-12-31 
+- [chord.pdf](http://nms.lcs.mit.edu/papers/chord.pdf) [[Read]](pages/chord_pdf_2017_12_31_1_55_24.md)
+ > Like On Github*Title (label for the link)*Comment (commit message)Saving...Cancel...
 ### 2017-12-30 
 - [JavaScript is almost pythonic](https://dev.to/massa142/javascript-is-almost-pythonic-3f8?utm_source=mybridge&utm_medium=web&utm_campaign=read_more) [[Read]](pages/javascript_is_almost_pythonic_2017_12_30_10_20_16.md)
  > JavaScript is almost pythonic Masataka Arai Dec 05, 2017 Updated on Dec 12, 2017 #python #javascript Multi-line String Python3.6 print("""string text line 1 string text line 2""") ES2017 console.log(`string text line 1 string text line 2`) Expression Interpolation Python3.6 a = 5 b = 10 print(f'Fifteen is {a + b} and not {2 * a + b}.') ES2017 var a = 5 var b = 10 console.log(`Fifteen is ${a + b} and not ${2 * a + b}.`) Arrow function Python3.6 numbers = [1, 2, 3, 4] list(map(lambda x: x * 2, num...
