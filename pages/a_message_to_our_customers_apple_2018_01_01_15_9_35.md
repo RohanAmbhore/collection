@@ -1,0 +1,26 @@
+<a href="https://www.apple.com/iphone-battery-and-performance/">https://www.apple.com/iphone-battery-and-performance/</a><div id="articleHeader"><h1>A Message to Our Customers about iPhone Batteries and Performance</h1></div>
+					<p>We’ve been hearing feedback from our customers about the way we handle performance for iPhones with older batteries and how we have communicated that process. We know that some of you feel Apple has let you down. We apologize. There’s been a lot of misunderstanding about this issue, so we would like to clarify and let you know about some changes we’re making.</p>
+					<p>First and foremost, we have never — and would never — do anything to intentionally shorten the life of any Apple product, or degrade the user experience to drive customer upgrades. Our goal has always been to create products that our customers love, and making iPhones last as long as possible is an important part of that.</p>
+					<h3>How batteries age</h3>
+					<p>All rechargeable batteries are consumable components that become less effective as they chemically age and their ability to hold a charge diminishes. Time and the number of times a battery has been charged are not the only factors in this chemical aging process.</p>
+					<p>Device use also affects the performance of a battery over its lifespan. For example, leaving or charging a battery in a hot environment can cause a battery to age faster. These are characteristics of battery chemistry, common to lithium-ion batteries across the industry.</p>
+					<p>A chemically aged battery also becomes less capable of delivering peak energy loads, especially in a low state of charge, which may result in a device unexpectedly shutting itself down in some situations.</p>
+					<p>To help customers learn more about iPhone’s rechargeable battery and the factors affecting its performance, we’ve posted a new support article, <a href="https://support.apple.com/HT208387" target="_blank">iPhone Battery and Performance</a>.</p>
+					<p>It should go without saying that we think sudden, unexpected shutdowns are unacceptable. We don’t want any of our users to lose a call, miss taking a picture or have any other part of their iPhone experience interrupted if we can avoid it.</p>
+					<h3>Preventing unexpected shutdowns</h3>
+					<p>About a year ago in iOS 10.2.1, we delivered a software update that improves power management during peak workloads to avoid unexpected shutdowns on iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, and iPhone SE. With the update, iOS dynamically manages the maximum performance of some system components when needed to prevent a shutdown. While these changes may go unnoticed, in some cases users may experience longer launch times for apps and other reductions in performance.</p>
+					<p>Customer response to iOS 10.2.1 was positive, as it successfully reduced the occurrence of unexpected shutdowns. We recently extended the same support for iPhone 7 and iPhone 7 Plus in iOS 11.2.</p>
+					<p>Of course, when a chemically aged battery is replaced with a new one, iPhone performance returns to normal when operated in standard conditions.</p>
+					<h3>Recent user feedback</h3>
+					<p>Over the course of this fall, we began to receive feedback from some users who were seeing slower performance in certain situations. Based on our experience, we initially thought this was due to a combination of two factors: a normal, temporary performance impact when upgrading the operating system as iPhone installs new software and updates apps, and minor bugs in the initial release which have since been fixed.</p>
+					<p>We now believe that another contributor to these user experiences is the continued chemical aging of the batteries in older iPhone 6 and iPhone 6s devices, many of which are still running on their original batteries.</p>
+					<h3>Addressing customer concerns</h3>
+					<p>We’ve always wanted our customers to be able to use their iPhones as long as possible. We’re proud that Apple products are known for their durability, and for holding their value longer than our competitors’ devices.</p>
+					<p>To address our customers’ concerns, to recognize their loyalty and to regain the trust of anyone who may have doubted Apple’s intentions, we’ve decided to take the following steps:</p>
+					<ul>
+						<li>Apple is reducing the price of an out-of-warranty iPhone battery replacement by $50 — from $79 to $29 — for anyone with an iPhone 6 or later whose battery needs to be replaced, available worldwide through December 2018. Details will be provided soon on <a href="/" target="_blank">apple.com</a>.</li>
+						<li>Early in 2018, we will issue an iOS software update with new features that give users more visibility into the health of their iPhone’s battery, so they can see for themselves if its condition is affecting performance.</li>
+						<li>As always, our team is working on ways to make the user experience even better, including improving how we manage performance and avoid unexpected shutdowns as batteries age.</li>
+					</ul>
+					<p>At Apple, our customers’ trust means everything to us. We will never stop working to earn and maintain it. We are able to do the work we love only because of your faith and support — and we will never forget that or take it for granted.</p>
+				
