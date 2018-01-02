@@ -6,6 +6,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-02 
+- [An Introduction to jQuery's Deferred Objects — SitePoint](https://www.sitepoint.com/introduction-jquery-deferred-objects/) [[Read]](pages/an_introduction_to_jquery_s_deferred_objects_sitepoint_2018_01_02_11_15_50.md)
+ > JavaScript - March 16, 2016 - By Aurelio De Rosa An Introduction to jQuery’s Deferred Objects Related Topics: Node.jsES6jQuerynpmRaw JavaScriptMore... bsa_targeting.push([ "tags", [ ["ajax","async functions","Deferred Object","jamesh","jQuery deferred","jQuery3","Promise Object","Promises"] ] ]); ga('SitePointPlugin:observeImpressions', 'maestro-659') For a long time, JavaScript developers have used callback functions to perform several tasks. A very common example is to add a callback via the a...
 ### 2018-01-01 
 - [branch - How to fetch all git branches? - Stack Overflow](https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches) [[Read]](pages/branch_how_to_fetch_all_git_branches_stack_overflow_2018_01_01_10_37_23.md)
  > up vote 757 down vote favorite 266 I cloned a git repository, which contains about 5 branches. However, when I do git branch I only see one of them: $ git branch * master I know that I can do git branch -a to see all the branches, but how would I pull all the branches locally so when I do git branch, it shows: $ git branch * master * staging * etc... git branch git-branch share|edit|flag edited Nov 20 '17 at 12:01 peterh 5,023153858 asked Apr 25 '12 at 9:05 David542 26.3k71207380 1 upvote flag A...
