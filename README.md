@@ -7,6 +7,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-04 
+- [True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo - YouTube](https://www.youtube.com/watch?v=-Y7PLaxXUrs) [[Read]](pages/true_artificial_intelligence_will_change_everything_juergen_schmidhuber_tedxlakecomo_youtube_2018_01_04_16_2_59.md)
+ > True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo TEDx Talks 正在加载... 退订TEDx Talks？ 取消 退订 进行中... 订阅已订阅退订1,000万 正在加载... 正在加载... 进行中... 添加到 分享 展开 举报 解说词 统计信息 添加翻译 76,806次观看 1,497 1,498 86 87 正在加载... 正在加载... 解说词 无法加载互动式解说词。 正在加载... 正在加载... 租借该视频后可以对其进行评分。 此功能目前不可用，请稍后重试。 2017年11月21日发布Artificial Intelligence Scientist. Scientific Director of the Swiss AI Lab, IDSIA, DTI, SUPSI; Prof. of AI, Faculty of Informatics, USI, Lugano; Co-founder & Chief Scientist, NNAIS...
 ### 2018-01-02 
 - [An Introduction to jQuery's Deferred Objects — SitePoint](https://www.sitepoint.com/introduction-jquery-deferred-objects/) [[Read]](pages/an_introduction_to_jquery_s_deferred_objects_sitepoint_2018_01_02_11_15_50.md)
  > JavaScript - March 16, 2016 - By Aurelio De Rosa An Introduction to jQuery’s Deferred Objects Related Topics: Node.jsES6jQuerynpmRaw JavaScriptMore... bsa_targeting.push([ "tags", [ ["ajax","async functions","Deferred Object","jamesh","jQuery deferred","jQuery3","Promise Object","Promises"] ] ]); ga('SitePointPlugin:observeImpressions', 'maestro-659') For a long time, JavaScript developers have used callback functions to perform several tasks. A very common example is to add a callback via the a...
