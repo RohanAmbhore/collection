@@ -9,6 +9,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-06 
+- [All products | Books to Scrape - Sandbox](http://books.toscrape.com/) [[Read]](pages/all_products_books_to_scrape_sandbox_2018_01_06_0_16_9.md)
+ > All products 1000 results - showing 1 to 20. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning....
 ### 2018-01-05 
 - [Why everything might have taken so long | Meteuphoric](https://meteuphoric.wordpress.com/2017/12/31/16417/) [[Read]](pages/why_everything_might_have_taken_so_long_meteuphoric_2018_01_05_10_35_11.md)
  > Why everything might have taken so long Posted on December 31, 2017 | 25 Comments .entry-meta I asked why humanity took so long to do anything at the start, and the Internet gave me its thoughts. Here is my expanded list of hypotheses, summarizing from comments on the post, here, and here. Inventing is harder than it looks Inventions are usually more ingenious than they seem. Relatedly, reality has a lot of detail. There are lots of apparent paths: without hindsight, you have to waste a lot of t...
