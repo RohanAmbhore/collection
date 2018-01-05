@@ -8,6 +8,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-05 
+- [Why everything might have taken so long | Meteuphoric](https://meteuphoric.wordpress.com/2017/12/31/16417/) [[Read]](pages/why_everything_might_have_taken_so_long_meteuphoric_2018_01_05_10_35_11.md)
+ > Why everything might have taken so long Posted on December 31, 2017 | 25 Comments .entry-meta I asked why humanity took so long to do anything at the start, and the Internet gave me its thoughts. Here is my expanded list of hypotheses, summarizing from comments on the post, here, and here. Inventing is harder than it looks Inventions are usually more ingenious than they seem. Relatedly, reality has a lot of detail. There are lots of apparent paths: without hindsight, you have to waste a lot of t...
 ### 2018-01-04 
 - [True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo - YouTube](https://www.youtube.com/watch?v=-Y7PLaxXUrs) [[Read]](pages/true_artificial_intelligence_will_change_everything_juergen_schmidhuber_tedxlakecomo_youtube_2018_01_04_16_2_59.md)
  > True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo TEDx Talks 正在加载... 退订TEDx Talks？ 取消 退订 进行中... 订阅已订阅退订1,000万 正在加载... 正在加载... 进行中... 添加到 分享 展开 举报 解说词 统计信息 添加翻译 76,806次观看 1,497 1,498 86 87 正在加载... 正在加载... 解说词 无法加载互动式解说词。 正在加载... 正在加载... 租借该视频后可以对其进行评分。 此功能目前不可用，请稍后重试。 2017年11月21日发布Artificial Intelligence Scientist. Scientific Director of the Swiss AI Lab, IDSIA, DTI, SUPSI; Prof. of AI, Faculty of Informatics, USI, Lugano; Co-founder & Chief Scientist, NNAIS...
