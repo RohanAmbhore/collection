@@ -10,6 +10,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-07 
+- [MongoDB: update every document on one field - Stack Overflow](https://stackoverflow.com/questions/9038547/mongodb-update-every-document-on-one-field) [[Read]](pages/mongodb_update_every_document_on_one_field_stack_overflow_2018_01_07_9_54_42.md)
+ > up vote 118 down vote favorite 28 I have a collected named foo hypothetically. Each instance of foo has a field called lastLookedAt which is a UNIX timestamp since epoch. I'd like to be able to go through the MongoDB client and set that timestamp for all existing documents (about 20,000 of them) to the current timestamp. What's the best way of handling this? mongodb share|edit|flag asked Jan 27 '12 at 18:55 randombits 8,73449167320 upvote flag Possible duplicate of MongoDB: How to update multipl...
 ### 2018-01-06 
 - [All products | Books to Scrape - Sandbox](http://books.toscrape.com/) [[Read]](pages/all_products_books_to_scrape_sandbox_2018_01_06_0_16_9.md)
  > All products 1000 results - showing 1 to 20. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning....
