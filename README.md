@@ -11,6 +11,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-08 
+- [Ten Things I Wish I’d Known About bash – zwischenzugs](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/) [[Read]](pages/ten_things_i_wish_i_d_known_about_bash_zwischenzugs_2018_01_08_10_9_3.md)
+ > Ten Things I Wish I’d Known About bash .entry-header Intro Recently I wanted to deepen my understanding of bash by researching as much of it as possible. Because I felt bash is an often-used (and under-understood) technology, I ended up writing a book on it. You don’t have to look hard on the internet to find plenty of useful one-liners in bash, or scripts. And there are guides to bash that seem somewhat intimidating through either their thoroughness or their focus on esoteric detail. Here I’ve ...
 ### 2018-01-07 
 - [MongoDB: update every document on one field - Stack Overflow](https://stackoverflow.com/questions/9038547/mongodb-update-every-document-on-one-field) [[Read]](pages/mongodb_update_every_document_on_one_field_stack_overflow_2018_01_07_9_54_42.md)
  > up vote 118 down vote favorite 28 I have a collected named foo hypothetically. Each instance of foo has a field called lastLookedAt which is a UNIX timestamp since epoch. I'd like to be able to go through the MongoDB client and set that timestamp for all existing documents (about 20,000 of them) to the current timestamp. What's the best way of handling this? mongodb share|edit|flag asked Jan 27 '12 at 18:55 randombits 8,73449167320 upvote flag Possible duplicate of MongoDB: How to update multipl...
