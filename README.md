@@ -12,6 +12,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-09 
+- [Mental models](http://www.defmacro.org/2016/12/22/models.html) [[Read]](pages/mental_models_2018_01_09_15_2_18.md)
+ > Mental models Dec 22, 2016 These are some mental models I find useful. They’re rooted in decades of experience of thousands of experts – a modern equivalent of folk wisdom. Mental models are useful to quickly and correctly reason about seemingly intractable problems. They require quite a bit of intuition to properly internalize, but once you’ve internalized them they’re relatively easy to apply. They’re also easy to forget in the moment – use this post as a checklist when thinking about complex ...
 ### 2018-01-08 
 - [Ten Things I Wish I’d Known About bash – zwischenzugs](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/) [[Read]](pages/ten_things_i_wish_i_d_known_about_bash_zwischenzugs_2018_01_08_10_9_3.md)
  > Ten Things I Wish I’d Known About bash .entry-header Intro Recently I wanted to deepen my understanding of bash by researching as much of it as possible. Because I felt bash is an often-used (and under-understood) technology, I ended up writing a book on it. You don’t have to look hard on the internet to find plenty of useful one-liners in bash, or scripts. And there are guides to bash that seem somewhat intimidating through either their thoroughness or their focus on esoteric detail. Here I’ve ...
