@@ -14,6 +14,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-11 
+- [mongodb - Too many open files while ensure index mongo - Stack Overflow](https://stackoverflow.com/questions/20931909/too-many-open-files-while-ensure-index-mongo) [[Read]](pages/mongodb_too_many_open_files_while_ensure_index_mongo_stack_overflow_2018_01_11_19_59_26.md)
+ > up vote 3 down vote favorite 2 I would like to create text index on mongo collection. I write db.test1.ensureIndex({'text':'text'}) and then i saw in mongod process Sun Jan 5 10:08:47.289 [conn1] build index library.test1 { _fts: "text", _ftsx: 1 } Sun Jan 5 10:09:00.220 [conn1] Index: (1/3) External Sort Progress: 200/980 20% Sun Jan 5 10:09:13.603 [conn1] Index: (1/3) External Sort Progress: 400/980 40% Sun Jan 5 10:09:26.745 [conn1] Index: (1/3) External Sort Progress: 600/980 61% Sun Jan 5 1...
 ### 2018-01-10 
 - [javascript - Find all text nodes in HTML page - Stack Overflow](https://stackoverflow.com/questions/10730309/find-all-text-nodes-in-html-page) [[Read]](pages/javascript_find_all_text_nodes_in_html_page_stack_overflow_2018_01_10_15_56_34.md)
  > up vote 26 down vote favorite 17 Possible Duplicate: getElementsByTagName() equivalent for textNodes For this question I needed to find all text nodes under a particular node. I can do this like so: function textNodesUnder(root){ var textNodes = []; addTextNodes(root); [].forEach.call(root.querySelectorAll('*'),addTextNodes); return textNodes; function addTextNodes(el){ textNodes = textNodes.concat( [].filter.call(el.childNodes,function(k){ return k.nodeType==Node.TEXT_NODE; }) ); } } However, t...
