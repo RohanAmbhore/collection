@@ -17,6 +17,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-15 
+- [How does ElasticSearch make money? ElasticSearch is a complex piece of software, and it's open-sourced. Where does the author find the time or money to work on it? - Quora](https://www.quora.com/How-does-ElasticSearch-make-money-ElasticSearch-is-a-complex-piece-of-software-and-its-open-sourced-Where-does-the-author-find-the-time-or-money-to-work-on-it) [[Read]](pages/how_does_elasticsearch_make_money_elasticsearch_is_a_complex_piece_of_software_and_it_s_open_sourced_where_does_the_author_find_the_time_or_money_to_work_on_it_quora_2018_01_15_11_8_46.md)
+ > Shay, the creator of Elasticsearch, is hardly alone anymore. After raising a total of about $35 million from the investment community, some of the leading devs in the field have joined the firm. I've noticed that many of the top contributors to Solr, in fact, now work for Elasticsearch. This tells you something about the directions of those projects.But, to answer your question, the company makes money by selling professional support contracts to large enterprises. These would be similar contrac...
 ### 2018-01-13 
 - [optimization - How to remove duplicates based on a key in Mongodb? - Stack Overflow](https://stackoverflow.com/questions/13190370/how-to-remove-duplicates-based-on-a-key-in-mongodb) [[Read]](pages/optimization_how_to_remove_duplicates_based_on_a_key_in_mongodb_stack_overflow_2018_01_13_23_30_46.md)
  > up vote 31 down vote favorite 19 I have a collection in MongoDB where there are around (~3 million records). My sample record would look like, { "_id" = ObjectId("50731xxxxxxxxxxxxxxxxxxxx"), "source_references" : [ "_id" : ObjectId("5045xxxxxxxxxxxxxx"), "name" : "xxx", "key" : 123 ] } I am having a lot of duplicate records in the collection having same source_references.key. (By Duplicate I mean, source_references.key not the _id). I want to remove duplicate records based on source_references....
