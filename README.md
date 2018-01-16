@@ -18,6 +18,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-16 
+- [GoalKicker.com – Free Programming Books](http://goalkicker.com/) [[Read]](pages/goalkicker_com_free_programming_books_2018_01_16_10_30_37.md)
+ > Programming Notes for Professionals books .NET Framework Notes for Professionals book Algorithms Notes for Professionals book Android™ Notes for Professionals book Angular 2 Notes for Professionals book AngularJS Notes for Professionals book Bash Notes for Professionals book C Notes for Professionals book C++ Notes for Professionals book C# Notes for Professionals book CSS Notes for Professionals book Entity Framework Notes for Professionals book Excel® VBA Notes for Professionals book Git® Note...
 ### 2018-01-15 
 - [How does ElasticSearch make money? ElasticSearch is a complex piece of software, and it's open-sourced. Where does the author find the time or money to work on it? - Quora](https://www.quora.com/How-does-ElasticSearch-make-money-ElasticSearch-is-a-complex-piece-of-software-and-its-open-sourced-Where-does-the-author-find-the-time-or-money-to-work-on-it) [[Read]](pages/how_does_elasticsearch_make_money_elasticsearch_is_a_complex_piece_of_software_and_it_s_open_sourced_where_does_the_author_find_the_time_or_money_to_work_on_it_quora_2018_01_15_11_8_46.md)
  > Shay, the creator of Elasticsearch, is hardly alone anymore. After raising a total of about $35 million from the investment community, some of the leading devs in the field have joined the firm. I've noticed that many of the top contributors to Solr, in fact, now work for Elasticsearch. This tells you something about the directions of those projects.But, to answer your question, the company makes money by selling professional support contracts to large enterprises. These would be similar contrac...
