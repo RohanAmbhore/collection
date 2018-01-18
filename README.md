@@ -20,6 +20,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-18 
+- [Ask HN: How to Seriously Start with Machine Learning and AI | Hacker News](https://news.ycombinator.com/item?id=16167620) [[Read]](pages/ask_hn_how_to_seriously_start_with_machine_learning_and_ai_hacker_news_2018_01_18_10_30_27.md)
+ > Hacker News new | threads | comments | show | ask | jobs | submit jcwsw129 (1) | logout Ask HN: How to Seriously Start with Machine Learning and AI 215 points by meddy 13 hours ago | hide | past | web | favorite | 64 comments Hey,Since years I've been seeing tones of news "how machine learing did smth... " and today that's enough with just reading how other people change the world with AI. I want to join into this area and scientificly understand how it everything works - make my own projects......
 ### 2018-01-17 
 - [database - Elasticsearch query to return all records - Stack Overflow](https://stackoverflow.com/questions/8829468/elasticsearch-query-to-return-all-records) [[Read]](pages/database_elasticsearch_query_to_return_all_records_stack_overflow_2018_01_17_8_53_53.md)
  > up vote 311 down vote favorite 85 I have a small database in Elasticsearch and for testing purposes would like to pull all records back. I am attempting to use a URL of the form... http://localhost:9200/foo/_search?pretty=true&q={'matchAll':{''}} Can someone give me the URL you would use to accomplish this, please? database elasticsearch bigdata query-string elasticsearch-dsl share|edit|flag edited Apr 24 '16 at 0:46 Aminah Nuraini 4,30623353 asked Jan 12 '12 at 2:41 John Livermore 8,7582883142 ...
