@@ -21,6 +21,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-19 
+- [Fast and Efficient Pagination in MongoDB | Codementor](https://www.codementor.io/arpitbhayani/fast-and-efficient-pagination-in-mongodb-9095flbqr) [[Read]](pages/fast_and_efficient_pagination_in_mongodb_codementor_2018_01_19_15_28_27.md)
+ > Arpit BhayaniFollowI solve my problems using programming | Engineer | Devops | Full stack Developer | Python, NodeJS , GoLang and C++ are the languages I speak | Bug FixerFast and Efficient Pagination in MongoDBPublished Jun 13, 2017MongoDB is a document based data store and hence pagination is one of the most common use case of it. So when do you paginate the response? The answer is pretty neat; you paginate whenever you want to process result in chunks. Some common scenarios are Batch processi...
 ### 2018-01-18 
 - [Ask HN: How to Seriously Start with Machine Learning and AI | Hacker News](https://news.ycombinator.com/item?id=16167620) [[Read]](pages/ask_hn_how_to_seriously_start_with_machine_learning_and_ai_hacker_news_2018_01_18_10_30_27.md)
  > Hacker News new | threads | comments | show | ask | jobs | submit jcwsw129 (1) | logout Ask HN: How to Seriously Start with Machine Learning and AI 215 points by meddy 13 hours ago | hide | past | web | favorite | 64 comments Hey,Since years I've been seeing tones of news "how machine learing did smth... " and today that's enough with just reading how other people change the world with AI. I want to join into this area and scientificly understand how it everything works - make my own projects......
