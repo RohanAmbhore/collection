@@ -22,6 +22,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-20 
+- [How do I clone a subdirectory only of a Git repository? - Stack Overflow](https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/13738951#13738951) [[Read]](pages/how_do_i_clone_a_subdirectory_only_of_a_git_repository_stack_overflow_2018_01_20_10_19_57.md)
+ > up vote 882 down vote favorite 375 I have my Git repository which, at the root, has two sub directories: /finisht /static When this was in SVN, /finisht was checked out in one place, while /static was checked out elsewhere, like so: svn co svn+ssh://admin@domain.com/home/admin/repos/finisht/static static Is there a way to do this with Git? git repository subfolder git-clone share|edit|flag edited Sep 2 '16 at 19:21 Peter Mortensen 11.8k1780107 asked Mar 1 '09 at 16:46 Nick Sergeant 9,117113039 p...
 ### 2018-01-19 
 - [Fast and Efficient Pagination in MongoDB | Codementor](https://www.codementor.io/arpitbhayani/fast-and-efficient-pagination-in-mongodb-9095flbqr) [[Read]](pages/fast_and_efficient_pagination_in_mongodb_codementor_2018_01_19_15_28_27.md)
  > Arpit BhayaniFollowI solve my problems using programming | Engineer | Devops | Full stack Developer | Python, NodeJS , GoLang and C++ are the languages I speak | Bug FixerFast and Efficient Pagination in MongoDBPublished Jun 13, 2017MongoDB is a document based data store and hence pagination is one of the most common use case of it. So when do you paginate the response? The answer is pretty neat; you paginate whenever you want to process result in chunks. Some common scenarios are Batch processi...
