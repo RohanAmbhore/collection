@@ -23,6 +23,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-21 
+- [JS things I never knew existed](https://air.ghost.io/js-things-i-never-knew-existed/) [[Read]](pages/js_things_i_never_knew_existed_2018_01_21_9_22_32.md)
+ > 30 December 2017 / javascript JS things I never knew existed I was reading through the MDN docs the other day and found these JS features and APIs I never knew existed. So here is a short list of those things, useful or not - learning JS seemingly never ends. Label Statements You can name for loops and blocks in JS... who knew (not me)! You can then refer to that name and use break or continue in for loops and break in blocks. loop1: // labeling "loop1" for (let i = 0; i < 3; i++) { // "loop1" l...
 ### 2018-01-20 
 - [How do I clone a subdirectory only of a Git repository? - Stack Overflow](https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/13738951#13738951) [[Read]](pages/how_do_i_clone_a_subdirectory_only_of_a_git_repository_stack_overflow_2018_01_20_10_19_57.md)
  > up vote 882 down vote favorite 375 I have my Git repository which, at the root, has two sub directories: /finisht /static When this was in SVN, /finisht was checked out in one place, while /static was checked out elsewhere, like so: svn co svn+ssh://admin@domain.com/home/admin/repos/finisht/static static Is there a way to do this with Git? git repository subfolder git-clone share|edit|flag edited Sep 2 '16 at 19:21 Peter Mortensen 11.8k1780107 asked Mar 1 '09 at 16:46 Nick Sergeant 9,117113039 p...
