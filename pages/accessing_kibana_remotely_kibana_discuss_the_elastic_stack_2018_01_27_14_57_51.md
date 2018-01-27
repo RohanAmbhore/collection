@@ -1,0 +1,62 @@
+<a href="https://discuss.elastic.co/t/accessing-kibana-remotely/88064/3">https://discuss.elastic.co/t/accessing-kibana-remotely/88064/3</a><div id="articleHeader"><h1>Accessing kibana remotely</h1></div>
+    
+
+
+
+
+
+    
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+    
+    
+
+
+
+
+
+  
+      
+    
+
+  
+
+
+    
+      
+
+
+      
+        
+
+          
+            
+
+            
+
+              <p>I've setup an ELK stack (versions 5.4) running on an ubuntu 17.04 vm. This is hosted in azure. Aside from the Azure network security group settings, what do I need to do to enable connections to kibana via a browser over the internet?</p>
+<p>So far I have run the command:</p>
+<p>sudo ufw allow 5601</p>
+<p>And edited kibana.yml to change server.host from localhost to the public IP address of my azure vm.</p>
