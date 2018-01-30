@@ -29,6 +29,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-01-30 
+- [Handlebars.js vs EJS detailed comparison as of 2018 - Slant](https://www.slant.co/versus/181/184/~handlebars-js_vs_ejs) [[Read]](pages/handlebars_js_vs_ejs_detailed_comparison_as_of_2018_slant_2018_01_30_10_38_59.md)
+ > 0Log In or Join NowAsk QuestionOverviewQuestionsProsConsHere’s the DealSlant is written by a community helping you be informed. Tell us what you’re passionate about to get an awesome personalized feed.DevelopmentGamingElectronicsPCAndroidPC GamesProductivityWebLearning ResourcesUtilitiesLinuxiOSAudioBackend DevelopmentBuild my feedHandlebars.js vs EJSGet it here62 16 Get it here15 4 When comparing Handlebars.js vs EJS, the Slant community recommends Handlebars.js for most people. In the question...
 ### 2018-01-27 
 - [从1.8万篇文章中脱颖而出45个最棒的 React.js 学习指南（2018版）](https://zhuanlan.zhihu.com/p/33207643) [[Read]](pages/1_8_45_react_js_2018_2018_01_27_10_31_38.md)
  > 从1.8万篇文章中脱颖而出45个最棒的 React.js 学习指南（2018版）hijiangtao4 天前 译者注：原文作者研究了近1.8万篇 React.js 文章得出这篇总结，全文既包含 React 入门，进阶和综合应用专题，也包括对路由、React Native、动画、PWA等内容的专题介绍，其中还不乏各大公司团队在前端重构的经验以及热门美剧《硅谷》在 react native 上的尝试，非常适合用于对自己 React 技术栈的比对，用于查漏补缺，适合收藏阅读。译者保留了原文链接以及对应作者的 medium 或者 twitter 链接地址，方便读者进行进一步查看和学习。文中如有错误，欢迎评论指出。如果你对整体前端技术或者 React 生态技术栈关注较多，可以移步这里查看更多：hijiangtao：2017前端技术发展回顾zhuanlan.zhihu.comhijiangtao：从2.4万篇文章中挑出的最棒的 JavaScript 学习指南（2018版）zhuanlan.zhihu.com在2017年1月至12月之间，我们对比了近18000篇 React.js 文章，并从中挑选出...
