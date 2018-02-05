@@ -31,6 +31,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-05 
+- [CSS Grid + CSS Multi-Columns = ♥ – Patrick Brosset – Medium](https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c) [[Read]](pages/css_grid_css_multi_columns_patrick_brosset_medium_2018_02_05_20_49_18.md)
+ > CSS Grid + CSS Multi-Columns = ♥In this short article, I am exploring the relationship between two CSS layout features: CSS Grid and CSS Multi-Columns.These two features can be used together in very interesting ways for building responsive web designs.Let’s start by reviewing what each of those features do.CSS columnsCSS has had the ability to organize content into columns for a while now and support is really good all across the board (apart from the need to use vendor prefixes still).The main ...
 ### 2018-02-03 
 - [html - How do you read CSS rule values with JavaScript? - Stack Overflow](https://stackoverflow.com/questions/324486/how-do-you-read-css-rule-values-with-javascript) [[Read]](pages/html_how_do_you_read_css_rule_values_with_javascript_stack_overflow_2018_02_03_10_19_45.md)
  > up vote 90 down vote favorite 33 I would like to return a string with all of the contents of a CSS rule, like the format you'd see in an inline style. I'd like to be able to do this without knowing what is contained in a particular rule, so I can't just pull them out by style name (like .style.width etc.) The CSS: .test { width:80px; height:50px; background-color:#808080; } The code so far: function getStyle(className) { var classes = document.styleSheets[0].rules || document.styleSheets[0].cssR...
