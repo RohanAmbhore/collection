@@ -34,6 +34,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-08 
+- [Use "overflow: hidden" to avoid floating elements from wrapping a container's text - makandra dev](https://makandracards.com/makandra/9245-use-overflow-hidden-to-avoid-floating-elements-from-wrapping-a-container-s-text) [[Read]](pages/use_overflow_hidden_to_avoid_floating_elements_from_wrapping_a_container_s_text_makandra_dev_2018_02_08_12_49_18.md)
+ > « next card previous card » back to all cards in this deck Posted over 5 years ago. Visible to the public. Repeats. Use "overflow: hidden" to avoid floating elements from wrapping a container's text Consider this HTML: Copy<div id="container"> <div id="actions"> <a href="#">Click me!</a> </div> <div id="content"> Hello Universe! Hello Universe! Hello Universe! Hello Universe! Hello Universe! Hello Universe! </div> </div> If you want the actions element to float on the left, you'd just say this i...
 ### 2018-02-07 
 - [When to use Flexbox](http://brolik.com/blog/when-to-use-flexbox/) [[Read]](pages/when_to_use_flexbox_2018_02_07_15_15_31.md)
  > When to use Flexbox By Alex Caldwell Tuesday December 22nd, 2015 The flexbox box layout is a great technological advancement on the web. In this article, I’ll share some tips on when to (and when not to) use flexbox with some Sass and jQuery for backwards compatibility. Flexbox is a layout model that allows elements to align and distribute space within a container. Using flexible widths and heights, elements can be aligned to fill a space or distribute space between elements, which makes it a gr...
