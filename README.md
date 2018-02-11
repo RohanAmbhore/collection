@@ -37,6 +37,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-11 
+- [Library Genesis: Miner's Hut / Барак старателей • View topic - Libgen API](https://genofond.org/viewtopic.php?f=17&t=6874&sid=4c8d658923b913f7dfe3281a3b30ebc2) [[Read]](pages/library_genesis_miner_s_hut_view_topic_libgen_api_2018_02_11_14_3_7.md)
+ > (for an English translation refer to the second half of this post)По просьбе трудящихся написал фичу:http://gen.lib.rus.ec/json.phphttp://libgen.org/json.phpвозвращает данные в формате json.как работает:возврат данных о произвольных книгах:Параметры:ids - ID книги на сайте (перечислить через запятую, если несколько)fields - поля описания (только таблица updated, таблица description не задействована), перечислять через запятуюдопустимые поля show('ID', 'Title', 'VolumeInfo', 'Series', 'Periodical...
 ### 2018-02-10 
 - [LibGen - Library Genesis Project on Websites to Archive | Trello](https://trello.com/c/tLOJw1DC/28-libgen-library-genesis-project) [[Read]](pages/libgen_library_genesis_project_on_websites_to_archive_trello_2018_02_10_16_20_14.md)
  > Antonizoon transferred Lil B. The Based God. from WikipagesFeb 1 at 10:44 PM Sending…Antonizoon transferred Wiki & Board Project Archiving from WikipagesFeb 1 at 4:54 AM Sending…Antonizoon transferred Freech - Free as in Freedom Imageboard from WikipagesFeb 1 at 4:52 AM Sending…Antonizoon transferred Secret Area of VIP Quality from WikipagesFeb 1 at 4:52 AM Sending…Antonizoon transferred yyyyyy.info from WikipagesFeb 1 at 4:51 AM Sending…Antonizoon transferred Archive the ThinkPad EOL Driver Mat...
