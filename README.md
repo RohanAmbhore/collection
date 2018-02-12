@@ -38,6 +38,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-12 
+- [Fetching position of keyword in matched document - Elasticsearch - Discuss the Elastic Stack](https://discuss.elastic.co/t/fetching-position-of-keyword-in-matched-document/94291/2) [[Read]](pages/fetching_position_of_keyword_in_matched_document_elasticsearch_discuss_the_elastic_stack_2018_02_12_11_33_1.md)
+ > dataLayer = [{}]; (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-58FR2B'); { "@context": "http://schema.org", "@type": "Organization", "name" : "Elastic", "url": "https://www.elastic.co/", "logo": "https://www.elastic.co/s...
 ### 2018-02-11 
 - [Library Genesis: Miner's Hut / Барак старателей • View topic - Libgen API](https://genofond.org/viewtopic.php?f=17&t=6874&sid=4c8d658923b913f7dfe3281a3b30ebc2) [[Read]](pages/library_genesis_miner_s_hut_view_topic_libgen_api_2018_02_11_14_3_7.md)
  > (for an English translation refer to the second half of this post)По просьбе трудящихся написал фичу:http://gen.lib.rus.ec/json.phphttp://libgen.org/json.phpвозвращает данные в формате json.как работает:возврат данных о произвольных книгах:Параметры:ids - ID книги на сайте (перечислить через запятую, если несколько)fields - поля описания (только таблица updated, таблица description не задействована), перечислять через запятуюдопустимые поля show('ID', 'Title', 'VolumeInfo', 'Series', 'Periodical...
