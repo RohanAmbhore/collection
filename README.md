@@ -39,6 +39,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-13 
+- [How to setup Vue dev server with a running Web Server](https://medium.com/@FrancescoZ/how-to-setup-vue-dev-server-with-a-running-web-server-7532c53b3198) [[Read]](pages/how_to_setup_vue_dev_server_with_a_running_web_server_2018_02_13_14_25_9.md)
+ > <img>Photo by Anders Jildén on Unsplash.How to setup Vue dev server with a running Web ServerWhen you need to communicate with a real-world back endProblemImagine you have your back-end server running on your computer and you want to use “npm run dev” as usual to have a better development experience but you need to make API calls to your back-end.So how to do t...
 ### 2018-02-12 
 - [Fetching position of keyword in matched document - Elasticsearch - Discuss the Elastic Stack](https://discuss.elastic.co/t/fetching-position-of-keyword-in-matched-document/94291/2) [[Read]](pages/fetching_position_of_keyword_in_matched_document_elasticsearch_discuss_the_elastic_stack_2018_02_12_11_33_1.md)
  > dataLayer = [{}]; (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-58FR2B'); { "@context": "http://schema.org", "@type": "Organization", "name" : "Elastic", "url": "https://www.elastic.co/", "logo": "https://www.elastic.co/s...
