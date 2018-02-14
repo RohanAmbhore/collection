@@ -40,6 +40,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-14 
+- [Tutorials and examples | LoopBack Documentation](https://loopback.io/doc/en/lb3/Tutorials-and-examples.html) [[Read]](pages/tutorials_and_examples_loopback_documentation_2018_02_14_13_6_33.md)
+ > Tutorials and examples Edit this page There are many LoopBack example apps and tutorials. ;$(function() { var level = parseInt(3, 10); if (level === 1) {level = 'h2'} if (level === 2) {level = 'h2,h3'} if (level === 3) {level = 'h2,h3,h4'} if (level === 4) {level = 'h2,h3,h4,h5'} var toc = $('#toc') toc.toc({minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: level}) /* this offset helps with the space taken up by the floating toolbar */ toc.on('click', 'a', function() { var target = $(thi...
 ### 2018-02-13 
 - [How to setup Vue dev server with a running Web Server](https://medium.com/@FrancescoZ/how-to-setup-vue-dev-server-with-a-running-web-server-7532c53b3198) [[Read]](pages/how_to_setup_vue_dev_server_with_a_running_web_server_2018_02_13_14_25_9.md)
  > <img>Photo by Anders Jildén on Unsplash.How to setup Vue dev server with a running Web ServerWhen you need to communicate with a real-world back endProblemImagine you have your back-end server running on your computer and you want to use “npm run dev” as usual to have a better development experience but you need to make API calls to your back-end.So how to do t...
