@@ -42,6 +42,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-16 
+- [express - expressjs: How to catch all route parameters even if unknown? - Stack Overflow](https://stackoverflow.com/questions/45191742/expressjs-how-to-catch-all-route-parameters-even-if-unknown) [[Read]](pages/express_expressjs_how_to_catch_all_route_parameters_even_if_unknown_stack_overflow_2018_02_16_10_57_16.md)
+ > up vote 1 down vote favorite 1 Lets say I have this route. this.app.use('/app/fileasset/ui.html/:view*?', function(req,res) {}); If I have this url: /app/fileasset/ui.html /test/view Then I can catch them in req.params ==> req.params[0] (root url, 'test') and req.params.view ('view') The question is: how can I catch an unknown numbers of parameters ? For example: /app/fileasset/ui.html /test/view/subview/wtv How to get 'subview' and 'wtv' in req.params ? and having the same route to catch longer...
 ### 2018-02-15 
 - [javascript - What does "./bin/www" do in Express 4.x? - Stack Overflow](https://stackoverflow.com/questions/23169941/what-does-bin-www-do-in-express-4-x) [[Read]](pages/javascript_what_does_bin_www_do_in_express_4_x_stack_overflow_2018_02_15_20_4_11.md)
  > up vote 95 down vote favorite 36 I just started to learn about Express 4.0 in my Node.js app, and I found that it generated ./bin/www file, on which only the application server and port settings are written and everything others like middleware and routing is defined in ./app.js file. However, I'm not sure what this ./bin/www does. I've used Express 3.x and I have always defined server and port settings as well as routing and middleware on the identical ./app.js file, and launched my node app wi...
