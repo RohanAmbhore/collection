@@ -43,6 +43,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-17 
+- [Bjarne Stroustrup: Why I Created C++ - YouTube](https://www.youtube.com/watch?v=JBjjnqG0BP8) [[Read]](pages/bjarne_stroustrup_why_i_created_c_youtube_2018_02_17_22_34_15.md)
+ > Bjarne Stroustrup: Why I Created C++ 765,851次观看76万次观看 9,663 163 分享 9,663 / 163 Big Think 已验证 2011年6月10日发布 已订阅 216万 Subscribe Subscribed Unsubscribe In the late 1970s, Stroustrup applied the idea of "classes" to the C programming language to create a new language that allows for high level abstraction—but is efficient and close to the hardware. Read more at BigThink.com: http://bigthink.com/videos/why-i-crea... Follow Big Think here: YouTube: https://www.youtube.com/user/bigthink Facebook: https:...
 ### 2018-02-16 
 - [express - expressjs: How to catch all route parameters even if unknown? - Stack Overflow](https://stackoverflow.com/questions/45191742/expressjs-how-to-catch-all-route-parameters-even-if-unknown) [[Read]](pages/express_expressjs_how_to_catch_all_route_parameters_even_if_unknown_stack_overflow_2018_02_16_10_57_16.md)
  > up vote 1 down vote favorite 1 Lets say I have this route. this.app.use('/app/fileasset/ui.html/:view*?', function(req,res) {}); If I have this url: /app/fileasset/ui.html /test/view Then I can catch them in req.params ==> req.params[0] (root url, 'test') and req.params.view ('view') The question is: how can I catch an unknown numbers of parameters ? For example: /app/fileasset/ui.html /test/view/subview/wtv How to get 'subview' and 'wtv' in req.params ? and having the same route to catch longer...
