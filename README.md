@@ -44,6 +44,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-19 
+- [Where can I find the rule definitions for "eslint:recommended"? - Stack Overflow](https://stackoverflow.com/questions/33162047/where-can-i-find-the-rule-definitions-for-eslintrecommended) [[Read]](pages/where_can_i_find_the_rule_definitions_for_eslint_recommended_stack_overflow_2018_02_19_10_36_53.md)
+ > up vote 6 down vote favorite 3 In a .eslintrc file, we can use: "extends": "eslint:recommended" to extend the recommended rules provided by eslint, and in the rule list, many of them are marked as "recommended". My question what is the exact rule definitions for them? I searched in the repo of eslint, but not found it. rules eslint share|edit|flag asked Oct 16 '15 at 3:22 Freewind 69.4k98286503 add a comment |...
 ### 2018-02-17 
 - [Bjarne Stroustrup: Why I Created C++ - YouTube](https://www.youtube.com/watch?v=JBjjnqG0BP8) [[Read]](pages/bjarne_stroustrup_why_i_created_c_youtube_2018_02_17_22_34_15.md)
  > Bjarne Stroustrup: Why I Created C++ 765,851次观看76万次观看 9,663 163 分享 9,663 / 163 Big Think 已验证 2011年6月10日发布 已订阅 216万 Subscribe Subscribed Unsubscribe In the late 1970s, Stroustrup applied the idea of "classes" to the C programming language to create a new language that allows for high level abstraction—but is efficient and close to the hardware. Read more at BigThink.com: http://bigthink.com/videos/why-i-crea... Follow Big Think here: YouTube: https://www.youtube.com/user/bigthink Facebook: https:...
