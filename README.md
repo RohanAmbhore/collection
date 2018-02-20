@@ -45,6 +45,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-20 
+- [VueJS Best Practices Guide](https://gist.github.com/brianboyko/91fdfb492071e743e389d84eee002342) [[Read]](pages/vuejs_best_practices_guide_2018_02_20_19_59_35.md)
+ > Deverus Vue.js Style Guide Guide for developing Vue.js applications. v. 0.0.1 Vue.js is an amazing framework, which can be as powerful as Angular or React, the two big heavy hitters in the world of front-end frameworks. However, most of Vue's ease-of-use is due to the use of Observables - a pattern that triggers re-renders and other function calls with the reassignment of a variable. Because of this, while Vue is very powerful, it can be very easy to do some very dumb things with it - things Vue...
 ### 2018-02-19 
 - [Where can I find the rule definitions for "eslint:recommended"? - Stack Overflow](https://stackoverflow.com/questions/33162047/where-can-i-find-the-rule-definitions-for-eslintrecommended) [[Read]](pages/where_can_i_find_the_rule_definitions_for_eslint_recommended_stack_overflow_2018_02_19_10_36_53.md)
  > up vote 6 down vote favorite 3 In a .eslintrc file, we can use: "extends": "eslint:recommended" to extend the recommended rules provided by eslint, and in the rule list, many of them are marked as "recommended". My question what is the exact rule definitions for them? I searched in the repo of eslint, but not found it. rules eslint share|edit|flag asked Oct 16 '15 at 3:22 Freewind 69.4k98286503 add a comment |...
