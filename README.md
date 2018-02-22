@@ -46,6 +46,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-22 
+- [javascript - difference between offsetHeight and clientHeight - Stack Overflow](https://stackoverflow.com/questions/4106538/difference-between-offsetheight-and-clientheight) [[Read]](pages/javascript_difference_between_offsetheight_and_clientheight_stack_overflow_2018_02_22_13_35_46.md)
+ > up vote 93 down vote favorite 37 In the javascript dom - what is the difference between offsetHeight and clientHeight of an element? javascript share|edit|flag asked Nov 5 '10 at 14:00 steve 496155 4 upvote flag Here a good demo example jsfiddle.net/shibualexis/yVhgM/3 – GibboK Jan 24 '15 at 9:57 add a comment | 2 Answers 2 active oldest votes up vote 136 down vote clientHeight: Returns the height of the visible area for an object, in pixels. The value contains the height with the padding, but i...
 ### 2018-02-20 
 - [VueJS Best Practices Guide](https://gist.github.com/brianboyko/91fdfb492071e743e389d84eee002342) [[Read]](pages/vuejs_best_practices_guide_2018_02_20_19_59_35.md)
  > Deverus Vue.js Style Guide Guide for developing Vue.js applications. v. 0.0.1 Vue.js is an amazing framework, which can be as powerful as Angular or React, the two big heavy hitters in the world of front-end frameworks. However, most of Vue's ease-of-use is due to the use of Observables - a pattern that triggers re-renders and other function calls with the reassignment of a variable. Because of this, while Vue is very powerful, it can be very easy to do some very dumb things with it - things Vue...
