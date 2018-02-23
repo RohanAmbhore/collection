@@ -47,6 +47,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-23 
+- [Vue.js Internals: How computed properties work | Anirudh Sanjeev](https://skyronic.com/blog/vuejs-internals-computed-properties) [[Read]](pages/vue_js_internals_how_computed_properties_work_anirudh_sanjeev_2018_02_23_10_51_0.md)
+ > Vue.js Internals: How computed properties work December 2, 2016, 5:04 pm In this post, we will more learn about how Vue.js Computed Properties work by writing a very (very very very) simple implementation which achieves similar functionality. This is just to illustrate how it works. It doesn't support objects, arrays, watching/unwatching and a dozen performance optimizations that exist in vue.js core. I wrote this after reading the Vue.js source code, based on my very limited understanding. A lo...
 ### 2018-02-22 
 - [javascript - difference between offsetHeight and clientHeight - Stack Overflow](https://stackoverflow.com/questions/4106538/difference-between-offsetheight-and-clientheight) [[Read]](pages/javascript_difference_between_offsetheight_and_clientheight_stack_overflow_2018_02_22_13_35_46.md)
  > up vote 93 down vote favorite 37 In the javascript dom - what is the difference between offsetHeight and clientHeight of an element? javascript share|edit|flag asked Nov 5 '10 at 14:00 steve 496155 4 upvote flag Here a good demo example jsfiddle.net/shibualexis/yVhgM/3 – GibboK Jan 24 '15 at 9:57 add a comment | 2 Answers 2 active oldest votes up vote 136 down vote clientHeight: Returns the height of the visible area for an object, in pixels. The value contains the height with the padding, but i...
