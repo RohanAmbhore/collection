@@ -48,6 +48,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-24 
+- [The need for getters with payload · Issue #526 · vuejs/vuex](https://github.com/vuejs/vuex/issues/526) [[Read]](pages/the_need_for_getters_with_payload_issue_526_vuejs_vuex_2018_02_24_10_45_23.md)
+ > New issue The need for getters with payload #526 Closed andreiglingeanu opened this Issue on Dec 15, 2016 · 16 comments Comments Assignees No one assigned Labels 2.0 proposal Projects None yet Milestone No milestone Notifications Subscribe You’re not receiving notifications from this thread. 7 participants Pick your reaction 👍 👎 😄 🎉 😕 ❤️ andreiglingeanu commented on Dec 15, 2016 • edited Edited 1 time andreiglingeanu on Dec 15, 2016 Let me state right from the beginning, that's a feature re...
 ### 2018-02-23 
 - [Vue.js Internals: How computed properties work | Anirudh Sanjeev](https://skyronic.com/blog/vuejs-internals-computed-properties) [[Read]](pages/vue_js_internals_how_computed_properties_work_anirudh_sanjeev_2018_02_23_10_51_0.md)
  > Vue.js Internals: How computed properties work December 2, 2016, 5:04 pm In this post, we will more learn about how Vue.js Computed Properties work by writing a very (very very very) simple implementation which achieves similar functionality. This is just to illustrate how it works. It doesn't support objects, arrays, watching/unwatching and a dozen performance optimizations that exist in vue.js core. I wrote this after reading the Vue.js source code, based on my very limited understanding. A lo...
