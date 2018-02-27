@@ -52,6 +52,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-28 
+- [Which is the best MongoDB GUI? - Find out with ScaleGrid™](https://scalegrid.io/blog/which-is-the-best-mongodb-gui/) [[Read]](pages/which_is_the_best_mongodb_gui_find_out_with_scalegrid_2018_02_28_0_11_33.md)
+ > Which is the Best MongoDB GUI? — 2016 Update Load Template from content-single.php Posted: September 19, 2016 .entry-header +137 Tweet Share15 Share112 Pin1Shares 165A good UI is an important part of the development experience. The MongoDB Shell works great for administrative actions, but when working with larger amounts of data, the UI becomes fairly important. In 2014, we discussed 4 of the top MongoDB GUIs: MongoVue, MongoHub, RockMongo, and Robomongo. We left those at the end of this post fo...
 ### 2018-02-27 
 - [Clipboard change event in the electron - Vioja Technology](http://www.vioja.com/clipboard-change-event-in-the-electron/) [[Read]](pages/clipboard_change_event_in_the_electron_vioja_technology_2018_02_27_13_10_12.md)
  > Clipboard change event in the electron 2015-07-17 Posted by on Javascript Advertisement google_ad_client = "ca-pub-6215563453954585"; google_ad_slot = "9563218551"; google_ad_width = 728; google_ad_height = 90; I would like to write a clipboard manager that monitors the clipboard systems. Well, I found: https://github.com/atom/electron/blob/master/docs/api/clipboard.md, but could not find any events for the clipboard. Do clipboard events exist in electronics? I mean that void selectionChanged() ...
