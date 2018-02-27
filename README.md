@@ -51,6 +51,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-02-27 
+- [Clipboard change event in the electron - Vioja Technology](http://www.vioja.com/clipboard-change-event-in-the-electron/) [[Read]](pages/clipboard_change_event_in_the_electron_vioja_technology_2018_02_27_13_10_12.md)
+ > Clipboard change event in the electron 2015-07-17 Posted by on Javascript Advertisement google_ad_client = "ca-pub-6215563453954585"; google_ad_slot = "9563218551"; google_ad_width = 728; google_ad_height = 90; I would like to write a clipboard manager that monitors the clipboard systems. Well, I found: https://github.com/atom/electron/blob/master/docs/api/clipboard.md, but could not find any events for the clipboard. Do clipboard events exist in electronics? I mean that void selectionChanged() ...
 ### 2018-02-26 
 - [End-To-End Testing A VueJS HackerNews Clone](https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) [[Read]](pages/end_to_end_testing_a_vuejs_hackernews_clone_2018_02_26_20_10_57.md)
  > <img class="lazy" data-src="https://d33wubrfki0l68.cloudfront.net/bddbe0e8d010b38ed2ea32e859333dc99f80643e/500f5/images/posts/e2e.jpg" alt="" srcset=" https://d33wubrfki0l68.cloudfront.net/f147e676ae053f5435f3eef965d92e81ce9637b0/79238/images/900/e2e.jpg 900w, https://d33wubrfki0l68.cloudfront.net/78ed43bc517d7edf690dd3a4e81d2d3c41a8bf12/56e9c/images/740/e2e.jpg 740w, https://d33wubrfki0l68.cloudfront.net/d851a7f970ed070a674c36514101bf578bb1bd26/9137c/images/690/e2e.jpg 690w, https://d33wubrfki0...
