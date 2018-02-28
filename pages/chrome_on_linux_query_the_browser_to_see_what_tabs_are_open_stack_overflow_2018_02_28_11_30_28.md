@@ -1,0 +1,4 @@
+<a href="https://stackoverflow.com/questions/4968271/chrome-on-linux-query-the-browser-to-see-what-tabs-are-open">https://stackoverflow.com/questions/4968271/chrome-on-linux-query-the-browser-to-see-what-tabs-are-open</a><div id="articleHeader"><h1>query the browser to see what tabs are open?</h1></div>
+
+<p>I am running Chromium (the open source chrome version) on Ubuntu Linux. Can I write a programme to see what tabs I have open? I would like to write a programme to monitor how much time I'm spending on things. Is there a command line programme, some way to invoke the chromium-browser command, or some dbus incantation that will tell me what tabs I have open and what URL each tab is at?</p>
+    
