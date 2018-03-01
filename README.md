@@ -53,10 +53,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
-
-### 2018-03-01 
-- [Third party CSS is not safe - JakeArchibald.com](https://jakearchibald.com/2018/third-party-css-is-not-safe/) [[Read]](pages/third_party_css_is_not_safe_jakearchibald_com_2018_03_01_15_36_17.md)
- > Third party CSS is not safe Posted 27 February 2018 A few days ago there was a lot of chatter about a 'keylogger' built in CSS. Some folks called for browsers to 'fix' it. Some folks dug a bit deeper and saw that it only affected sites built in React-like frameworks, and pointed the finger at React. But the real problem is thinking that third party content is 'safe'. Third party images <img> If I include the above, I'm trusting example.com. They may betray th...
 ### 2018-02-28 
 - [Which is the best MongoDB GUI? - Find out with ScaleGrid™](https://scalegrid.io/blog/which-is-the-best-mongodb-gui/) [[Read]](pages/which_is_the_best_mongodb_gui_find_out_with_scalegrid_2018_02_28_0_11_33.md)
  > Which is the Best MongoDB GUI? — 2016 Update Load Template from content-single.php Posted: September 19, 2016 .entry-header +137 Tweet Share15 Share112 Pin1Shares 165A good UI is an important part of the development experience. The MongoDB Shell works great for administrative actions, but when working with larger amounts of data, the UI becomes fairly important. In 2014, we discussed 4 of the top MongoDB GUIs: MongoVue, MongoHub, RockMongo, and Robomongo. We left those at the end of this post fo...
