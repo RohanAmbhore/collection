@@ -53,6 +53,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-03-03 
+- [2018美团前端面试题，两年经验，你能答对几道？ - 掘金](https://juejin.im/post/5a96c6326fb9a063626408c8) [[Read]](pages/2018_2018_03_03_14_38_54.md)
+ > 2018美团前端面试题，两年经验，你能答对几道？ 注意：部分答案为自己整理，正确性未知。代码运行结果部分亲手运行，没问题。 获取页面元素位置与宽高？ element.clientWidth = content + padding element.clientHeight = content + padding element.getBoundingClientRect() 返回值情况 left:包围盒左边 border 以外的边缘距页面左边的距离 right:包围盒右边 border 以外的边缘距页面左边的距离 top:包围盒上边 border 以外的边缘距页面顶部的距离 bottom:包围盒下边 border 以外的便于距页面顶部的距离 width: content + padding + border height: content + padding + border 注意，设置外边距时外边距合并的情况 requestAnimationFrame 原理？是同步还是异步？ 异步，传入的函数在重绘之前调用 js事件机制？点击屏幕上一个按钮，事件是如何传播的？ 冒泡 下面代码输出结果？...
 ### 2018-03-01 
 - [Third party CSS is not safe - JakeArchibald.com](https://jakearchibald.com/2018/third-party-css-is-not-safe/) [[Read]](pages/third_party_css_is_not_safe_jakearchibald_com_2018_03_01_16_34_22.md)
  > Third party CSS is not safe Posted 27 February 2018 A few days ago there was a lot of chatter about a 'keylogger' built in CSS. Some folks called for browsers to 'fix' it. Some folks dug a bit deeper and saw that it only affected sites built in React-like frameworks, and pointed the finger at React. But the real problem is thinking that third party content is 'safe'. Third party images <img> If I include the above, I'm trusting example.com. They may betray th...
