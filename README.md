@@ -55,6 +55,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-03-06 
+- [CSS Centering Explorer](http://www.chunqiuyiyu.com/css-centering-explorer/) [[Read]](pages/css_centering_explorer_2018_03_06_22_16_12.md)
+ > You need to enable JavaScript to run this app.CSS Centering ExplorerFind the way that how to center things in CSSI would like to center something ...horizontallyverticallyboth horizontally and verticallyChild element is ...inline or inline-*blockThe number of child element is ...onemore than oneCodeCSS code will be displayed here.ResultHere is the final result.© 2018 chunqiuyiyu Inspired by CSS-Tricks and JavaScript Array ExplorerLike On Github*Title (label for the link)*Comment (commit message)...
 ### 2018-03-04 
 - [一年前端面试打怪升级之路（一） - 掘金](https://juejin.im/post/5a98a8be518825556140ad4c) [[Read]](pages/2018_03_04_10_44_35.md)
  > 一年前端面试打怪升级之路（一） 个人背景介绍 2017年本科毕业生，坐标杭州，前端程序媛一枚。 在17年4月以前是个UI软妹子，自我定位想要成为一个交互大神，热衷于研究产品用户体验。 17年3月以UI设计实习生的身份进入现在的公司之后，由于UI发展前景不明，经过一段时间的深思熟虑（一拍脑门）决定转岗前端，自学一段时间后跟经理提出需求，随后逐渐往前端方向发展，6月转为正式员工，岗位为前端工程师。 一年前端经验，且之前从未有过前端面试经历 正文开始 近期面试了不少公司，采取的战略是把最想去的公司放到最后，一开始积累经验，做足准备再奋起一搏。 从一开始的，完全get不到面试官提问的点，只知道摇头说不知道，之后每次复盘总结，梳理不足。到现在面试成功率也算可观，目前收获了几个offer，大中小型公司也都齐了。虽然被最想去的DXY给虐的不轻，但自信心也逐渐建立起来，并且了解自己的不足之处，有了努力的方向。 贴上自己升级的过程。 篇幅较长，会分篇更新，敬请期待 传送门： 一年前端面试打怪升级之路（一） 一年前端面试打怪升级之路（二） 一年前端面试打怪升级之路（三） 第一次面试 没有经验，年轻的我连简...
