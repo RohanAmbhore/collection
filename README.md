@@ -56,6 +56,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-03-08 
+- [CSS布局解决方案（终结版） - 前端 - 掘金](https://juejin.im/entry/5aa0afd1f265da239c7aec81?utm_source=gold_browser_extension) [[Read]](pages/css_2018_03_08_21_15_47.md)
+ > CSS布局解决方案（终结版） 阅读 199收藏 192018-03-08 原文链接：segmentfault.com 想要一站式部署小程序资源套件吗？搭建微信小程序，就选腾讯云！cloud.tencent.com 前端布局非常重要的一环就是页面框架的搭建，也是最基础的一环。在页面框架的搭建之中，又有居中布局、多列布局以及全局布局，今天我们就来总结总结前端干货中的CSS布局。 居中布局 水平居中 1）使用inline-block+text-align（1）原理、用法 原理：先将子框由块级元素改变为行内块元素，再通过设置行内块元素居中以达到水平居中。 用法：对子框设置display:inline-block，对父框设置text-align:center。 （2）代码实例 <div class="parent"> <div class="child>DEMO</div> </div> .child{ display:inline-block; } .parent{ text-align:center; } （3）优缺点 优点:兼容性好，甚至可以兼容ie6、ie7 缺点:child里的文字也会...
 ### 2018-03-06 
 - [CSS Centering Explorer](http://www.chunqiuyiyu.com/css-centering-explorer/) [[Read]](pages/css_centering_explorer_2018_03_06_22_16_12.md)
  > You need to enable JavaScript to run this app.CSS Centering ExplorerFind the way that how to center things in CSSI would like to center something ...horizontallyverticallyboth horizontally and verticallyChild element is ...inline or inline-*blockThe number of child element is ...onemore than oneCodeCSS code will be displayed here.ResultHere is the final result.© 2018 chunqiuyiyu Inspired by CSS-Tricks and JavaScript Array ExplorerLike On Github*Title (label for the link)*Comment (commit message)...
