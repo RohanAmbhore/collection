@@ -1,0 +1,60 @@
+<a href="https://airbnb.design/painting-with-code/">https://airbnb.design/painting-with-code/</a><div id="articleHeader"><h1>Painting with Code</h1></div>
+        <h2>Introducing our new open source library React Sketch.app</h2>    
+  
+  
+    <p>Today, we’re excited to share a tool we built to help bridge the gap between designers and engineers working on design systems at scale. <a href="https://github.com/airbnb/react-sketchapp" target="_blank"><code>React-sketchapp</code></a> is an open-source library that allows you to write React components that render to Sketch documents.</p>
+<p>If you’re a designer or an engineer familiar with React, you should feel right at home with the new library, and you can <a href="https://github.com/airbnb/react-sketchapp" target="_blank">play with it right now</a>.</p>
+<p>Here are some fun things we’ve already started doing with it:</p>
+<p><strong>Seamless integration with your data</strong></p>
+<div>
+<p>Using the Foursquare API to search for places of interest, and the Google Maps API to generate dynamic maps.</p>
+</div>
+<p>Bring real data to your designs — including traditional APIs and GraphQL endpoints.</p>
+<p><strong>Layout with flexbox</strong></p>
+<div>
+<p>Automatically testing our components on multiple screen sizes</p>
+</div>
+<p>Because React Sketch.app uses flexbox, its components can have the same rich layout as your real components. No more dragging rectangles by hand — everything works like your target layout engine!</p>
+<p><strong>Automatic internationalization</strong></p>
+<div>
+<p>Using the Google Translate API to automatically translate text into multiple languages</p>
+</div>
+<p>We’re an international company, with users in every corner of the world — it’s vital that our designs work well for everyone. Our design tools should enable us to think beyond our native languages.</p>
+<p>So, why did we want to put React in Sketch?</p>
+<h3>Sources of truth</h3>
+<p>Design systems allow designers to reuse styles, components, and patterns, which in turn gives them time to focus on higher-level thinking. A good design system also empowers engineers to confidently implement new features without relying on redlines or back-and-forth pixel tweaking with a designer. And yet, comprehensive design systems in large organizations can introduce their own growing pains. In our case, one of our bottlenecks was in our Sketch templates.</p>
+<p>I’m a big fan of Airbnb’s design system, <a href="https://airbnb.design/building-a-visual-language/" target="_blank">DLS</a>. It starts with common primitives — typography, color, and spacing — and grows into a rich library of components that work across platforms, screen sizes, and languages.</p>
+<p>Of course, a design system is never complete. We’re constantly adding to DLS, changing existing components and optimizing it to make it usable by everyone in the world.</p>
+<p>For each change or addition to the system, a cascade of work is created. Documentation has to be updated, each of our apps’ code has to be changed (in Swift, Java, and JavaScript), and Sketch templates have to be redrawn. <b>These efforts have to be coordinated, and each source must always be in sync with the others.</b></p>
+<p>Code is relatively easy to tie together, and we already have an infrastructure that allows for version control and continuous integration of our applications. Until now though, maintaining Sketch templates relied on manually-intensive human touch points.</p>
+<div class="readableLargeImageContainer"><img src="https://airbnb.design/wp-content/uploads/2017/04/Screen-Shot-2017-04-07-at-11.46.16-AM-1000x563.png"   alt="Airbnb DLS Sketch Templates" /></div>
+<p>Due to how design systems are composed, changes have to be tracked to see how they affect the system — changing a color reference might affect dozens of components. Each component must be redrawn to respect line-height and spacing. Niceties, such as converting colors for display in different formats, annotating specs, and calculating color contrast ratios for accessibility, all increase the potential for errors and inconsistencies. Graphics-based design tools are notoriously bad at version control. All these moving parts left us frequently uncertain about the state of the system. Questions, such as “What’s the font size for titles on mobile,” “Is this still what this component looks like,” or How does this component work on different screen sizes,” were all too common around the office.</p>
+<p>These problems compound as organizations grow. What is fixable instantly when a freelancer designs and codes everything alone is a frustration for a three-person design team. Likewise, the inefficiencies that a medium team can roll with are catastrophically wasteful to a team of our size. Pruning human touch points from DLS is foundational to ensuring we can grow into an even more effective team in the next few years.</p>
+<h3>Using the real thing</h3>
+<div class="readableLargeImageContainer"><img src="https://airbnb.design/wp-content/uploads/2017/04/Screen-Shot-2017-04-21-at-10.54.06-PM-1000x808.png"   alt="A screenshot of a Sketch file in which the designer is using Airbnb's Design Language System symbols." /></div>
+<p>I’m obsessed with the tooling principle of just using <em>the thing</em> itself. A designer’s workflow in Sketch is actually pretty similar to using React components: she picks a component, and puts data in it. In Sketch, we use <i>symbols</i> and <i>overrides</i>, in React we use <i>components</i> and <i>properties</i>. <b>The concepts are so similar that it seemed silly not to unify them.</b></p>
+<p>We also wanted to minimize sources of truth. Why keep a separate library of components drawn by hand in Sketch once we have them implemented as the real thing used every day by millions of people?</p>
+<p>The fewer sources of truth we have for a design system, the more efficient we are.</p>
+<div><p>“Many hard problems are best solved when they are addressed backward.”<br />
+— Charlie Munger, Vice-Chairman of Berkshire Hathaway</p></div>
+<p>Design tools that seek to produce production-ready code are as old as the internet. As the industry has coalesced around Sketch, people have sought to generate code from Sketch. This is exciting, but for our challenges we wanted to do the <i>exact opposite</i> — <b>to keep DLS in sync we have to generate Sketch files from code.</b></p>
+<p>Having built several internal tools on top of Sketch in 2016, we knew the potential of scripting it to manipulate files as we wanted. However, its programming language, CocoaScript, isn’t the most familiar to most developers, and we wanted to be able to fully embrace the power of modern JavaScript to quickly and intuitively create documents.</p>
+<div><p>“React is such a good idea that we will spend the rest of the decade continuing to explore its implications and applications”<br />
+— <a href="https://twitter.com/rauchg/status/801005961334943744" target="_blank">Guillermo Rauch</a>, founder of ZEIT</p></div>
+<p>At Airbnb, we’re big fans of <a href="https://facebook.github.io/react/" target="_blank">React.js</a>. It’s the perfect paradigm for thinking about and building componentized design systems, and we use it for large parts of our web and mobile applications. React is a much bigger idea than any one platform though — as well as the familiar React and React Native implementations, there have been interesting projects using the same principles for <a href="https://facebook.github.io/react-vr/" target="_blank">virtual reality</a>, <a href="https://github.com/iamdustan/react-hardware" target="_blank">blinking LEDs</a>, <a href="https://formidable.com/blog/2016/08/22/make-dope-beats-with-reactjs/" target="_blank">music synthesizers</a>, and <a href="https://github.com/Yomguithereal/react-blessed" target="_blank">terminal applications</a>.</p>
+<p><b>React as a paradigm is perfect for wrapping the complexity of underlying platform APIs and providing consistent and smooth tools to the developers using them.</b></p>
+<h3>The adjacent possible</h3>
+<div><p>“The strange and beautiful truth about the ‘adjacent possible’ is that its boundaries grow as you explore them. Each new combination opens up the possibility of other new combinations”<br />
+— Steven Johnson</p></div>
+<p>Over dinner on a rainy San Francisco evening, our team posed the question: “What if we used React to write Sketch files?”Shortly thereafter, we ended up with a pretty good proof-of-concept React renderer. It was perfect for laying out color swatches and type specimens, but we hadn’t yet figured out how we’d use it for more ambitious documents.</p>
+<p>Using Sketch-style components, such as <code>&lt;rect&gt;</code>, <code>&lt;circle&gt;</code>, and <code>&lt;line&gt;</code>, meant we’d have to recreate each DLS component to be able to draw it to Sketch. While faster at scale than creating by hand, it was still (programmatically) drawing a picture of <i>the thing</i> rather than just <i>using the thing</i>. We’d inadvertently removed one source of truth and replaced it with another!</p>
+<p>A breakthrough came when Airbnb engineer Leland Richardson proposed using React Native-style components. <code>&lt;View&gt;,</code> <code>&lt;Text&gt;</code>, etc. are the basic units of composition for design systems, so that semantically linked our Sketch components with their production counterparts. More excitingly, with Leland’s <a href="https://github.com/lelandrichardson/react-primitives" target="_blank">React Primitives</a> project we could render <i>real React components</i> to Sketch, the browser, and our phones at the same time.</p>
+<p>We began the project to reduce the time it takes to generate static assets. But through exploring its edges and adjacent possibilities, we’re unearthing exciting and novel ways of interacting with design systems in Sketch. Many tasks that were previously unfeasible, required massive human input, or relied on sketchy (sorry) plugins are now enabled with the same code that our engineers are writing day-to-day.</p>
+<p>By lowering the bar for Sketch compatibility, we also open ourselves up to new and exciting experimental tooling, tailored to our workflow. We can prototype the smarter design tooling of tomorrow while maintaining full compatibility with the software that our team uses today.</p>
+<h3>Moving forward</h3>
+<div><p>“We’re investing in code as a design tool. Moving closer to working with assets that don’t only include layout and design, but also logic and data. This helps bridge the gap between engineers and designers, thus reducing the need for design specs–or redlines–and the steps between vision and reality”<br />
+— Alex Schleifer, head of design at Airbnb</p></div>
+<p>The project wouldn’t have been possible without deep contributions from the community. Thank you to <a href="https://github.com/darknoon" target="_blank">Andrew Pouliot</a>, <a href="https://github.com/mathieudutour" target="_blank">Mathieu Dutour</a>, and countless others who wrote code, reviewed pull requests, played with demos, and wrote documentation. We’re excited to open source our work, and we look forward to more collaborations in the future 🙂</p>
+<p>We hope you enjoy using <a href="https://github.com/airbnb/react-sketchapp" target="_blank">React Sketch.app</a> as much as we do. We’re still in the early days of figuring out all its possible applications, but it’s already a great tool for wrangling design systems at scale, using real data, and bringing design and engineering closer together.</p>
+<p>We’re excited to see what you make with React Sketch.app — feel free to reach us by <a href="mailto:designtools+reactsketchapp@airbnb.com" target="_blank">email</a> with feedback, thoughts or suggestions. And if these projects sound interesting to you, our design tools team is hiring Design Technologists in San Francisco 🙂</p>
+      
