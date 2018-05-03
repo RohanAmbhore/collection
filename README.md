@@ -7,6 +7,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-03 
 - [Redux: Persisting the State to the Local Storage from @dan_abramov on @eggheadio](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [[Read]](pages/redux_persisting_the_state_to_the_local_storage_from_dan_abramov_on_eggheadio_2018_05_03_10_17_39.md)
  > 
+- [Managing your React state with Redux – The Web Tub – Medium](https://medium.com/the-web-tub/managing-your-react-state-with-redux-affab72de4b1) [[Read]](pages/managing_your_react_state_with_redux_the_web_tub_medium_2018_05_03_11_1_50.md)
+ > 
 ### 2018-05-02 
 - [mapStateToProps with or without createStructuredSelector · Issue #304 · reduxjs/reselect](https://github.com/reduxjs/reselect/issues/304) [[Read]](pages/mapstatetoprops_with_or_without_createstructuredselector_issue_304_reduxjs_reselect_2018_05_02_10_23_29.md)
 
