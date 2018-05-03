@@ -13,6 +13,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [eslint-loader doesn't check if additional .eslintrc exists · Issue #129 · webpack-contrib/eslint-loader](https://github.com/webpack-contrib/eslint-loader/issues/129) [[Read]](pages/eslint_loader_doesn_t_check_if_additional_eslintrc_exists_issue_129_webpack_contrib_eslint_loader_2018_05_03_11_34_7.md)
  > 
+- [what is the exact usage of subscribe from redux?：reactjs](https://www.reddit.com/r/reactjs/comments/6djrgz/what_is_the_exact_usage_of_subscribe_from_redux/) [[Read]](pages/what_is_the_exact_usage_of_subscribe_from_redux_reactjs_2018_05_03_11_46_42.md)
+ > 
 ### 2018-05-02 
 - [mapStateToProps with or without createStructuredSelector · Issue #304 · reduxjs/reselect](https://github.com/reduxjs/reselect/issues/304) [[Read]](pages/mapstatetoprops_with_or_without_createstructuredselector_issue_304_reduxjs_reselect_2018_05_02_10_23_29.md)
 
