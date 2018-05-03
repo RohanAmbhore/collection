@@ -23,6 +23,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [如何在疲劳的JS世界中持续学习 - 掘金](https://juejin.im/post/5ae97bd05188256719521ae0?utm_source=gold_browser_extension) [[Read]](pages/js_2018_05_03_14_48_26.md)
  > 
+- [Five Tips for Working with Redux in Large Applications](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb) [[Read]](pages/five_tips_for_working_with_redux_in_large_applications_2018_05_03_15_43_17.md)
+ > 
 ### 2018-05-02 
 - [mapStateToProps with or without createStructuredSelector · Issue #304 · reduxjs/reselect](https://github.com/reduxjs/reselect/issues/304) [[Read]](pages/mapstatetoprops_with_or_without_createstructuredselector_issue_304_reduxjs_reselect_2018_05_02_10_23_29.md)
 
