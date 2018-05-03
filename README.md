@@ -19,6 +19,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog](http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example) [[Read]](pages/react_redux_user_registration_and_login_tutorial_example_jason_watmore_s_blog_2018_05_03_13_45_58.md)
  > 
+- [React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog](http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example) [[Read]](pages/react_redux_user_registration_and_login_tutorial_example_jason_watmore_s_blog_2018_05_03_13_46_33.md)
+ > 
 ### 2018-05-02 
 - [mapStateToProps with or without createStructuredSelector · Issue #304 · reduxjs/reselect](https://github.com/reduxjs/reselect/issues/304) [[Read]](pages/mapstatetoprops_with_or_without_createstructuredselector_issue_304_reduxjs_reselect_2018_05_02_10_23_29.md)
 
