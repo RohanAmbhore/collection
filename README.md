@@ -17,6 +17,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [authentication - Store Credentials in Redux store is a good practice? - Stack Overflow](https://stackoverflow.com/questions/35365595/store-credentials-in-redux-store-is-a-good-practice) [[Read]](pages/authentication_store_credentials_in_redux_store_is_a_good_practice_stack_overflow_2018_05_03_12_4_21.md)
  > 
+- [React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog](http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example) [[Read]](pages/react_redux_user_registration_and_login_tutorial_example_jason_watmore_s_blog_2018_05_03_13_45_58.md)
+ > 
 ### 2018-05-02 
 - [mapStateToProps with or without createStructuredSelector · Issue #304 · reduxjs/reselect](https://github.com/reduxjs/reselect/issues/304) [[Read]](pages/mapstatetoprops_with_or_without_createstructuredselector_issue_304_reduxjs_reselect_2018_05_02_10_23_29.md)
 
