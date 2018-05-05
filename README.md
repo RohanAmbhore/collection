@@ -18,6 +18,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Usage with Enzyme, error: Enzyme expects an adapter · Issue #185 · wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript/issues/185) [[Read]](pages/usage_with_enzyme_error_enzyme_expects_an_adapter_issue_185_wmonk_create_react_app_typescript_2018_05_05_18_55_33.md)
  > 
+- [Error on tests when Enzyme is added · Issue #3206 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/3206) [[Read]](pages/error_on_tests_when_enzyme_is_added_issue_3206_facebook_create_react_app_2018_05_05_18_56_36.md)
+ > 
 ### 2018-05-03 
 - [Redux: Persisting the State to the Local Storage from @dan_abramov on @eggheadio](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [[Read]](pages/redux_persisting_the_state_to_the_local_storage_from_dan_abramov_on_eggheadio_2018_05_03_10_17_39.md)
  > 
