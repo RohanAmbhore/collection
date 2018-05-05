@@ -4,6 +4,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-05 
+- [AssertionError: ImportDeclaration should appear when the mode is ES6 and in the module context · Issue #4344 · eslint/eslint](https://github.com/eslint/eslint/issues/4344) [[Read]](pages/assertionerror_importdeclaration_should_appear_when_the_mode_is_es6_and_in_the_module_context_issue_4344_eslint_eslint_2018_05_05_14_50_26.md)
+ > 
 ### 2018-05-03 
 - [Redux: Persisting the State to the Local Storage from @dan_abramov on @eggheadio](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [[Read]](pages/redux_persisting_the_state_to_the_local_storage_from_dan_abramov_on_eggheadio_2018_05_03_10_17_39.md)
  > 
