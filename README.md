@@ -20,6 +20,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Error on tests when Enzyme is added · Issue #3206 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/3206) [[Read]](pages/error_on_tests_when_enzyme_is_added_issue_3206_facebook_create_react_app_2018_05_05_18_56_36.md)
  > 
+- [Testing a Redux-connected component using Enzyme · Issue #1002 · airbnb/enzyme](https://github.com/airbnb/enzyme/issues/1002) [[Read]](pages/testing_a_redux_connected_component_using_enzyme_issue_1002_airbnb_enzyme_2018_05_05_19_0_23.md)
+ > 
 ### 2018-05-03 
 - [Redux: Persisting the State to the Local Storage from @dan_abramov on @eggheadio](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [[Read]](pages/redux_persisting_the_state_to_the_local_storage_from_dan_abramov_on_eggheadio_2018_05_03_10_17_39.md)
  > 
