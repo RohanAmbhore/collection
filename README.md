@@ -24,6 +24,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Kea](https://kea.js.org/) [[Read]](pages/kea_2018_05_05_19_19_31.md)
  > 
+- [Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.](https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02) [[Read]](pages/kea_vs_setstate_redux_mobx_dva_jumpstate_apollo_etc_2018_05_05_19_51_24.md)
+ > 
 ### 2018-05-03 
 - [Redux: Persisting the State to the Local Storage from @dan_abramov on @eggheadio](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [[Read]](pages/redux_persisting_the_state_to_the_local_storage_from_dan_abramov_on_eggheadio_2018_05_03_10_17_39.md)
  > 
