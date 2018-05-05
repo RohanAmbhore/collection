@@ -12,6 +12,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [React: Static Props in ES6 classes – Tobiah Rex – Medium](https://medium.com/@tobiahrex/es6-class-static-props-in-react-7b7480381e06) [[Read]](pages/react_static_props_in_es6_classes_tobiah_rex_medium_2018_05_05_15_28_35.md)
  > 
+- [Class properties resulting in false positive · Issue #487 · babel/babel-eslint](https://github.com/babel/babel-eslint/issues/487) [[Read]](pages/class_properties_resulting_in_false_positive_issue_487_babel_babel_eslint_2018_05_05_17_39_53.md)
+ > 
 ### 2018-05-03 
 - [Redux: Persisting the State to the Local Storage from @dan_abramov on @eggheadio](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [[Read]](pages/redux_persisting_the_state_to_the_local_storage_from_dan_abramov_on_eggheadio_2018_05_03_10_17_39.md)
  > 
