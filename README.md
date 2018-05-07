@@ -14,6 +14,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [requestAnimationFrame warning with React 16 · Issue #4545 · facebook/jest](https://github.com/facebook/jest/issues/4545) [[Read]](pages/requestanimationframe_warning_with_react_16_issue_4545_facebook_jest_2018_05_07_15_17_21.md)
  > 
+- ["Syntax Error: Invalid or unexpected token" with .png · Issue #2663 · facebook/jest](https://github.com/facebook/jest/issues/2663) [[Read]](pages/syntax_error_invalid_or_unexpected_token_with_png_issue_2663_facebook_jest_2018_05_07_15_20_27.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
