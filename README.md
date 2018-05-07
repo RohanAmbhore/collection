@@ -26,6 +26,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [visual studio code - Is there a way to make vscode line number field smaller width? - Stack Overflow](https://stackoverflow.com/questions/44912058/is-there-a-way-to-make-vscode-line-number-field-smaller-width) [[Read]](pages/visual_studio_code_is_there_a_way_to_make_vscode_line_number_field_smaller_width_stack_overflow_2018_05_07_17_9_2.md)
  > 
+- [visual studio code - Is there a way to make vscode line number field smaller width? - Stack Overflow](https://stackoverflow.com/questions/44912058/is-there-a-way-to-make-vscode-line-number-field-smaller-width) [[Read]](pages/visual_studio_code_is_there_a_way_to_make_vscode_line_number_field_smaller_width_stack_overflow_2018_05_07_17_10_24.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
