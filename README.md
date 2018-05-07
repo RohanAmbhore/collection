@@ -10,6 +10,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-07 
 - [Show HN: Kea – The power of Redux with the simplicity of MobX | Hacker News](https://news.ycombinator.com/item?id=14859206) [[Read]](pages/show_hn_kea_the_power_of_redux_with_the_simplicity_of_mobx_hacker_news_2018_05_07_9_56_13.md)
  > 
+- [Enhance Jest configuration with Module Aliases | Alex Jover Morales](https://alexjoverm.github.io/2017/10/07/Enhance-Jest-configuration-with-Module-Aliases/) [[Read]](pages/enhance_jest_configuration_with_module_aliases_alex_jover_morales_2018_05_07_11_19_33.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
