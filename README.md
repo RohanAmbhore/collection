@@ -18,6 +18,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [What does "spec" mean in Javascript Testing - Stack Overflow](https://stackoverflow.com/questions/40222751/what-does-spec-mean-in-javascript-testing) [[Read]](pages/what_does_spec_mean_in_javascript_testing_stack_overflow_2018_05_07_15_32_22.md)
  > 
+- [jestjs - How do I deal with localStorage in jest tests? - Stack Overflow](https://stackoverflow.com/questions/32911630/how-do-i-deal-with-localstorage-in-jest-tests) [[Read]](pages/jestjs_how_do_i_deal_with_localstorage_in_jest_tests_stack_overflow_2018_05_07_16_9_10.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
