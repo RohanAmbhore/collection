@@ -30,6 +30,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Trigen/sagas.test.js at 12a12040f620bb48400eaf2028fd0fcc160d40d5 · on3iro/Trigen](https://github.com/on3iro/Trigen/blob/12a12040f620bb48400eaf2028fd0fcc160d40d5/src/containers/Auth/ducks/tests/sagas.test.js) [[Read]](pages/trigen_sagas_test_js_at_12a12040f620bb48400eaf2028fd0fcc160d40d5_on3iro_trigen_2018_05_07_18_28_40.md)
  > 
+- [Chrome DevTools on Twitter: "DevTools can now auto-open itself for new windows and popups. Try in Canary. https://t.co/o3x0Gbftkj"](https://twitter.com/chromedevtools/status/697993811696291842?lang=en) [[Read]](pages/chrome_devtools_on_twitter_devtools_can_now_auto_open_itself_for_new_windows_and_popups_try_in_canary_https_t_co_o3x0gbftkj_2018_05_07_23_47_44.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
