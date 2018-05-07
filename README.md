@@ -12,6 +12,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Enhance Jest configuration with Module Aliases | Alex Jover Morales](https://alexjoverm.github.io/2017/10/07/Enhance-Jest-configuration-with-Module-Aliases/) [[Read]](pages/enhance_jest_configuration_with_module_aliases_alex_jover_morales_2018_05_07_11_19_33.md)
  > 
+- [requestAnimationFrame warning with React 16 · Issue #4545 · facebook/jest](https://github.com/facebook/jest/issues/4545) [[Read]](pages/requestanimationframe_warning_with_react_16_issue_4545_facebook_jest_2018_05_07_15_17_21.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
