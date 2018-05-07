@@ -20,6 +20,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [jestjs - How do I deal with localStorage in jest tests? - Stack Overflow](https://stackoverflow.com/questions/32911630/how-do-i-deal-with-localstorage-in-jest-tests) [[Read]](pages/jestjs_how_do_i_deal_with_localstorage_in_jest_tests_stack_overflow_2018_05_07_16_9_10.md)
  > 
+- [jestjs - How do I deal with localStorage in jest tests? - Stack Overflow](https://stackoverflow.com/questions/32911630/how-do-i-deal-with-localstorage-in-jest-tests) [[Read]](pages/jestjs_how_do_i_deal_with_localstorage_in_jest_tests_stack_overflow_2018_05_07_16_10_26.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
