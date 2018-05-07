@@ -16,6 +16,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - ["Syntax Error: Invalid or unexpected token" with .png · Issue #2663 · facebook/jest](https://github.com/facebook/jest/issues/2663) [[Read]](pages/syntax_error_invalid_or_unexpected_token_with_png_issue_2663_facebook_jest_2018_05_07_15_20_27.md)
  > 
+- [What does "spec" mean in Javascript Testing - Stack Overflow](https://stackoverflow.com/questions/40222751/what-does-spec-mean-in-javascript-testing) [[Read]](pages/what_does_spec_mean_in_javascript_testing_stack_overflow_2018_05_07_15_32_22.md)
+ > 
 ### 2018-05-06 
 - [Vanilla JavaScript Components – Bunny AI – Medium](https://medium.com/bunnyllc/vanilla-js-components-8d20c58b69f4) [[Read]](pages/vanilla_javascript_components_bunny_ai_medium_2018_05_06_18_35_54.md)
  > 
