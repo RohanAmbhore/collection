@@ -21,6 +21,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [NPMCompare.com - Comparing expect vs. nock vs. sinon vs. supertest](https://npmcompare.com/compare/expect,nock,sinon,supertest) [[Read]](pages/npmcompare_com_comparing_expect_vs_nock_vs_sinon_vs_supertest_2018_05_08_16_37_43.md)
  > 
+- [API testing with Jest – Hacker Noon](https://hackernoon.com/api-testing-with-jest-d1ab74005c0a) [[Read]](pages/api_testing_with_jest_hacker_noon_2018_05_08_16_52_4.md)
+ > 
 ### 2018-05-07 
 - [Show HN: Kea – The power of Redux with the simplicity of MobX | Hacker News](https://news.ycombinator.com/item?id=14859206) [[Read]](pages/show_hn_kea_the_power_of_redux_with_the_simplicity_of_mobx_hacker_news_2018_05_07_9_56_13.md)
  > 
