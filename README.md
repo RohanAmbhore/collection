@@ -11,6 +11,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-08 
 - [Using Redux-Saga to handle side-effects and testing it using Jest](https://medium.com/@gethylgeorge/using-redux-saga-to-handle-side-effects-and-testing-it-using-jest-2dff2d59f899) [[Read]](pages/using_redux_saga_to_handle_side_effects_and_testing_it_using_jest_2018_05_08_10_16_27.md)
  > 
+- [.simulate('click') only working when done twice on the same component, through ID and Class · Issue #1081 · airbnb/enzyme](https://github.com/airbnb/enzyme/issues/1081) [[Read]](pages/simulate_click_only_working_when_done_twice_on_the_same_component_through_id_and_class_issue_1081_airbnb_enzyme_2018_05_08_12_43_24.md)
+ > 
 ### 2018-05-07 
 - [Show HN: Kea – The power of Redux with the simplicity of MobX | Hacker News](https://news.ycombinator.com/item?id=14859206) [[Read]](pages/show_hn_kea_the_power_of_redux_with_the_simplicity_of_mobx_hacker_news_2018_05_07_9_56_13.md)
  > 
