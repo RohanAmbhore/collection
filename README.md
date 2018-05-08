@@ -23,6 +23,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [API testing with Jest – Hacker Noon](https://hackernoon.com/api-testing-with-jest-d1ab74005c0a) [[Read]](pages/api_testing_with_jest_hacker_noon_2018_05_08_16_52_4.md)
  > 
+- [A Guide to Proper Error Handling in JavaScript — SitePoint](https://www.sitepoint.com/proper-error-handling-javascript/) [[Read]](pages/a_guide_to_proper_error_handling_in_javascript_sitepoint_2018_05_08_17_9_39.md)
+ > 
 ### 2018-05-07 
 - [Show HN: Kea – The power of Redux with the simplicity of MobX | Hacker News](https://news.ycombinator.com/item?id=14859206) [[Read]](pages/show_hn_kea_the_power_of_redux_with_the_simplicity_of_mobx_hacker_news_2018_05_07_9_56_13.md)
  > 
