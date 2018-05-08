@@ -15,6 +15,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Why to avoid .simulate? Rather use `props` to call fn directly? · Issue #1606 · airbnb/enzyme](https://github.com/airbnb/enzyme/issues/1606) [[Read]](pages/why_to_avoid_simulate_rather_use_props_to_call_fn_directly_issue_1606_airbnb_enzyme_2018_05_08_12_43_34.md)
  > 
+- [API testing with Jest – Hacker Noon](https://hackernoon.com/api-testing-with-jest-d1ab74005c0a) [[Read]](pages/api_testing_with_jest_hacker_noon_2018_05_08_15_11_2.md)
+ > 
 ### 2018-05-07 
 - [Show HN: Kea – The power of Redux with the simplicity of MobX | Hacker News](https://news.ycombinator.com/item?id=14859206) [[Read]](pages/show_hn_kea_the_power_of_redux_with_the_simplicity_of_mobx_hacker_news_2018_05_07_9_56_13.md)
  > 
