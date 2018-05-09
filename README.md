@@ -18,6 +18,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [jefflau/jest-fetch-mock: Jest mock for the fetch polyfill](https://github.com/jefflau/jest-fetch-mock) [[Read]](pages/jefflau_jest_fetch_mock_jest_mock_for_the_fetch_polyfill_2018_05_09_13_49_1.md)
  > 
+- [Visual Studio Code how to resolve merge conflicts with git? - Stack Overflow](https://stackoverflow.com/questions/38216541/visual-studio-code-how-to-resolve-merge-conflicts-with-git/38216625) [[Read]](pages/visual_studio_code_how_to_resolve_merge_conflicts_with_git_stack_overflow_2018_05_09_18_40_55.md)
+ > 
 ### 2018-05-08 
 - [Using Redux-Saga to handle side-effects and testing it using Jest](https://medium.com/@gethylgeorge/using-redux-saga-to-handle-side-effects-and-testing-it-using-jest-2dff2d59f899) [[Read]](pages/using_redux_saga_to_handle_side_effects_and_testing_it_using_jest_2018_05_08_10_16_27.md)
  > 
