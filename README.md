@@ -16,6 +16,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Understanding Contract Testing for Microservices](https://www.mabl.com/blog/understanding-contract-testing-microservices-mabl) [[Read]](pages/understanding_contract_testing_for_microservices_2018_05_09_10_44_13.md)
  > 
+- [jefflau/jest-fetch-mock: Jest mock for the fetch polyfill](https://github.com/jefflau/jest-fetch-mock) [[Read]](pages/jefflau_jest_fetch_mock_jest_mock_for_the_fetch_polyfill_2018_05_09_13_49_1.md)
+ > 
 ### 2018-05-08 
 - [Using Redux-Saga to handle side-effects and testing it using Jest](https://medium.com/@gethylgeorge/using-redux-saga-to-handle-side-effects-and-testing-it-using-jest-2dff2d59f899) [[Read]](pages/using_redux_saga_to_handle_side_effects_and_testing_it_using_jest_2018_05_08_10_16_27.md)
  > 
