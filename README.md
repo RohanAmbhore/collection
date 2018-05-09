@@ -14,6 +14,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [javascript - Testing same API for multiple response sets - Stack Overflow](https://stackoverflow.com/questions/44331178/testing-same-api-for-multiple-response-sets?rq=1) [[Read]](pages/javascript_testing_same_api_for_multiple_response_sets_stack_overflow_2018_05_09_10_30_35.md)
  > 
+- [Understanding Contract Testing for Microservices](https://www.mabl.com/blog/understanding-contract-testing-microservices-mabl) [[Read]](pages/understanding_contract_testing_for_microservices_2018_05_09_10_44_13.md)
+ > 
 ### 2018-05-08 
 - [Using Redux-Saga to handle side-effects and testing it using Jest](https://medium.com/@gethylgeorge/using-redux-saga-to-handle-side-effects-and-testing-it-using-jest-2dff2d59f899) [[Read]](pages/using_redux_saga_to_handle_side_effects_and_testing_it_using_jest_2018_05_08_10_16_27.md)
  > 
