@@ -13,6 +13,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-10 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) [[Read]](pages/the_front_end_tooling_survey_2018_results_ashleynolan_co_uk_blog_and_portfolio_for_ashley_nolan_2018_05_10_19_56_17.md)
  > 
+- [BEM — Block Element Modifier](http://getbem.com/) [[Read]](pages/bem_block_element_modifier_2018_05_10_20_8_48.md)
+ > 
 ### 2018-05-09 
 - [javascript - Testing same API for multiple response sets - Stack Overflow](https://stackoverflow.com/questions/44331178/testing-same-api-for-multiple-response-sets?rq=1) [[Read]](pages/javascript_testing_same_api_for_multiple_response_sets_stack_overflow_2018_05_09_10_28_39.md)
  > 
