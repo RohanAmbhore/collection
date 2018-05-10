@@ -1,0 +1,1 @@
+<a href="http://getbem.com/">http://getbem.com/</a><div id="articleHeader"><h1>BEM — Block Element Modifier</h1></div><div><div class="readableLargeImageContainer"><img src="/assets/b_.svg" alt="b_" /></div></div>BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
