@@ -16,6 +16,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding) [[Read]](pages/character_encodings_for_beginners_2018_05_11_11_8_2.md)
  > 
+- [Just wanted to add this in the context of Rahmat Hidayat’s question (below) — and firstly, thanks…](https://medium.com/@blakehschwartz/just-wanted-to-add-this-in-the-context-of-rahmat-hidayats-question-below-and-firstly-thanks-ca7fdf78bb95) [[Read]](pages/just_wanted_to_add_this_in_the_context_of_rahmat_hidayat_s_question_below_and_firstly_thanks_2018_05_11_11_44_12.md)
+ > 
 ### 2018-05-10 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) [[Read]](pages/the_front_end_tooling_survey_2018_results_ashleynolan_co_uk_blog_and_portfolio_for_ashley_nolan_2018_05_10_19_56_17.md)
  > 
