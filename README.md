@@ -30,6 +30,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [redux - why action.payload use in reactjs - Stack Overflow](https://stackoverflow.com/questions/49725708/why-action-payload-use-in-reactjs) [[Read]](pages/redux_why_action_payload_use_in_reactjs_stack_overflow_2018_05_11_14_42_30.md)
  > 
+- [Idiomatic Redux: Using Reselect Selectors for Encapsulation and Performance · Mark's Dev Blog](http://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/) [[Read]](pages/idiomatic_redux_using_reselect_selectors_for_encapsulation_and_performance_mark_s_dev_blog_2018_05_11_15_27_11.md)
+ > 
 ### 2018-05-10 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) [[Read]](pages/the_front_end_tooling_survey_2018_results_ashleynolan_co_uk_blog_and_portfolio_for_ashley_nolan_2018_05_10_19_56_17.md)
  > 
