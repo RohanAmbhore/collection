@@ -24,6 +24,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Git - When to Merge vs. When to Rebase – DerekGourlay.com](https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/) [[Read]](pages/git_when_to_merge_vs_when_to_rebase_derekgourlay_com_2018_05_11_12_26_50.md)
  > 
+- [使用git rebase合并多次commit - CSDN博客](https://blog.csdn.net/yangcs2009/article/details/47166361) [[Read]](pages/git_rebase_commit_csdn_2018_05_11_12_41_34.md)
+ > 
 ### 2018-05-10 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) [[Read]](pages/the_front_end_tooling_survey_2018_results_ashleynolan_co_uk_blog_and_portfolio_for_ashley_nolan_2018_05_10_19_56_17.md)
  > 
