@@ -46,6 +46,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [美团点评前端无痕埋点实践 -](https://tech.meituan.com/mt-mobile-analytics-practice.html) [[Read]](pages/2018_05_11_16_52_52.md)
  > 
+- [Idiomatic Redux: Why use action creators? · Mark's Dev Blog](http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/) [[Read]](pages/idiomatic_redux_why_use_action_creators_mark_s_dev_blog_2018_05_11_16_54_42.md)
+ > 
 ### 2018-05-10 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) [[Read]](pages/the_front_end_tooling_survey_2018_results_ashleynolan_co_uk_blog_and_portfolio_for_ashley_nolan_2018_05_10_19_56_17.md)
  > 
