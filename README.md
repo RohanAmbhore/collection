@@ -28,6 +28,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [node.js - Convert a binary NodeJS Buffer to JavaScript ArrayBuffer - Stack Overflow](https://stackoverflow.com/questions/8609289/convert-a-binary-nodejs-buffer-to-javascript-arraybuffer/17064149) [[Read]](pages/node_js_convert_a_binary_nodejs_buffer_to_javascript_arraybuffer_stack_overflow_2018_05_11_14_16_45.md)
  > 
+- [redux - why action.payload use in reactjs - Stack Overflow](https://stackoverflow.com/questions/49725708/why-action-payload-use-in-reactjs) [[Read]](pages/redux_why_action_payload_use_in_reactjs_stack_overflow_2018_05_11_14_42_30.md)
+ > 
 ### 2018-05-10 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) [[Read]](pages/the_front_end_tooling_survey_2018_results_ashleynolan_co_uk_blog_and_portfolio_for_ashley_nolan_2018_05_10_19_56_17.md)
  > 
