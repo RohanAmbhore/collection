@@ -17,7 +17,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [What’s the waiter doing with the computer screen? : Jävla skitsystem!](https://javlaskitsystem.se/2012/02/whats-the-waiter-doing-with-the-computer-screen/) [[Read]](pages/what_s_the_waiter_doing_with_the_computer_screen_j_vla_skitsystem_2018_05_12_10_46_11.md)
  > 
-- <mark>[Favorite]</mark> [What’s the waiter doing with the computer screen? : Jävla skitsystem!](https://javlaskitsystem.se/2012/02/whats-the-waiter-doing-with-the-computer-screen/) [[Read]](pages/what_s_the_waiter_doing_with_the_computer_screen_j_vla_skitsystem_2018_05_12_10_48_45.md)
+- `[Favorite]` [What’s the waiter doing with the computer screen? : Jävla skitsystem!](https://javlaskitsystem.se/2012/02/whats-the-waiter-doing-with-the-computer-screen/) [[Read]](pages/what_s_the_waiter_doing_with_the_computer_screen_j_vla_skitsystem_2018_05_12_10_48_45.md)
  > 
 ### 2018-05-11 
 - [Do you want a better understanding of Buffer in Node.js? Check this out.](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8) [[Read]](pages/do_you_want_a_better_understanding_of_buffer_in_node_js_check_this_out_2018_05_11_10_49_52.md)
