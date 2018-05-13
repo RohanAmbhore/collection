@@ -12,6 +12,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-13 
+- [Book Summaries: Popular Book Summaries in 3 Sentences or Less](https://jamesclear.com/book-summaries) [[Read]](pages/book_summaries_popular_book_summaries_in_3_sentences_or_less_2018_05_13_15_45_37.md)
+ > 
 ### 2018-05-12 
 - [What’s the waiter doing with the computer screen? : Jävla skitsystem!](https://javlaskitsystem.se/2012/02/whats-the-waiter-doing-with-the-computer-screen/) [[Read]](pages/what_s_the_waiter_doing_with_the_computer_screen_j_vla_skitsystem_2018_05_12_9_31_28.md)
  > 
