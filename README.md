@@ -20,6 +20,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [(2) Steven Grimm's answer to Why does Facebook have so much of their source code in 1 giant git repo, did they not think that this approach won't scale? - Quora](https://www.quora.com/Why-does-Facebook-have-so-much-of-their-source-code-in-1-giant-git-repo-did-they-not-think-that-this-approach-wont-scale/answer/Steven-Grimm) [[Read]](pages/2_steven_grimm_s_answer_to_why_does_facebook_have_so_much_of_their_source_code_in_1_giant_git_repo_did_they_not_think_that_this_approach_won_t_scale_quora_2018_05_15_15_43_20.md)
  > 
+- [How to use JavaScript regex over multiple lines? - Stack Overflow](https://stackoverflow.com/questions/1979884/how-to-use-javascript-regex-over-multiple-lines) [[Read]](pages/how_to_use_javascript_regex_over_multiple_lines_stack_overflow_2018_05_15_17_53_37.md)
+ > 
 ### 2018-05-14 
 - [request - Node.js Download File Using Content Disposition as Filename - Stack Overflow](https://stackoverflow.com/questions/20132064/node-js-download-file-using-content-disposition-as-filename) [[Read]](pages/request_node_js_download_file_using_content_disposition_as_filename_stack_overflow_2018_05_14_15_47_20.md)
  > 
