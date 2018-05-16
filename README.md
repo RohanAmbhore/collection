@@ -21,6 +21,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [How to hide unwanted warning · Issue #2070 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/2070) [[Read]](pages/how_to_hide_unwanted_warning_issue_2070_facebook_create_react_app_2018_05_16_10_32_17.md)
  > 
+- [Multiple components using the same selector · Issue #259 · reduxjs/reselect](https://github.com/reduxjs/reselect/issues/259) [[Read]](pages/multiple_components_using_the_same_selector_issue_259_reduxjs_reselect_2018_05_16_11_54_35.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
