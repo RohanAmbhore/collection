@@ -37,6 +37,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [The Horror of Blocking Electron’s Main Process – Actual Budget – Medium](https://medium.com/actualbudget/the-horror-of-blocking-electrons-main-process-351bf11a763c) [[Read]](pages/the_horror_of_blocking_electron_s_main_process_actual_budget_medium_2018_05_16_14_9_45.md)
  > 
+- [Running a cpu-intensive task on the main thread causes significant lags in browser window · Issue #9266 · electron/electron](https://github.com/electron/electron/issues/9266) [[Read]](pages/running_a_cpu_intensive_task_on_the_main_thread_causes_significant_lags_in_browser_window_issue_9266_electron_electron_2018_05_16_14_53_15.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
