@@ -45,6 +45,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Put your Electron app on a diet with Electrino – DailyJS – Medium](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297) [[Read]](pages/put_your_electron_app_on_a_diet_with_electrino_dailyjs_medium_2018_05_16_18_13_9.md)
  > 
+- [ipcRenderer.send(...) call freezes renderer thread - electron - Atom Discussion](https://discuss.atom.io/t/ipcrenderer-send-call-freezes-renderer-thread/29419) [[Read]](pages/ipcrenderer_send_call_freezes_renderer_thread_electron_atom_discussion_2018_05_16_18_17_38.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
