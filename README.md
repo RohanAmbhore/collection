@@ -27,6 +27,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Dan Abramov: Redux is not an architecture or design pattern, it is just a library. : javascript](https://www.reddit.com/r/javascript/comments/4rcqpx/dan_abramov_redux_is_not_an_architecture_or/d51g4k4/?context=3) [[Read]](pages/dan_abramov_redux_is_not_an_architecture_or_design_pattern_it_is_just_a_library_javascript_2018_05_16_12_0_51.md)
  > 
+- >[Favorite] [Any deep-dive/advanced tutorials on reselect? : reactjs](https://www.reddit.com/r/reactjs/comments/5dxasp/any_deepdiveadvanced_tutorials_on_reselect/) [[Read]](pages/any_deep_dive_advanced_tutorials_on_reselect_reactjs_2018_05_16_12_30_44.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
