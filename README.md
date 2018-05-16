@@ -57,6 +57,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [javascript - NodeJS and Electron - request-promise in back-end freezes CSS animation in front-end - Stack Overflow](https://stackoverflow.com/questions/48430578/nodejs-and-electron-request-promise-in-back-end-freezes-css-animation-in-front) [[Read]](pages/javascript_nodejs_and_electron_request_promise_in_back_end_freezes_css_animation_in_front_end_stack_overflow_2018_05_16_19_51_15.md)
  > 
+- [Running a cpu-intensive task on the main thread causes significant lags in browser window · Issue #9266 · electron/electron](https://github.com/electron/electron/issues/9266) [[Read]](pages/running_a_cpu_intensive_task_on_the_main_thread_causes_significant_lags_in_browser_window_issue_9266_electron_electron_2018_05_16_20_1_57.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
