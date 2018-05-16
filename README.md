@@ -35,6 +35,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Numaan Ashraf on Twitter: "I took a deeper look at this today. IPC is critical for all rendering tasks and keeping the main process busy seems to block the IPC pipe and drops frames across all renderer processes.… https://t.co/9qMK8v1GcM"](https://twitter.com/NumaanAshraf/status/968496732278374400) [[Read]](pages/numaan_ashraf_on_twitter_i_took_a_deeper_look_at_this_today_ipc_is_critical_for_all_rendering_tasks_and_keeping_the_main_process_busy_seems_to_block_the_ipc_pipe_and_drops_frames_across_all_renderer_processes_https_t_co_9qmk8v1gcm_2018_05_16_14_8_1.md)
  > 
+- >[Favorite] [The Horror of Blocking Electron’s Main Process – Actual Budget – Medium](https://medium.com/actualbudget/the-horror-of-blocking-electrons-main-process-351bf11a763c) [[Read]](pages/the_horror_of_blocking_electron_s_main_process_actual_budget_medium_2018_05_16_14_9_45.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
