@@ -51,6 +51,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Architecting Electron Applications for 60fps | nearForm](https://www.nearform.com/blog/architecting-electron-applications-for-60fps/) [[Read]](pages/architecting_electron_applications_for_60fps_nearform_2018_05_16_18_40_57.md)
  > 
+- [reactjs - electron + react + redux communication between two windows freezes PC? - Stack Overflow](https://stackoverflow.com/questions/40473768/electron-react-redux-communication-between-two-windows-freezes-pc) [[Read]](pages/reactjs_electron_react_redux_communication_between_two_windows_freezes_pc_stack_overflow_2018_05_16_18_50_2.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
