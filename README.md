@@ -43,6 +43,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [How do I make intensive computation in main process with renderer unaffected by it [SOLVED] - electron - Atom Discussion](https://discuss.atom.io/t/how-do-i-make-intensive-computation-in-main-process-with-renderer-unaffected-by-it-solved/19499/10) [[Read]](pages/how_do_i_make_intensive_computation_in_main_process_with_renderer_unaffected_by_it_solved_electron_atom_discussion_2018_05_16_18_9_43.md)
  > 
+- [Put your Electron app on a diet with Electrino – DailyJS – Medium](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297) [[Read]](pages/put_your_electron_app_on_a_diet_with_electrino_dailyjs_medium_2018_05_16_18_13_9.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
