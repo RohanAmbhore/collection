@@ -39,6 +39,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Running a cpu-intensive task on the main thread causes significant lags in browser window · Issue #9266 · electron/electron](https://github.com/electron/electron/issues/9266) [[Read]](pages/running_a_cpu_intensive_task_on_the_main_thread_causes_significant_lags_in_browser_window_issue_9266_electron_electron_2018_05_16_14_53_15.md)
  > 
+- [High performance Desktop applications with Electron (Javascript framework) — JSFoo 2016 — HasGeek Talkfunnel](https://jsfoo.talkfunnel.com/2016/4-high-performance-desktop-applications-with-electro) [[Read]](pages/high_performance_desktop_applications_with_electron_javascript_framework_jsfoo_2016_hasgeek_talkfunnel_2018_05_16_15_0_17.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
