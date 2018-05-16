@@ -15,6 +15,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-16 
+- [Suppress warnings in console · Issue #147 · webpack/webpack.js.org](https://github.com/webpack/webpack.js.org/issues/147) [[Read]](pages/suppress_warnings_in_console_issue_147_webpack_webpack_js_org_2018_05_16_10_15_56.md)
+ > 
 ### 2018-05-15 
 - [维护百万级别JavaScript代码量的项目是一种什么样的体验? - 前端 - 掘金](https://juejin.im/entry/5afa757d6fb9a07ab5090b73?utm_source=gold_browser_extension) [[Read]](pages/javascript_2018_05_15_15_40_49.md)
  > 
