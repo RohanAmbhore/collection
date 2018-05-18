@@ -35,6 +35,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [__dirname points to wrong folder when executed from remote webpage with 'electron .' · Issue #3204 · electron/electron](https://github.com/electron/electron/issues/3204) [[Read]](pages/dirname_points_to_wrong_folder_when_executed_from_remote_webpage_with_electron_issue_3204_electron_electron_2018_05_18_19_4_40.md)
  > 
+- [Electron 深度实践总结 | 欧长坤的博客](https://changkun.us/archives/2017/03/217/) [[Read]](pages/electron_2018_05_18_19_5_54.md)
+ > 
 ### 2018-05-17 
 - [(8 封私信 / 80 条消息)你所知道好玩有趣的 iOS URL Scheme 有哪些？ - 知乎](https://www.zhihu.com/question/19907735) [[Read]](pages/8_80_ios_url_scheme_2018_05_17_16_28_17.md)
  > 
