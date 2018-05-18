@@ -17,6 +17,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-18 
+- >[Favorite] [Electron require ipcRenderer not working - Stack Overflow](https://stackoverflow.com/questions/35812592/electron-require-ipcrenderer-not-working) [[Read]](pages/electron_require_ipcrenderer_not_working_stack_overflow_2018_05_18_10_4_58.md)
+ > 
 ### 2018-05-17 
 - [(8 封私信 / 80 条消息)你所知道好玩有趣的 iOS URL Scheme 有哪些？ - 知乎](https://www.zhihu.com/question/19907735) [[Read]](pages/8_80_ios_url_scheme_2018_05_17_16_28_17.md)
  > 
