@@ -27,6 +27,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [node.js - Difference between path.resolve and path.join invocation? - Stack Overflow](https://stackoverflow.com/questions/35048686/difference-between-path-resolve-and-path-join-invocation) [[Read]](pages/node_js_difference_between_path_resolve_and_path_join_invocation_stack_overflow_2018_05_18_16_10_52.md)
  > 
+- [node.js - path.join vs path.resolve with __dirname - Stack Overflow](https://stackoverflow.com/questions/39110801/path-join-vs-path-resolve-with-dirname/39111164) [[Read]](pages/node_js_path_join_vs_path_resolve_with_dirname_stack_overflow_2018_05_18_16_13_49.md)
+ > 
 ### 2018-05-17 
 - [(8 封私信 / 80 条消息)你所知道好玩有趣的 iOS URL Scheme 有哪些？ - 知乎](https://www.zhihu.com/question/19907735) [[Read]](pages/8_80_ios_url_scheme_2018_05_17_16_28_17.md)
  > 
