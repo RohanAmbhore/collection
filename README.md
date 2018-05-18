@@ -37,6 +37,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Electron 深度实践总结 | 欧长坤的博客](https://changkun.us/archives/2017/03/217/) [[Read]](pages/electron_2018_05_18_19_5_54.md)
  > 
+- >[Favorite] [Electron 深度实践总结 | 欧长坤的博客](https://changkun.us/archives/2017/03/217/) [[Read]](pages/electron_2018_05_18_19_13_38.md)
+ > 
 ### 2018-05-17 
 - [(8 封私信 / 80 条消息)你所知道好玩有趣的 iOS URL Scheme 有哪些？ - 知乎](https://www.zhihu.com/question/19907735) [[Read]](pages/8_80_ios_url_scheme_2018_05_17_16_28_17.md)
  > 
