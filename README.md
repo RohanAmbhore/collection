@@ -18,6 +18,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-19 
+- [BrowserWindow - center option doesn't work correctly with multi monitor set-up on Linux · Issue #3490 · electron/electron](https://github.com/electron/electron/issues/3490) [[Read]](pages/browserwindow_center_option_doesn_t_work_correctly_with_multi_monitor_set_up_on_linux_issue_3490_electron_electron_2018_05_19_16_7_14.md)
+ > 
 ### 2018-05-18 
 - >[Favorite] [Electron require ipcRenderer not working - Stack Overflow](https://stackoverflow.com/questions/35812592/electron-require-ipcrenderer-not-working) [[Read]](pages/electron_require_ipcrenderer_not_working_stack_overflow_2018_05_18_10_4_58.md)
  > 
