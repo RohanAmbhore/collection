@@ -33,6 +33,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [How to be compatible with Vue? · Issue #287 · antvis/g2](https://github.com/antvis/g2/issues/287) [[Read]](pages/how_to_be_compatible_with_vue_issue_287_antvis_g2_2018_05_21_14_53_22.md)
  > 
+- [Cannot assign to read only property 'exports' of object '#<Object>' (mix require and export) · Issue #4039 · webpack/webpack](https://github.com/webpack/webpack/issues/4039) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_mix_require_and_export_issue_4039_webpack_webpack_2018_05_21_16_13_29.md)
+ > 
 ### 2018-05-19 
 - [BrowserWindow - center option doesn't work correctly with multi monitor set-up on Linux · Issue #3490 · electron/electron](https://github.com/electron/electron/issues/3490) [[Read]](pages/browserwindow_center_option_doesn_t_work_correctly_with_multi_monitor_set_up_on_linux_issue_3490_electron_electron_2018_05_19_16_7_14.md)
  > 
