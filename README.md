@@ -31,6 +31,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/) [[Read]](pages/writing_modular_javascript_with_amd_commonjs_es_harmony_2018_05_21_14_48_19.md)
  > 
+- [How to be compatible with Vue? · Issue #287 · antvis/g2](https://github.com/antvis/g2/issues/287) [[Read]](pages/how_to_be_compatible_with_vue_issue_287_antvis_g2_2018_05_21_14_53_22.md)
+ > 
 ### 2018-05-19 
 - [BrowserWindow - center option doesn't work correctly with multi monitor set-up on Linux · Issue #3490 · electron/electron](https://github.com/electron/electron/issues/3490) [[Read]](pages/browserwindow_center_option_doesn_t_work_correctly_with_multi_monitor_set_up_on_linux_issue_3490_electron_electron_2018_05_19_16_7_14.md)
  > 
