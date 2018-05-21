@@ -27,6 +27,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Cannot assign to read only property 'exports' of object '#<Object>' · Issue #399 · charliekassel/vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker/issues/399) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_issue_399_charliekassel_vuejs_datepicker_2018_05_21_14_40_46.md)
  > 
+- [ECMAScript 6 modules: the final syntax](http://2ality.com/2014/09/es6-modules-final.html) [[Read]](pages/ecmascript_6_modules_the_final_syntax_2018_05_21_14_46_54.md)
+ > 
 ### 2018-05-19 
 - [BrowserWindow - center option doesn't work correctly with multi monitor set-up on Linux · Issue #3490 · electron/electron](https://github.com/electron/electron/issues/3490) [[Read]](pages/browserwindow_center_option_doesn_t_work_correctly_with_multi_monitor_set_up_on_linux_issue_3490_electron_electron_2018_05_19_16_7_14.md)
  > 
