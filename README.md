@@ -20,6 +20,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-23 
+- [The Power of Prolog](https://www.metalevel.at/prolog) [[Read]](pages/the_power_of_prolog_2018_05_23_19_43_21.md)
+ > 
 ### 2018-05-21 
 - [Cannot assign to read only property 'exports' of object '#<Object>' (mix require and export) · Issue #4039 · webpack/webpack](https://github.com/webpack/webpack/issues/4039) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_mix_require_and_export_issue_4039_webpack_webpack_2018_05_21_13_21_29.md)
  > 
