@@ -5,6 +5,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-25 
+- [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f) [[Read]](pages/using_dotenv_package_to_create_environment_variables_2018_05_25_11_11_44.md)
+ > 
 ### 2018-05-23 
 - [The Power of Prolog](https://www.metalevel.at/prolog) [[Read]](pages/the_power_of_prolog_2018_05_23_19_43_21.md)
  > 
