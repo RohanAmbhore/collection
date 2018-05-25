@@ -15,6 +15,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [__dirname returns '/' when js file is built with webpack · Issue #1599 · webpack/webpack](https://github.com/webpack/webpack/issues/1599) [[Read]](pages/dirname_returns_when_js_file_is_built_with_webpack_issue_1599_webpack_webpack_2018_05_25_15_12_25.md)
  > 
+- >[Favorite] [__dirname returns '/' when js file is built with webpack · Issue #1599 · webpack/webpack](https://github.com/webpack/webpack/issues/1599) [[Read]](pages/dirname_returns_when_js_file_is_built_with_webpack_issue_1599_webpack_webpack_2018_05_25_15_13_59.md)
+ > 
 ### 2018-05-23 
 - [The Power of Prolog](https://www.metalevel.at/prolog) [[Read]](pages/the_power_of_prolog_2018_05_23_19_43_21.md)
  > 
