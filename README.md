@@ -5,39 +5,16 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 2018-05-23 
 - [The Power of Prolog](https://www.metalevel.at/prolog) [[Read]](pages/the_power_of_prolog_2018_05_23_19_43_21.md)
  > 
 ### 2018-05-21 
-- [Cannot assign to read only property 'exports' of object '#<Object>' (mix require and export) · Issue #4039 · webpack/webpack](https://github.com/webpack/webpack/issues/4039) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_mix_require_and_export_issue_4039_webpack_webpack_2018_05_21_13_21_29.md)
- > 
-- [Cannot assign to read only property 'exports' of object '#<Object>' (mix require and export) · Issue #4039 · webpack/webpack](https://github.com/webpack/webpack/issues/4039) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_mix_require_and_export_issue_4039_webpack_webpack_2018_05_21_14_25_19.md)
- > 
-- [Cannot assign to read only property 'exports' of object '#<Object>' · Issue #399 · charliekassel/vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker/issues/399) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_issue_399_charliekassel_vuejs_datepicker_2018_05_21_14_40_46.md)
  > 
 - [ECMAScript 6 modules: the final syntax](http://2ality.com/2014/09/es6-modules-final.html) [[Read]](pages/ecmascript_6_modules_the_final_syntax_2018_05_21_14_46_54.md)
  > 
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/) [[Read]](pages/writing_modular_javascript_with_amd_commonjs_es_harmony_2018_05_21_14_48_19.md)
  > 
 - [How to be compatible with Vue? · Issue #287 · antvis/g2](https://github.com/antvis/g2/issues/287) [[Read]](pages/how_to_be_compatible_with_vue_issue_287_antvis_g2_2018_05_21_14_53_22.md)
- > 
-- [Cannot assign to read only property 'exports' of object '#<Object>' (mix require and export) · Issue #4039 · webpack/webpack](https://github.com/webpack/webpack/issues/4039) [[Read]](pages/cannot_assign_to_read_only_property_exports_of_object_object_mix_require_and_export_issue_4039_webpack_webpack_2018_05_21_16_13_29.md)
  > 
 - [exporting 'exports.default' rather than 'exports' · Issue #706 · webpack/webpack](https://github.com/webpack/webpack/issues/706) [[Read]](pages/exporting_exports_default_rather_than_exports_issue_706_webpack_webpack_2018_05_21_17_54_14.md)
  > 
