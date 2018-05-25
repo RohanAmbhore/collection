@@ -11,6 +11,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [linux - What does set -e mean in a bash script? - Stack Overflow](https://stackoverflow.com/questions/19622198/what-does-set-e-mean-in-a-bash-script) [[Read]](pages/linux_what_does_set_e_mean_in_a_bash_script_stack_overflow_2018_05_25_14_16_32.md)
  > 
+- >[Favorite] [linux - What does set -e mean in a bash script? - Stack Overflow](https://stackoverflow.com/questions/19622198/what-does-set-e-mean-in-a-bash-script) [[Read]](pages/linux_what_does_set_e_mean_in_a_bash_script_stack_overflow_2018_05_25_14_18_35.md)
+ > 
 ### 2018-05-23 
 - [The Power of Prolog](https://www.metalevel.at/prolog) [[Read]](pages/the_power_of_prolog_2018_05_23_19_43_21.md)
  > 
