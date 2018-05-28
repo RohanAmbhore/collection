@@ -22,6 +22,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [babel-plugin-transform-inline-environment-variables - npm](https://www.npmjs.com/package/babel-plugin-transform-inline-environment-variables) [[Read]](pages/babel_plugin_transform_inline_environment_variables_npm_2018_05_28_17_26_29.md)
  > 
+- >[Favorite] [next.js/.babelrc at c9bc471d3a0b8d10556be73c657694a06b10c745 · zeit/next.js](https://github.com/zeit/next.js/blob/c9bc471d3a0b8d10556be73c657694a06b10c745/examples/with-dotenv/.babelrc) [[Read]](pages/next_js_babelrc_at_c9bc471d3a0b8d10556be73c657694a06b10c745_zeit_next_js_2018_05_28_17_26_48.md)
+ > 
 ### 2018-05-25 
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f) [[Read]](pages/using_dotenv_package_to_create_environment_variables_2018_05_25_11_11_44.md)
  > 
