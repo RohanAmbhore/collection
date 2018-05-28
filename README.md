@@ -10,6 +10,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-28 
 - [Using dotenv .env config file correctly · Issue #865 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/865) [[Read]](pages/using_dotenv_env_config_file_correctly_issue_865_facebook_create_react_app_2018_05_28_14_27_52.md)
  > 
+- [Isn't setting process.env in Electron app · Issue #139 · motdotla/dotenv](https://github.com/motdotla/dotenv/issues/139) [[Read]](pages/isn_t_setting_process_env_in_electron_app_issue_139_motdotla_dotenv_2018_05_28_14_31_35.md)
+ > 
 ### 2018-05-25 
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f) [[Read]](pages/using_dotenv_package_to_create_environment_variables_2018_05_25_11_11_44.md)
  > 
