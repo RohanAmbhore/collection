@@ -16,6 +16,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Environment Variables in Angular ← Alligator.io](https://alligator.io/angular/environment-variables) [[Read]](pages/environment_variables_in_angular_alligator_io_2018_05_28_14_48_15.md)
  > 
+- >[Favorite] [Deployments Best Practices  •  Beanstalk Guides](http://guides.beanstalkapp.com/deployments/best-practices.html) [[Read]](pages/deployments_best_practices_beanstalk_guides_2018_05_28_14_58_57.md)
+ > 
 ### 2018-05-25 
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f) [[Read]](pages/using_dotenv_package_to_create_environment_variables_2018_05_25_11_11_44.md)
  > 
