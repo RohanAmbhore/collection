@@ -20,6 +20,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Package with process.env variables set · Issue #259 · electron-userland/electron-packager](https://github.com/electron-userland/electron-packager/issues/259) [[Read]](pages/package_with_process_env_variables_set_issue_259_electron_userland_electron_packager_2018_05_28_16_0_21.md)
  > 
+- >[Favorite] [babel-plugin-transform-inline-environment-variables - npm](https://www.npmjs.com/package/babel-plugin-transform-inline-environment-variables) [[Read]](pages/babel_plugin_transform_inline_environment_variables_npm_2018_05_28_17_26_29.md)
+ > 
 ### 2018-05-25 
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f) [[Read]](pages/using_dotenv_package_to_create_environment_variables_2018_05_25_11_11_44.md)
  > 
