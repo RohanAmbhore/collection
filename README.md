@@ -7,6 +7,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-05-29 
+- [Electron considered harmful | Drew DeVault’s Blog](https://drewdevault.com/2016/11/24/Electron-considered-harmful.html) [[Read]](pages/electron_considered_harmful_drew_devault_s_blog_2018_05_29_16_55_45.md)
+ > 
 ### 2018-05-28 
 - [Using dotenv .env config file correctly · Issue #865 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/865) [[Read]](pages/using_dotenv_env_config_file_correctly_issue_865_facebook_create_react_app_2018_05_28_14_27_52.md)
  > 
