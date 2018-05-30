@@ -14,6 +14,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [electron-preferences - A simple, consistent interface for managing user preferences within an Electron application.：electronjs](https://www.reddit.com/r/electronjs/comments/7ny380/electronpreferences_a_simple_consistent_interface/) [[Read]](pages/electron_preferences_a_simple_consistent_interface_for_managing_user_preferences_within_an_electron_application_electronjs_2018_05_30_18_59_29.md)
  > 
+- [Warning: Task "compass" not found. Use --force to continue. · Issue #294 · gruntjs/grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch/issues/294) [[Read]](pages/warning_task_compass_not_found_use_force_to_continue_issue_294_gruntjs_grunt_contrib_watch_2018_05_30_19_41_42.md)
+ > 
 ### 2018-05-29 
 - [Electron considered harmful | Drew DeVault’s Blog](https://drewdevault.com/2016/11/24/Electron-considered-harmful.html) [[Read]](pages/electron_considered_harmful_drew_devault_s_blog_2018_05_29_16_55_45.md)
  > 
