@@ -12,6 +12,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-30 
 - [4 must-know tips for building cross platform Electron apps](https://blog.avocode.com/4-must-know-tips-for-building-cross-platform-electron-apps-f3ae9c2bffff) [[Read]](pages/4_must_know_tips_for_building_cross_platform_electron_apps_2018_05_30_15_34_49.md)
  > 
+- [electron-preferences - A simple, consistent interface for managing user preferences within an Electron application.：electronjs](https://www.reddit.com/r/electronjs/comments/7ny380/electronpreferences_a_simple_consistent_interface/) [[Read]](pages/electron_preferences_a_simple_consistent_interface_for_managing_user_preferences_within_an_electron_application_electronjs_2018_05_30_18_59_29.md)
+ > 
 ### 2018-05-29 
 - [Electron considered harmful | Drew DeVault’s Blog](https://drewdevault.com/2016/11/24/Electron-considered-harmful.html) [[Read]](pages/electron_considered_harmful_drew_devault_s_blog_2018_05_29_16_55_45.md)
  > 
