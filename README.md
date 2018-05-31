@@ -13,6 +13,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-05-31 
 - >[Favorite] [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) [[Read]](pages/install_and_config_redis_on_mac_os_x_via_homebrew_pete_houston_medium_2018_05_31_19_27_10.md)
  > 
+- >[Favorite] [UNMAINTAINED - Looking for new contributors to take over · Issue #433 · sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui/issues/433) [[Read]](pages/unmaintained_looking_for_new_contributors_to_take_over_issue_433_sqlectron_sqlectron_gui_2018_05_31_19_35_46.md)
+ > 
 ### 2018-05-30 
 - [4 must-know tips for building cross platform Electron apps](https://blog.avocode.com/4-must-know-tips-for-building-cross-platform-electron-apps-f3ae9c2bffff) [[Read]](pages/4_must_know_tips_for_building_cross_platform_electron_apps_2018_05_30_15_34_49.md)
  > 
