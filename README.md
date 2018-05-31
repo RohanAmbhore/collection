@@ -15,6 +15,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [UNMAINTAINED - Looking for new contributors to take over · Issue #433 · sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui/issues/433) [[Read]](pages/unmaintained_looking_for_new_contributors_to_take_over_issue_433_sqlectron_sqlectron_gui_2018_05_31_19_35_46.md)
  > 
+- >[Favorite] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) [[Read]](pages/how_to_write_a_git_commit_message_2018_05_31_19_39_58.md)
+ > 
 ### 2018-05-30 
 - [4 must-know tips for building cross platform Electron apps](https://blog.avocode.com/4-must-know-tips-for-building-cross-platform-electron-apps-f3ae9c2bffff) [[Read]](pages/4_must_know_tips_for_building_cross_platform_electron_apps_2018_05_30_15_34_49.md)
  > 
