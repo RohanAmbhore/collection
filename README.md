@@ -10,6 +10,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-01 
+- [An IDE for React.js – Arnaud – Medium](https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131) [[Read]](pages/an_ide_for_react_js_arnaud_medium_2018_06_01_17_30_35.md)
+ > 
 ### 2018-05-31 
 - >[Favorite] [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) [[Read]](pages/install_and_config_redis_on_mac_os_x_via_homebrew_pete_houston_medium_2018_05_31_19_27_10.md)
  > 
