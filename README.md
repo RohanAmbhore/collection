@@ -20,6 +20,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [React Studio](https://reactstudio.com/) [[Read]](pages/react_studio_2018_06_01_19_10_41.md)
  > 
+- >[Favorite] [12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd) · Issue #18 · sorrycc/blog](https://github.com/sorrycc/blog/issues/18) [[Read]](pages/12_30_curd_react_dva_antd_issue_18_sorrycc_blog_2018_06_01_20_5_25.md)
+ > 
 ### 2018-05-31 
 - >[Favorite] [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) [[Read]](pages/install_and_config_redis_on_mac_os_x_via_homebrew_pete_houston_medium_2018_05_31_19_27_10.md)
  > 
