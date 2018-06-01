@@ -16,6 +16,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [reactide/reactide: Reactide is the first dedicated IDE for React web application development. http://reactide.io](https://github.com/reactide/reactide) [[Read]](pages/reactide_reactide_reactide_is_the_first_dedicated_ide_for_react_web_application_development_http_reactide_io_2018_06_01_17_30_46.md)
  > 
+- [supnate/rekit: IDE and toolkit for building scalable web applications with React, Redux and React-router](https://github.com/supnate/rekit) [[Read]](pages/supnate_rekit_ide_and_toolkit_for_building_scalable_web_applications_with_react_redux_and_react_router_2018_06_01_17_30_55.md)
+ > 
 ### 2018-05-31 
 - >[Favorite] [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) [[Read]](pages/install_and_config_redis_on_mac_os_x_via_homebrew_pete_houston_medium_2018_05_31_19_27_10.md)
  > 
