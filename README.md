@@ -17,6 +17,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [How to enable or disable service on boot with chkconfig – The Geek Diary](https://www.thegeekdiary.com/how-to-enable-or-disable-service-on-boot-with-chkconfig/) [[Read]](pages/how_to_enable_or_disable_service_on_boot_with_chkconfig_the_geek_diary_2018_06_02_15_57_26.md)
  > 
+- [macos - Run command on startup / login (Mac OS X) - Super User](https://superuser.com/questions/229773/run-command-on-startup-login-mac-os-x) [[Read]](pages/macos_run_command_on_startup_login_mac_os_x_super_user_2018_06_02_16_32_52.md)
+ > 
 ### 2018-06-01 
 - [An IDE for React.js – Arnaud – Medium](https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131) [[Read]](pages/an_ide_for_react_js_arnaud_medium_2018_06_01_17_30_35.md)
  > 
