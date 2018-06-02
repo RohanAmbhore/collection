@@ -19,6 +19,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [macos - Run command on startup / login (Mac OS X) - Super User](https://superuser.com/questions/229773/run-command-on-startup-login-mac-os-x) [[Read]](pages/macos_run_command_on_startup_login_mac_os_x_super_user_2018_06_02_16_32_52.md)
  > 
+- >[Favorite] [Linux rpm command cheat sheet](https://www.cyberciti.biz/howto/question/linux/linux-rpm-cheat-sheet.php) [[Read]](pages/linux_rpm_command_cheat_sheet_2018_06_02_17_51_58.md)
+ > 
 ### 2018-06-01 
 - [An IDE for React.js – Arnaud – Medium](https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131) [[Read]](pages/an_ide_for_react_js_arnaud_medium_2018_06_01_17_30_35.md)
  > 
