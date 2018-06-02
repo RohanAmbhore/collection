@@ -23,6 +23,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [CentOS 6.5安装aria2 – FreeSense](http://www.ssite.cn/2017/05/23/centos-6-5%E5%AE%89%E8%A3%85aria2/) [[Read]](pages/centos_6_5_aria2_freesense_2018_06_02_17_52_4.md)
  > 
+- [wget - How to download a file through an SSH server? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/38755/how-to-download-a-file-through-an-ssh-server) [[Read]](pages/wget_how_to_download_a_file_through_an_ssh_server_unix_linux_stack_exchange_2018_06_02_19_15_1.md)
+ > 
 ### 2018-06-01 
 - [An IDE for React.js – Arnaud – Medium](https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131) [[Read]](pages/an_ide_for_react_js_arnaud_medium_2018_06_01_17_30_35.md)
  > 
