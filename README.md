@@ -21,6 +21,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Linux rpm command cheat sheet](https://www.cyberciti.biz/howto/question/linux/linux-rpm-cheat-sheet.php) [[Read]](pages/linux_rpm_command_cheat_sheet_2018_06_02_17_51_58.md)
  > 
+- >[Favorite] [CentOS 6.5安装aria2 – FreeSense](http://www.ssite.cn/2017/05/23/centos-6-5%E5%AE%89%E8%A3%85aria2/) [[Read]](pages/centos_6_5_aria2_freesense_2018_06_02_17_52_4.md)
+ > 
 ### 2018-06-01 
 - [An IDE for React.js – Arnaud – Medium](https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131) [[Read]](pages/an_ide_for_react_js_arnaud_medium_2018_06_01_17_30_35.md)
  > 
