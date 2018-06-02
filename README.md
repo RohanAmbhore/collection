@@ -11,6 +11,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-02 
+- >[Favorite] [fedora - How can I make a script in /etc/init.d start at boot? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/20357/how-can-i-make-a-script-in-etc-init-d-start-at-boot) [[Read]](pages/fedora_how_can_i_make_a_script_in_etc_init_d_start_at_boot_unix_linux_stack_exchange_2018_06_02_15_42_2.md)
+ > 
 ### 2018-06-01 
 - [An IDE for React.js – Arnaud – Medium](https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131) [[Read]](pages/an_ide_for_react_js_arnaud_medium_2018_06_01_17_30_35.md)
  > 
