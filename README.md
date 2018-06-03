@@ -16,6 +16,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-06-03 
 - [Replacing jQuery With Vue.js: No Build Step Necessary | Brad Frost](http://bradfrost.com/blog/link/replacing-jquery-with-vue-js-no-build-step-necessary/) [[Read]](pages/replacing_jquery_with_vue_js_no_build_step_necessary_brad_frost_2018_06_03_11_25_14.md)
  > 
+- >[Favorite] [Ask HN: What's your favorite way of getting a web app up quickly in 2018? | Hacker News](https://news.ycombinator.com/item?id=17217210) [[Read]](pages/ask_hn_what_s_your_favorite_way_of_getting_a_web_app_up_quickly_in_2018_hacker_news_2018_06_03_11_27_26.md)
+ > 
 ### 2018-06-02 
 - >[Favorite] [fedora - How can I make a script in /etc/init.d start at boot? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/20357/how-can-i-make-a-script-in-etc-init-d-start-at-boot) [[Read]](pages/fedora_how_can_i_make_a_script_in_etc_init_d_start_at_boot_unix_linux_stack_exchange_2018_06_02_15_42_2.md)
  > 
