@@ -20,6 +20,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Firefly | A Simple Javascript App Boilerplate](http://getfirefly.org/) [[Read]](pages/firefly_a_simple_javascript_app_boilerplate_2018_06_03_11_29_54.md)
  > 
+- >[Favorite] [mongo auto start on OS X](https://gist.github.com/subfuzion/9630872) [[Read]](pages/mongo_auto_start_on_os_x_2018_06_03_14_57_28.md)
+ > 
 ### 2018-06-02 
 - >[Favorite] [fedora - How can I make a script in /etc/init.d start at boot? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/20357/how-can-i-make-a-script-in-etc-init-d-start-at-boot) [[Read]](pages/fedora_how_can_i_make_a_script_in_etc_init_d_start_at_boot_unix_linux_stack_exchange_2018_06_02_15_42_2.md)
  > 
