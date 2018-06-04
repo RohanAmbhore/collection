@@ -17,6 +17,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-06-04 
 - [Linux renderer processes do not inherit environment variables set by main process · Issue #3306 · electron/electron](https://github.com/electron/electron/issues/3306) [[Read]](pages/linux_renderer_processes_do_not_inherit_environment_variables_set_by_main_process_issue_3306_electron_electron_2018_06_04_13_50_18.md)
  > 
+- [Pure CSS Loader - Optimized Spinners for Web · Loading.io](https://loading.io/css/) [[Read]](pages/pure_css_loader_optimized_spinners_for_web_loading_io_2018_06_04_19_25_58.md)
+ > 
 ### 2018-06-03 
 - [Replacing jQuery With Vue.js: No Build Step Necessary | Brad Frost](http://bradfrost.com/blog/link/replacing-jquery-with-vue-js-no-build-step-necessary/) [[Read]](pages/replacing_jquery_with_vue_js_no_build_step_necessary_brad_frost_2018_06_03_11_25_14.md)
  > 
