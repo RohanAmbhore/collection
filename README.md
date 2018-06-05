@@ -14,6 +14,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-05 
+- [GIT tip : Keep your branch clean with fixup and autosquash - Florent Lebreton](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html) [[Read]](pages/git_tip_keep_your_branch_clean_with_fixup_and_autosquash_florent_lebreton_2018_06_05_14_15_22.md)
+ > 
 ### 2018-06-04 
 - [Linux renderer processes do not inherit environment variables set by main process · Issue #3306 · electron/electron](https://github.com/electron/electron/issues/3306) [[Read]](pages/linux_renderer_processes_do_not_inherit_environment_variables_set_by_main_process_issue_3306_electron_electron_2018_06_04_13_50_18.md)
  > 
