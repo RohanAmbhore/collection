@@ -23,6 +23,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [macos - How to use SSH keys and disable password authentication - Ask Different](https://apple.stackexchange.com/questions/225231/how-to-use-ssh-keys-and-disable-password-authentication) [[Read]](pages/macos_how_to_use_ssh_keys_and_disable_password_authentication_ask_different_2018_06_06_13_57_57.md)
  > 
+- >[Favorite] [disable password ssh authentication on mac os](https://gist.github.com/kemmason/1043716) [[Read]](pages/disable_password_ssh_authentication_on_mac_os_2018_06_06_14_5_2.md)
+ > 
 ### 2018-06-05 
 - [GIT tip : Keep your branch clean with fixup and autosquash - Florent Lebreton](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html) [[Read]](pages/git_tip_keep_your_branch_clean_with_fixup_and_autosquash_florent_lebreton_2018_06_05_14_15_22.md)
  > 
