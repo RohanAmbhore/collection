@@ -21,6 +21,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Ssh-copy-id for copying SSH keys to servers | SSH.COM](https://www.ssh.com/ssh/copy-id) [[Read]](pages/ssh_copy_id_for_copying_ssh_keys_to_servers_ssh_com_2018_06_06_13_29_29.md)
  > 
+- >[Favorite] [macos - How to use SSH keys and disable password authentication - Ask Different](https://apple.stackexchange.com/questions/225231/how-to-use-ssh-keys-and-disable-password-authentication) [[Read]](pages/macos_how_to_use_ssh_keys_and_disable_password_authentication_ask_different_2018_06_06_13_57_57.md)
+ > 
 ### 2018-06-05 
 - [GIT tip : Keep your branch clean with fixup and autosquash - Florent Lebreton](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html) [[Read]](pages/git_tip_keep_your_branch_clean_with_fixup_and_autosquash_florent_lebreton_2018_06_05_14_15_22.md)
  > 
