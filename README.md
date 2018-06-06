@@ -15,6 +15,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-06 
+- >[Favorite] [How to be a Manager](https://getweeklyupdate.com/manager-guide) [[Read]](pages/how_to_be_a_manager_2018_06_06_10_15_29.md)
+ > 
 ### 2018-06-05 
 - [GIT tip : Keep your branch clean with fixup and autosquash - Florent Lebreton](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html) [[Read]](pages/git_tip_keep_your_branch_clean_with_fixup_and_autosquash_florent_lebreton_2018_06_05_14_15_22.md)
  > 
