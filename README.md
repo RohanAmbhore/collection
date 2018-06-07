@@ -24,6 +24,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Getting Mozilla Source Code Using Mercurial - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Mercurial) [[Read]](pages/getting_mozilla_source_code_using_mercurial_mozilla_mdn_2018_06_07_18_12_47.md)
  > 
+- >[Favorite] [Build Instructions - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions) [[Read]](pages/build_instructions_mozilla_mdn_2018_06_07_18_14_14.md)
+ > 
 ### 2018-06-06 
 - >[Favorite] [How to be a Manager](https://getweeklyupdate.com/manager-guide) [[Read]](pages/how_to_be_a_manager_2018_06_06_10_15_29.md)
  > 
