@@ -16,6 +16,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-07 
+- >[Favorite] [javascript - Find all CSS rules that apply to an element - Stack Overflow](https://stackoverflow.com/questions/2952667/find-all-css-rules-that-apply-to-an-element) [[Read]](pages/javascript_find_all_css_rules_that_apply_to_an_element_stack_overflow_2018_06_07_13_30_28.md)
+ > 
 ### 2018-06-06 
 - >[Favorite] [How to be a Manager](https://getweeklyupdate.com/manager-guide) [[Read]](pages/how_to_be_a_manager_2018_06_06_10_15_29.md)
  > 
