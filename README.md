@@ -28,6 +28,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Cannot switch Python with pyenv - Stack Overflow](https://stackoverflow.com/questions/33321312/cannot-switch-python-with-pyenv) [[Read]](pages/cannot_switch_python_with_pyenv_stack_overflow_2018_06_07_18_47_4.md)
  > 
+- [Firefox Developer Tools | Docs and Guides](http://firefox-dev.tools/#getting-in-touch) [[Read]](pages/firefox_developer_tools_docs_and_guides_2018_06_07_18_51_3.md)
+ > 
 ### 2018-06-06 
 - >[Favorite] [How to be a Manager](https://getweeklyupdate.com/manager-guide) [[Read]](pages/how_to_be_a_manager_2018_06_06_10_15_29.md)
  > 
