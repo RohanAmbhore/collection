@@ -22,6 +22,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Eduardo Bouças / Software engineer with a crush on the web](https://eduardoboucas.com/blog/2017/02/09/contributing-firefox-devtools.html) [[Read]](pages/eduardo_bou_as_software_engineer_with_a_crush_on_the_web_2018_06_07_17_53_13.md)
  > 
+- >[Favorite] [Getting Mozilla Source Code Using Mercurial - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Mercurial) [[Read]](pages/getting_mozilla_source_code_using_mercurial_mozilla_mdn_2018_06_07_18_12_47.md)
+ > 
 ### 2018-06-06 
 - >[Favorite] [How to be a Manager](https://getweeklyupdate.com/manager-guide) [[Read]](pages/how_to_be_a_manager_2018_06_06_10_15_29.md)
  > 
