@@ -17,6 +17,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-09 
+- [15 Powerful jQuery Tips and Tricks for Developers - Tutorialzine](https://tutorialzine.com/2011/06/15-powerful-jquery-tips-and-tricks-for-developers) [[Read]](pages/15_powerful_jquery_tips_and_tricks_for_developers_tutorialzine_2018_06_09_15_6_1.md)
+ > 
 ### 2018-06-07 
 - >[Favorite] [javascript - Find all CSS rules that apply to an element - Stack Overflow](https://stackoverflow.com/questions/2952667/find-all-css-rules-that-apply-to-an-element) [[Read]](pages/javascript_find_all_css_rules_that_apply_to_an_element_stack_overflow_2018_06_07_13_30_28.md)
  > 
