@@ -22,6 +22,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-06-10 
 - >[Favorite] [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html) [[Read]](pages/jvm_internals_2018_06_10_10_50_53.md)
  > 
+- [Chatbots were the next big thing: what happened?](https://blog.growthbot.org/chatbots-were-the-next-big-thing-what-happened) [[Read]](pages/chatbots_were_the_next_big_thing_what_happened_2018_06_10_11_14_29.md)
+ > 
 ### 2018-06-09 
 - [15 Powerful jQuery Tips and Tricks for Developers - Tutorialzine](https://tutorialzine.com/2011/06/15-powerful-jquery-tips-and-tricks-for-developers) [[Read]](pages/15_powerful_jquery_tips_and_tricks_for_developers_tutorialzine_2018_06_09_15_6_1.md)
  > 
