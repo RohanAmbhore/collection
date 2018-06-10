@@ -18,6 +18,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-10 
+- >[Favorite] [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html) [[Read]](pages/jvm_internals_2018_06_10_10_50_53.md)
+ > 
 ### 2018-06-09 
 - [15 Powerful jQuery Tips and Tricks for Developers - Tutorialzine](https://tutorialzine.com/2011/06/15-powerful-jquery-tips-and-tricks-for-developers) [[Read]](pages/15_powerful_jquery_tips_and_tricks_for_developers_tutorialzine_2018_06_09_15_6_1.md)
  > 
