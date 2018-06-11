@@ -23,6 +23,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-06-11 
 - >[Favorite] [Reducing size of NPM based projects – Tomas Trescak – Medium](https://medium.com/@tomi.trescak/reducing-size-of-npm-based-projects-1b02ebe32d61) [[Read]](pages/reducing_size_of_npm_based_projects_tomas_trescak_medium_2018_06_11_12_2_50.md)
  > 
+- >[Favorite] [Remove all node_module folders recursively (Example)](https://coderwall.com/p/guqrca/remove-all-node_module-folders-recursively) [[Read]](pages/remove_all_node_module_folders_recursively_example_2018_06_11_23_32_55.md)
+ > 
 ### 2018-06-10 
 - >[Favorite] [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html) [[Read]](pages/jvm_internals_2018_06_10_10_50_53.md)
  > 
