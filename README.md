@@ -19,6 +19,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-11 
+- >[Favorite] [Reducing size of NPM based projects – Tomas Trescak – Medium](https://medium.com/@tomi.trescak/reducing-size-of-npm-based-projects-1b02ebe32d61) [[Read]](pages/reducing_size_of_npm_based_projects_tomas_trescak_medium_2018_06_11_12_2_50.md)
+ > 
 ### 2018-06-10 
 - >[Favorite] [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html) [[Read]](pages/jvm_internals_2018_06_10_10_50_53.md)
  > 
