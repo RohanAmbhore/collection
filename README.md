@@ -24,6 +24,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-06-13 
 - >[Favorite] [23 Best React UI Component Libraries And Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42) [[Read]](pages/23_best_react_ui_component_libraries_and_frameworks_2018_06_13_16_6_11.md)
  > 
+- [Cannot find module 'eslint-config-airbnb' and/or 'eslint-plugin-react' · Issue #48 · Microsoft/vscode-eslint](https://github.com/Microsoft/vscode-eslint/issues/48) [[Read]](pages/cannot_find_module_eslint_config_airbnb_and_or_eslint_plugin_react_issue_48_microsoft_vscode_eslint_2018_06_13_17_52_57.md)
+ > 
 ### 2018-06-11 
 - >[Favorite] [Reducing size of NPM based projects – Tomas Trescak – Medium](https://medium.com/@tomi.trescak/reducing-size-of-npm-based-projects-1b02ebe32d61) [[Read]](pages/reducing_size_of_npm_based_projects_tomas_trescak_medium_2018_06_11_12_2_50.md)
  > 
