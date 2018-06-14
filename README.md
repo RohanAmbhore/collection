@@ -27,6 +27,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Learn by Doing: The 8 Best Interactive Coding Websites](https://medium.com/coderbyte/learn-by-doing-the-8-best-interactive-coding-websites-4c902915287c) [[Read]](pages/learn_by_doing_the_8_best_interactive_coding_websites_2018_06_14_14_31_3.md)
  > 
+- >[Favorite] [Learn JavaScript - Best JavaScript Tutorials | Hackr.io](https://hackr.io/tutorials/learn-javascript) [[Read]](pages/learn_javascript_best_javascript_tutorials_hackr_io_2018_06_14_15_21_5.md)
+ > 
 ### 2018-06-13 
 - >[Favorite] [23 Best React UI Component Libraries And Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42) [[Read]](pages/23_best_react_ui_component_libraries_and_frameworks_2018_06_13_16_6_11.md)
  > 
