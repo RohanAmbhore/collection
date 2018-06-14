@@ -21,6 +21,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-14 
+- >[Favorite] [Github and Open-source Is a Boon for the Underprivileged](https://www.amasad.me/github) [[Read]](pages/github_and_open_source_is_a_boon_for_the_underprivileged_2018_06_14_14_26_56.md)
+ > 
 ### 2018-06-13 
 - >[Favorite] [23 Best React UI Component Libraries And Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42) [[Read]](pages/23_best_react_ui_component_libraries_and_frameworks_2018_06_13_16_6_11.md)
  > 
