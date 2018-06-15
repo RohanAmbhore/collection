@@ -22,6 +22,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-15 
+- >[Favorite] [React中型项目的优化实践 - 掘金](https://juejin.im/post/5b207a84f265da6e4c6d08ba?utm_source=gold_browser_extension) [[Read]](pages/react_2018_06_15_17_28_42.md)
+ > 
 ### 2018-06-14 
 - >[Favorite] [Github and Open-source Is a Boon for the Underprivileged](https://www.amasad.me/github) [[Read]](pages/github_and_open_source_is_a_boon_for_the_underprivileged_2018_06_14_14_26_56.md)
  > 
