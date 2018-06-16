@@ -29,6 +29,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [git push --force and how to deal with it — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it) [[Read]](pages/git_push_force_and_how_to_deal_with_it_martian_chronicles_evil_martians_team_blog_2018_06_16_17_13_52.md)
  > 
+- >[Favorite] [Git Committed to the Wrong Branch! - On Demand Training](https://services.github.com/on-demand/git-trouble/git-commit-wrong-branch) [[Read]](pages/git_committed_to_the_wrong_branch_on_demand_training_2018_06_16_17_24_41.md)
+ > 
 ### 2018-06-15 
 - >[Favorite] [React中型项目的优化实践 - 掘金](https://juejin.im/post/5b207a84f265da6e4c6d08ba?utm_source=gold_browser_extension) [[Read]](pages/react_2018_06_15_17_28_42.md)
  > 
