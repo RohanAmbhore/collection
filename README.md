@@ -23,6 +23,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-16 
+- >[Favorite] [Optimizing React: Virtual DOM explained — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained) [[Read]](pages/optimizing_react_virtual_dom_explained_martian_chronicles_evil_martians_team_blog_2018_06_16_16_31_34.md)
+ > 
 ### 2018-06-15 
 - >[Favorite] [React中型项目的优化实践 - 掘金](https://juejin.im/post/5b207a84f265da6e4c6d08ba?utm_source=gold_browser_extension) [[Read]](pages/react_2018_06_15_17_28_42.md)
  > 
