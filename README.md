@@ -31,6 +31,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Git Committed to the Wrong Branch! - On Demand Training](https://services.github.com/on-demand/git-trouble/git-commit-wrong-branch) [[Read]](pages/git_committed_to_the_wrong_branch_on_demand_training_2018_06_16_17_24_41.md)
  > 
+- >[Favorite] [Andrew Clark: React Suspense - YouTube](https://www.youtube.com/watch?v=z-6JC0_cOns) [[Read]](pages/andrew_clark_react_suspense_youtube_2018_06_16_19_18_40.md)
+ > 
 ### 2018-06-15 
 - >[Favorite] [React中型项目的优化实践 - 掘金](https://juejin.im/post/5b207a84f265da6e4c6d08ba?utm_source=gold_browser_extension) [[Read]](pages/react_2018_06_15_17_28_42.md)
  > 
