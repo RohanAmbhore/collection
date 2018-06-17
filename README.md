@@ -24,6 +24,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-17 
+- [Nginx configuration for Mac OS X with Homebrew, using sites-enabled directory.](https://gist.github.com/jimothyGator/5436538) [[Read]](pages/nginx_configuration_for_mac_os_x_with_homebrew_using_sites_enabled_directory_2018_06_17_21_26_9.md)
+ > 
 ### 2018-06-16 
 - >[Favorite] [Optimizing React: Virtual DOM explained — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained) [[Read]](pages/optimizing_react_virtual_dom_explained_martian_chronicles_evil_martians_team_blog_2018_06_16_16_31_34.md)
  > 
