@@ -28,6 +28,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-06-17 
 - [Nginx configuration for Mac OS X with Homebrew, using sites-enabled directory.](https://gist.github.com/jimothyGator/5436538) [[Read]](pages/nginx_configuration_for_mac_os_x_with_homebrew_using_sites_enabled_directory_2018_06_17_21_26_9.md)
  > 
+- [linux - Is it possible to make Nginx listen to different ports? - Server Fault](https://serverfault.com/questions/655067/is-it-possible-to-make-nginx-listen-to-different-ports) [[Read]](pages/linux_is_it_possible_to_make_nginx_listen_to_different_ports_server_fault_2018_06_17_23_29_0.md)
+ > 
 ### 2018-06-16 
 - >[Favorite] [Optimizing React: Virtual DOM explained — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained) [[Read]](pages/optimizing_react_virtual_dom_explained_martian_chronicles_evil_martians_team_blog_2018_06_16_16_31_34.md)
  > 
