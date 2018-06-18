@@ -33,6 +33,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [基于Hexo搭建博客并部署到Github Pages - 简书](https://www.jianshu.com/p/2b09156ee5b1) [[Read]](pages/hexo_github_pages_2018_06_18_13_17_17.md)
  > 
+- [Prism Demo - Okaidia Theme](http://tutsplus.github.io/syntax-highlighter-demos/prism_okaidia.html) [[Read]](pages/prism_demo_okaidia_theme_2018_06_18_17_25_44.md)
+ > 
 ### 2018-06-17 
 - [Nginx configuration for Mac OS X with Homebrew, using sites-enabled directory.](https://gist.github.com/jimothyGator/5436538) [[Read]](pages/nginx_configuration_for_mac_os_x_with_homebrew_using_sites_enabled_directory_2018_06_17_21_26_9.md)
  > 
