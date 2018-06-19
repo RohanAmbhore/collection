@@ -32,6 +32,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [How to make API calls in a smart way – codeburst](https://codeburst.io/how-to-call-api-in-a-smart-way-2ca572c6fe86) [[Read]](pages/how_to_make_api_calls_in_a_smart_way_codeburst_2018_06_19_10_45_38.md)
  > 
+- >[Favorite] [axios/lib/helpers at master · axios/axios](https://github.com/axios/axios/tree/master/lib/helpers) [[Read]](pages/axios_lib_helpers_at_master_axios_axios_2018_06_19_10_53_42.md)
+ > 
 ### 2018-06-18 
 - [nginx - Hosting multiple Nodejs applications on a single domain - Server Fault](https://serverfault.com/questions/591367/hosting-multiple-nodejs-applications-on-a-single-domain) [[Read]](pages/nginx_hosting_multiple_nodejs_applications_on_a_single_domain_server_fault_2018_06_18_0_13_50.md)
  > 
