@@ -40,6 +40,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [6 Tips and Techniques to Speed Up and Improve Your Node.js Performance](https://medium.com/skyshidigital/6-tricks-to-speed-up-and-improve-your-node-js-performance-fadc06d15cbe) [[Read]](pages/6_tips_and_techniques_to_speed_up_and_improve_your_node_js_performance_2018_06_19_11_10_15.md)
  > 
+- [Express js API and REST API Oganization : tips, examples and techniques](https://apiko.com/blog/express-js-api-and-rest-api-organization-tips-examples-and-techniques/) [[Read]](pages/express_js_api_and_rest_api_oganization_tips_examples_and_techniques_2018_06_19_11_22_14.md)
+ > 
 ### 2018-06-18 
 - [nginx - Hosting multiple Nodejs applications on a single domain - Server Fault](https://serverfault.com/questions/591367/hosting-multiple-nodejs-applications-on-a-single-domain) [[Read]](pages/nginx_hosting_multiple_nodejs_applications_on_a_single_domain_server_fault_2018_06_18_0_13_50.md)
  > 
