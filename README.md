@@ -27,6 +27,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-20 
+- [LocalForage: 改进的离线存储与其同类型相比较 | CTOLib码库](https://android.ctolib.com/article/compares/32018) [[Read]](pages/localforage_ctolib_2018_06_20_10_55_51.md)
+ > 
 ### 2018-06-19 
 - [Fetch vs. Axios.js for making http requests – Jason Arnold – Medium](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5) [[Read]](pages/fetch_vs_axios_js_for_making_http_requests_jason_arnold_medium_2018_06_19_10_18_11.md)
  > 
