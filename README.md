@@ -37,6 +37,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Front-end Data Storage Tools · Front End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/tools/db.html) [[Read]](pages/front_end_data_storage_tools_front_end_developer_handbook_2017_2018_06_20_11_12_40.md)
  > 
+- >[Favorite] [Going Offline-First with HTML5 Databases](http://nolanlawson.github.io/offline-first-presentation/) [[Read]](pages/going_offline_first_with_html5_databases_2018_06_20_11_23_25.md)
+ > 
 ### 2018-06-19 
 - [Fetch vs. Axios.js for making http requests – Jason Arnold – Medium](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5) [[Read]](pages/fetch_vs_axios_js_for_making_http_requests_jason_arnold_medium_2018_06_19_10_18_11.md)
  > 
