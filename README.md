@@ -39,6 +39,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - >[Favorite] [Going Offline-First with HTML5 Databases](http://nolanlawson.github.io/offline-first-presentation/) [[Read]](pages/going_offline_first_with_html5_databases_2018_06_20_11_23_25.md)
  > 
+- [addon-info doesn't show Proptypes and description · Issue #2708 · storybooks/storybook](https://github.com/storybooks/storybook/issues/2708) [[Read]](pages/addon_info_doesn_t_show_proptypes_and_description_issue_2708_storybooks_storybook_2018_06_20_17_48_8.md)
+ > 
 ### 2018-06-19 
 - [Fetch vs. Axios.js for making http requests – Jason Arnold – Medium](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5) [[Read]](pages/fetch_vs_axios_js_for_making_http_requests_jason_arnold_medium_2018_06_19_10_18_11.md)
  > 
