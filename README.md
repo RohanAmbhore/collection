@@ -40,6 +40,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Choosing a GraphQL Client: Apollo vs. Relay – Codazen – Medium](https://medium.com/@codazeninc/choosing-a-graphql-client-apollo-vs-relay-9398dde5363a) [[Read]](pages/choosing_a_graphql_client_apollo_vs_relay_codazen_medium_2018_06_22_17_53_24.md)
  > 
+- [Choosing a GraphQL Client: Apollo vs. Relay](https://www.codazen.com/choosing-graphql-client-apollo-vs-relay/) [[Read]](pages/choosing_a_graphql_client_apollo_vs_relay_2018_06_22_17_53_45.md)
+ > 
 ### 2018-06-20 
 - [LocalForage: 改进的离线存储与其同类型相比较 | CTOLib码库](https://android.ctolib.com/article/compares/32018) [[Read]](pages/localforage_ctolib_2018_06_20_10_55_51.md)
  > 
