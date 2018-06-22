@@ -36,6 +36,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [How Scaphold, GraphQL, Serverless, Relay, & Apollo Work Together | Scaphold](https://scaphold.io/community/blog/scaphold-graphql-serverless-relay-apollo/) [[Read]](pages/how_scaphold_graphql_serverless_relay_apollo_work_together_scaphold_2018_06_22_17_49_29.md)
  > 
+- [Choosing a GraphQL Client: Apollo vs. Relay – Codazen – Medium](https://medium.com/@codazeninc/choosing-a-graphql-client-apollo-vs-relay-9398dde5363a) [[Read]](pages/choosing_a_graphql_client_apollo_vs_relay_codazen_medium_2018_06_22_17_50_54.md)
+ > 
 ### 2018-06-20 
 - [LocalForage: 改进的离线存储与其同类型相比较 | CTOLib码库](https://android.ctolib.com/article/compares/32018) [[Read]](pages/localforage_ctolib_2018_06_20_10_55_51.md)
  > 
