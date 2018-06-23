@@ -51,6 +51,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [The New York Times — Now On Apollo – Times Open](https://open.nytimes.com/the-new-york-times-now-on-apollo-b9a78a5038c) [[Read]](pages/the_new_york_times_now_on_apollo_times_open_2018_06_23_12_32_4.md)
  > 
+- >[Favorite] [The React.js Conference experience - an amazing uplifting event with a fantastic team and community | CodeWinds](http://codewinds.com/blog/2015-02-04-reactjs-conf.html) [[Read]](pages/the_react_js_conference_experience_an_amazing_uplifting_event_with_a_fantastic_team_and_community_codewinds_2018_06_23_12_36_48.md)
+ > 
 ### 2018-06-22 
 - [Relay vs Apollo - An unopinionated comparison of GraphQL clients for React apps | Prisma](https://www.prisma.io/blog/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534/) [[Read]](pages/relay_vs_apollo_an_unopinionated_comparison_of_graphql_clients_for_react_apps_prisma_2018_06_22_16_58_13.md)
  > 
