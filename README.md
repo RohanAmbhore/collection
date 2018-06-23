@@ -57,6 +57,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Upgrading to Relay Modern or Apollo – Scott Taylor – Medium](https://medium.com/@wonderboymusic/upgrading-to-relay-modern-or-apollo-ffa58d3a5d59) [[Read]](pages/upgrading_to_relay_modern_or_apollo_scott_taylor_medium_2018_06_23_15_53_20.md)
  > 
+- [Scott Taylor - Moving the New York Times to GraphQL - YouTube](https://www.youtube.com/watch?v=W-u-vZUSnIk&feature=youtu.be) [[Read]](pages/scott_taylor_moving_the_new_york_times_to_graphql_youtube_2018_06_23_17_19_27.md)
+ > 
 ### 2018-06-22 
 - [Relay vs Apollo - An unopinionated comparison of GraphQL clients for React apps | Prisma](https://www.prisma.io/blog/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534/) [[Read]](pages/relay_vs_apollo_an_unopinionated_comparison_of_graphql_clients_for_react_apps_prisma_2018_06_22_16_58_13.md)
  > 
