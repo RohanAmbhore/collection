@@ -29,6 +29,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-06-23 
+- [The React.js Conference experience - an amazing uplifting event with a fantastic team and community | CodeWinds](http://codewinds.com/blog/2015-02-04-reactjs-conf.html) [[Read]](pages/the_react_js_conference_experience_an_amazing_uplifting_event_with_a_fantastic_team_and_community_codewinds_2018_06_23_11_3_49.md)
+ > 
 ### 2018-06-22 
 - [Relay vs Apollo - An unopinionated comparison of GraphQL clients for React apps | Prisma](https://www.prisma.io/blog/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534/) [[Read]](pages/relay_vs_apollo_an_unopinionated_comparison_of_graphql_clients_for_react_apps_prisma_2018_06_22_16_58_13.md)
  > 
