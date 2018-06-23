@@ -35,6 +35,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [还在用 Redux，要不要试试 GraphQL 和 Apollo？](https://zhuanlan.zhihu.com/p/34238617) [[Read]](pages/redux_graphql_apollo_2018_06_23_11_12_56.md)
  > 
+- [(9 封私信 / 80 条消息)怎么评价 Facebook 的 Relay 框架？ - 知乎](https://www.zhihu.com/question/34531232/answer/230463079) [[Read]](pages/9_80_facebook_relay_2018_06_23_11_15_20.md)
+ > 
 ### 2018-06-22 
 - [Relay vs Apollo - An unopinionated comparison of GraphQL clients for React apps | Prisma](https://www.prisma.io/blog/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534/) [[Read]](pages/relay_vs_apollo_an_unopinionated_comparison_of_graphql_clients_for_react_apps_prisma_2018_06_22_16_58_13.md)
  > 
