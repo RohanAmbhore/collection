@@ -35,6 +35,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-07-08 
+- >[Favorite] [Interactive Results](https://www.stefankrause.net/js-frameworks-benchmark7/table.html) [[Read]](pages/interactive_results_2018_07_08_12_37_47.md)
+ > 
 ### 2018-07-04 
 - [Profiling NodeJS applications – Eugene Obrezkov](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e) [[Read]](pages/profiling_nodejs_applications_eugene_obrezkov_2018_07_04_23_2_19.md)
  > 
