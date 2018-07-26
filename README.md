@@ -37,6 +37,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-07-26 
+- [Help: How to download a 480p video? · Issue #5102 · rg3/youtube-dl](https://github.com/rg3/youtube-dl/issues/5102) [[Read]](pages/help_how_to_download_a_480p_video_issue_5102_rg3_youtube_dl_2018_07_26_22_3_22.md)
+ > 
 ### 2018-07-15 
 - [Redis vs MongoDB](https://blog.panoply.io/redis-vs-mongodb) [[Read]](pages/redis_vs_mongodb_2018_07_15_11_50_32.md)
  > 
