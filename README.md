@@ -39,6 +39,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-07-29 
+- [How To Install Python 2.7.15 on CentOS/RHEL 7/6 and Fedora 28-23](https://tecadmin.net/install-python-2-7-on-centos-rhel/) [[Read]](pages/how_to_install_python_2_7_15_on_centos_rhel_7_6_and_fedora_28_23_2018_07_29_13_37_30.md)
+ > 
 ### 2018-07-28 
 - [A Friendly Guide To Automate Deployment For Node.js Apps With Git Hooks](https://medium.com/@aunnnn/automate-digitalocean-deployment-for-node-js-with-git-and-pm2-67a3cfa7a02b) [[Read]](pages/a_friendly_guide_to_automate_deployment_for_node_js_apps_with_git_hooks_2018_07_28_10_57_56.md)
  > 
