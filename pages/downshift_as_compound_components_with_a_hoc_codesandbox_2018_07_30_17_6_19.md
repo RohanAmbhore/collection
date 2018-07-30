@@ -1,0 +1,3 @@
+<a href="https://codesandbox.io/s/017n1jqo00">https://codesandbox.io/s/017n1jqo00</a><div id="articleHeader"><h1>downshift as compound components with a HOC 🏎</h1></div><div>downshift as compound components with a HOC 🏎</div><div>This renders downshift for you and exposes components you can compose together if you'd like to avoid the render prop thing... for some reason...
+
+Also exposes a withDownshift function</div>
