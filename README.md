@@ -44,6 +44,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-07-30 
 - [Query Components with Apollo – Apollo GraphQL](https://blog.apollographql.com/query-components-with-apollo-ec603188c157) [[Read]](pages/query_components_with_apollo_apollo_graphql_2018_07_30_16_55_44.md)
  > 
+- [Render prop vs HOC usage in apollo-client · React](https://spectrum.chat/thread/d2e9ad39-f6b2-4614-ae20-3f619100bb3b) [[Read]](pages/render_prop_vs_hoc_usage_in_apollo_client_react_2018_07_30_16_59_8.md)
+ > 
 ### 2018-07-29 
 - [How To Install Python 2.7.15 on CentOS/RHEL 7/6 and Fedora 28-23](https://tecadmin.net/install-python-2-7-on-centos-rhel/) [[Read]](pages/how_to_install_python_2_7_15_on_centos_rhel_7_6_and_fedora_28_23_2018_07_29_13_37_30.md)
  > 
