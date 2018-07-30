@@ -48,6 +48,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [When to NOT use Render Props – kentcdodds](https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746) [[Read]](pages/when_to_not_use_render_props_kentcdodds_2018_07_30_16_59_28.md)
  > 
+- [downshift as compound components with a HOC 🏎 - CodeSandbox](https://codesandbox.io/s/017n1jqo00) [[Read]](pages/downshift_as_compound_components_with_a_hoc_codesandbox_2018_07_30_17_6_19.md)
+ > 
 ### 2018-07-29 
 - [How To Install Python 2.7.15 on CentOS/RHEL 7/6 and Fedora 28-23](https://tecadmin.net/install-python-2-7-on-centos-rhel/) [[Read]](pages/how_to_install_python_2_7_15_on_centos_rhel_7_6_and_fedora_28_23_2018_07_29_13_37_30.md)
  > 
