@@ -45,6 +45,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-07-31 
 - [How to access local state in own Query resolver function? · Issue #225 · apollographql/apollo-link-state](https://github.com/apollographql/apollo-link-state/issues/225) [[Read]](pages/how_to_access_local_state_in_own_query_resolver_function_issue_225_apollographql_apollo_link_state_2018_07_31_15_30_58.md)
  > 
+- [Apollo|apollo-link-state local state management | Javascript-React-Apollo-GraphQL-Ramda-Prisma](https://react-apollo.github.io/2018/03/28/Apollo%7Capollo-link-state%20local%20state%20management/) [[Read]](pages/apollo_apollo_link_state_local_state_management_javascript_react_apollo_graphql_ramda_prisma_2018_07_31_15_33_32.md)
+ > 
 ### 2018-07-30 
 - [Query Components with Apollo – Apollo GraphQL](https://blog.apollographql.com/query-components-with-apollo-ec603188c157) [[Read]](pages/query_components_with_apollo_apollo_graphql_2018_07_30_16_55_44.md)
  > 
