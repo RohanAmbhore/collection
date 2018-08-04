@@ -42,6 +42,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-04 
+- []() [[Read]](pages/2018_08_04_12_36_55.md)
+ > 
 ### 2018-07-31 
 - [How to access local state in own Query resolver function? · Issue #225 · apollographql/apollo-link-state](https://github.com/apollographql/apollo-link-state/issues/225) [[Read]](pages/how_to_access_local_state_in_own_query_resolver_function_issue_225_apollographql_apollo_link_state_2018_07_31_15_30_58.md)
  > 
