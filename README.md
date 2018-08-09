@@ -44,6 +44,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-09 
+- [In case of pagination, how can I refresh all pages? · Issue #1680 · apollographql/apollo-client](https://github.com/apollographql/apollo-client/issues/1680) [[Read]](pages/in_case_of_pagination_how_can_i_refresh_all_pages_issue_1680_apollographql_apollo_client_2018_08_09_10_15_37.md)
+ > 
 ### 2018-08-07 
 - [React Apollo Pagination tutorial does not refetch data? · Issue #177 · howtographql/howtographql](https://github.com/howtographql/howtographql/issues/177) [[Read]](pages/react_apollo_pagination_tutorial_does_not_refetch_data_issue_177_howtographql_howtographql_2018_08_07_10_47_48.md)
  > 
