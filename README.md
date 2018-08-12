@@ -47,6 +47,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-12 
+- [How to add Google's Universal Analytics tracking to a Chrome extension – David Simpson – deliver. iterate. repeat.](https://davidsimpson.me/2014/05/27/add-googles-universal-analytics-tracking-chrome-extension/) [[Read]](pages/how_to_add_google_s_universal_analytics_tracking_to_a_chrome_extension_david_simpson_deliver_iterate_repeat_2018_08_12_21_20_5.md)
+ > 
 ### 2018-08-11 
 - [pm2 start node cause static file inaccessible · Issue #1698 · Unitech/pm2](https://github.com/Unitech/pm2/issues/1698) [[Read]](pages/pm2_start_node_cause_static_file_inaccessible_issue_1698_unitech_pm2_2018_08_11_10_57_24.md)
  > 
