@@ -48,6 +48,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-13 
+- [How To Redirect www to Non-www with Nginx on CentOS 7 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-redirect-www-to-non-www-with-nginx-on-centos-7) [[Read]](pages/how_to_redirect_www_to_non_www_with_nginx_on_centos_7_digitalocean_2018_08_13_16_52_20.md)
+ > 
 ### 2018-08-12 
 - [How to add Google's Universal Analytics tracking to a Chrome extension – David Simpson – deliver. iterate. repeat.](https://davidsimpson.me/2014/05/27/add-googles-universal-analytics-tracking-chrome-extension/) [[Read]](pages/how_to_add_google_s_universal_analytics_tracking_to_a_chrome_extension_david_simpson_deliver_iterate_repeat_2018_08_12_21_20_5.md)
  > 
