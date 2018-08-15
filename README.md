@@ -54,6 +54,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-08-15 
 - [Vue.js Tutorial for beginners | Adrian Mejia Blog](https://adrianmejia.com/blog/2018/08/04/vue-js-tutorial-for-beginners-create-a-todo-app/#.W3NVkKA68SE.hackernews) [[Read]](pages/vue_js_tutorial_for_beginners_adrian_mejia_blog_2018_08_15_9_22_40.md)
  > 
+- [VSCode GitHub Markdown Theme](https://gist.github.com/BigstickCarpet/5d31c053d0b1d52389eb2723f7550907) [[Read]](pages/vscode_github_markdown_theme_2018_08_15_16_32_55.md)
+ > 
 ### 2018-08-14 
 - [Hacker News Clone Using GraphQL and React | Hacker News](https://news.ycombinator.com/item?id=15380479) [[Read]](pages/hacker_news_clone_using_graphql_and_react_hacker_news_2018_08_14_23_56_6.md)
  > 
