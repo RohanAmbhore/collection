@@ -57,6 +57,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [html - javascript copy rich text contents to clipboard - Stack Overflow](https://stackoverflow.com/questions/23934656/javascript-copy-rich-text-contents-to-clipboard) [[Read]](pages/html_javascript_copy_rich_text_contents_to_clipboard_stack_overflow_2018_08_16_17_47_1.md)
  > 
+- [javascript - window.getSelection return html - Stack Overflow](https://stackoverflow.com/questions/5222814/window-getselection-return-html) [[Read]](pages/javascript_window_getselection_return_html_stack_overflow_2018_08_16_20_7_2.md)
+ > 
 ### 2018-08-15 
 - [Vue.js Tutorial for beginners | Adrian Mejia Blog](https://adrianmejia.com/blog/2018/08/04/vue-js-tutorial-for-beginners-create-a-todo-app/#.W3NVkKA68SE.hackernews) [[Read]](pages/vue_js_tutorial_for_beginners_adrian_mejia_blog_2018_08_15_9_22_40.md)
  > 
