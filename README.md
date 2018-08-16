@@ -55,6 +55,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-08-16 
 - [google chrome extension - What are the differences between page action and browser action? - Stack Overflow](https://stackoverflow.com/questions/44712495/what-are-the-differences-between-page-action-and-browser-action) [[Read]](pages/google_chrome_extension_what_are_the_differences_between_page_action_and_browser_action_stack_overflow_2018_08_16_16_52_4.md)
  > 
+- [html - javascript copy rich text contents to clipboard - Stack Overflow](https://stackoverflow.com/questions/23934656/javascript-copy-rich-text-contents-to-clipboard) [[Read]](pages/html_javascript_copy_rich_text_contents_to_clipboard_stack_overflow_2018_08_16_17_47_1.md)
+ > 
 ### 2018-08-15 
 - [Vue.js Tutorial for beginners | Adrian Mejia Blog](https://adrianmejia.com/blog/2018/08/04/vue-js-tutorial-for-beginners-create-a-todo-app/#.W3NVkKA68SE.hackernews) [[Read]](pages/vue_js_tutorial_for_beginners_adrian_mejia_blog_2018_08_15_9_22_40.md)
  > 
