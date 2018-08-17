@@ -52,6 +52,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-17 
+- [Simpler usage: AsyncIterator is too complex and unintuitive · Issue #116 · apollographql/graphql-subscriptions](https://github.com/apollographql/graphql-subscriptions/issues/116) [[Read]](pages/simpler_usage_asynciterator_is_too_complex_and_unintuitive_issue_116_apollographql_graphql_subscriptions_2018_08_17_12_14_55.md)
+ > 
 ### 2018-08-16 
 - [google chrome extension - What are the differences between page action and browser action? - Stack Overflow](https://stackoverflow.com/questions/44712495/what-are-the-differences-between-page-action-and-browser-action) [[Read]](pages/google_chrome_extension_what_are_the_differences_between_page_action_and_browser_action_stack_overflow_2018_08_16_16_52_4.md)
  > 
