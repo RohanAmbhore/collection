@@ -54,6 +54,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-19 
+- [Solve Module Import Aliasing for Webpack, Jest, and VSCode](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9) [[Read]](pages/solve_module_import_aliasing_for_webpack_jest_and_vscode_2018_08_19_18_49_2.md)
+ > 
 ### 2018-08-18 
 - [Install error: Unexpected token < in JSON at position 35 · Issue #17340 · npm/npm](https://github.com/npm/npm/issues/17340) [[Read]](pages/install_error_unexpected_token_in_json_at_position_35_issue_17340_npm_npm_2018_08_18_11_15_59.md)
  > 
