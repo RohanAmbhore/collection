@@ -56,6 +56,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-21 
+- [Creating a data component with Apollo Link – Apollo GraphQL](https://blog.apollographql.com/creating-a-data-component-with-apollo-link-f0719d8193ee) [[Read]](pages/creating_a_data_component_with_apollo_link_apollo_graphql_2018_08_21_14_37_32.md)
+ > 
 ### 2018-08-20 
 - [Network error: Cannot read property 'selections' of null · Issue #172 · apollographql/apollo-link-state](https://github.com/apollographql/apollo-link-state/issues/172) [[Read]](pages/network_error_cannot_read_property_selections_of_null_issue_172_apollographql_apollo_link_state_2018_08_20_18_46_9.md)
  > 
