@@ -62,6 +62,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-08-25 
 - [Add readme explain what different from styled-components · Issue #113 · emotion-js/emotion](https://github.com/emotion-js/emotion/issues/113) [[Read]](pages/add_readme_explain_what_different_from_styled_components_issue_113_emotion_js_emotion_2018_08_25_12_25_53.md)
  > 
+- [node.js - Do I commit the package-lock.json file created by npm 5? - Stack Overflow](https://stackoverflow.com/questions/44206782/do-i-commit-the-package-lock-json-file-created-by-npm-5) [[Read]](pages/node_js_do_i_commit_the_package_lock_json_file_created_by_npm_5_stack_overflow_2018_08_25_12_58_43.md)
+ > 
 ### 2018-08-23 
 - [css - Style webkit scrollbar on certain state - Stack Overflow](https://stackoverflow.com/questions/8632410/style-webkit-scrollbar-on-certain-state) [[Read]](pages/css_style_webkit_scrollbar_on_certain_state_stack_overflow_2018_08_23_15_55_32.md)
  > 
