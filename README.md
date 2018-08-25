@@ -64,6 +64,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [node.js - Do I commit the package-lock.json file created by npm 5? - Stack Overflow](https://stackoverflow.com/questions/44206782/do-i-commit-the-package-lock-json-file-created-by-npm-5) [[Read]](pages/node_js_do_i_commit_the_package_lock_json_file_created_by_npm_5_stack_overflow_2018_08_25_12_58_43.md)
  > 
+- [Scrimba: a video format for communicating code | Hacker News](https://news.ycombinator.com/item?id=13814234) [[Read]](pages/scrimba_a_video_format_for_communicating_code_hacker_news_2018_08_25_23_16_18.md)
+ > 
 ### 2018-08-23 
 - [css - Style webkit scrollbar on certain state - Stack Overflow](https://stackoverflow.com/questions/8632410/style-webkit-scrollbar-on-certain-state) [[Read]](pages/css_style_webkit_scrollbar_on_certain_state_stack_overflow_2018_08_23_15_55_32.md)
  > 
