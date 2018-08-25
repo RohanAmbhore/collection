@@ -66,6 +66,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
  > 
 - [Scrimba: a video format for communicating code | Hacker News](https://news.ycombinator.com/item?id=13814234) [[Read]](pages/scrimba_a_video_format_for_communicating_code_hacker_news_2018_08_25_23_16_18.md)
  > 
+- [Ask HN: What's a side project you built to make money that hasn't? | Hacker News](https://news.ycombinator.com/item?id=14718089) [[Read]](pages/ask_hn_what_s_a_side_project_you_built_to_make_money_that_hasn_t_hacker_news_2018_08_25_23_16_27.md)
+ > 
 ### 2018-08-23 
 - [css - Style webkit scrollbar on certain state - Stack Overflow](https://stackoverflow.com/questions/8632410/style-webkit-scrollbar-on-certain-state) [[Read]](pages/css_style_webkit_scrollbar_on_certain_state_stack_overflow_2018_08_23_15_55_32.md)
  > 
