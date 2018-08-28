@@ -61,6 +61,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-28 
+- [appstream - E: Problem executing scripts APT Update::Post-Invoke-Success error during apt-get update - Ask Ubuntu](https://askubuntu.com/questions/943463/e-problem-executing-scripts-apt-updatepost-invoke-success-error-during-apt-ge) [[Read]](pages/appstream_e_problem_executing_scripts_apt_update_post_invoke_success_error_during_apt_get_update_ask_ubuntu_2018_08_28_17_4_51.md)
+ > 
 ### 2018-08-27 
 - [Non greedy (reluctant) regex matching in sed? - Stack Overflow](https://stackoverflow.com/questions/1103149/non-greedy-reluctant-regex-matching-in-sed) [[Read]](pages/non_greedy_reluctant_regex_matching_in_sed_stack_overflow_2018_08_27_10_29_59.md)
  > 
