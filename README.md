@@ -62,6 +62,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-08-30 
+- [Paste Image - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) [[Read]](pages/paste_image_visual_studio_marketplace_2018_08_30_14_24_4.md)
+ > 
 ### 2018-08-28 
 - [appstream - E: Problem executing scripts APT Update::Post-Invoke-Success error during apt-get update - Ask Ubuntu](https://askubuntu.com/questions/943463/e-problem-executing-scripts-apt-updatepost-invoke-success-error-during-apt-ge) [[Read]](pages/appstream_e_problem_executing_scripts_apt_update_post_invoke_success_error_during_apt_get_update_ask_ubuntu_2018_08_28_17_4_51.md)
  > 
