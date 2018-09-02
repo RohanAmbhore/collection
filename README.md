@@ -63,6 +63,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-09-02 
+- [How To Set Up vsftpd on CentOS 6 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-centos-6--2) [[Read]](pages/how_to_set_up_vsftpd_on_centos_6_digitalocean_2018_09_02_16_47_58.md)
+ > 
 ### 2018-08-30 
 - [Paste Image - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) [[Read]](pages/paste_image_visual_studio_marketplace_2018_08_30_14_24_4.md)
  > 
