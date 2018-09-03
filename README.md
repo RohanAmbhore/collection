@@ -64,6 +64,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-09-03 
+- [Speeding up my ZSH load - Carlos Alexandro Becker](https://carlosbecker.com/posts/speeding-up-zsh/) [[Read]](pages/speeding_up_my_zsh_load_carlos_alexandro_becker_2018_09_03_11_44_8.md)
+ > 
 ### 2018-09-02 
 - [How To Set Up vsftpd on CentOS 6 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-centos-6--2) [[Read]](pages/how_to_set_up_vsftpd_on_centos_6_digitalocean_2018_09_02_16_47_58.md)
  > 
