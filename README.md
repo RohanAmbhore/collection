@@ -69,6 +69,8 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### 2018-09-05 
 - [html - align-self: flex-end not moving item to bottom - Stack Overflow](https://stackoverflow.com/questions/43974824/align-self-flex-end-not-moving-item-to-bottom/43974846) [[Read]](pages/html_align_self_flex_end_not_moving_item_to_bottom_stack_overflow_2018_09_05_17_36_7.md)
  > 
+- [How true hackers write JavaScript | Hacker News](https://news.ycombinator.com/item?id=17915560) [[Read]](pages/how_true_hackers_write_javascript_hacker_news_2018_09_05_23_21_49.md)
+ > 
 ### 2018-09-03 
 - [Speeding up my ZSH load - Carlos Alexandro Becker](https://carlosbecker.com/posts/speeding-up-zsh/) [[Read]](pages/speeding_up_my_zsh_load_carlos_alexandro_becker_2018_09_03_11_44_8.md)
  > 
