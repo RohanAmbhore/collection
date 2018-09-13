@@ -66,6 +66,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-09-13 
+- [Little neat Trick to capture click outside React component](https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-react-component-5604830beb7f) [[Read]](pages/little_neat_trick_to_capture_click_outside_react_component_2018_09_13_17_56_57.md)
+ > 
 ### 2018-09-05 
 - [html - align-self: flex-end not moving item to bottom - Stack Overflow](https://stackoverflow.com/questions/43974824/align-self-flex-end-not-moving-item-to-bottom/43974846) [[Read]](pages/html_align_self_flex_end_not_moving_item_to_bottom_stack_overflow_2018_09_05_17_36_7.md)
  > 
