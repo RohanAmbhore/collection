@@ -67,6 +67,10 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### 2018-09-14 
+- [Everything You Need To Know About Alignment In Flexbox — Smashing Magazine](https://www.smashingmagazine.com/2018/08/flexbox-alignment/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) [[Read]](pages/everything_you_need_to_know_about_alignment_in_flexbox_smashing_magazine_2018_09_14_10_32_9.md)
+ > 
 ### 2018-09-13 
 - [Little neat Trick to capture click outside React component](https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-react-component-5604830beb7f) [[Read]](pages/little_neat_trick_to_capture_click_outside_react_component_2018_09_13_17_56_57.md)
  > 
